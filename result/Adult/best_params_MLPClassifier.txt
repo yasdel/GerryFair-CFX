@@ -1,1 +1,0 @@
-{'classifier__solver': 'adam', 'classifier__learning_rate': 'adaptive', 'classifier__hidden_layer_sizes': (100,), 'classifier__alpha': 0.05, 'classifier__activation': 'tanh'}
