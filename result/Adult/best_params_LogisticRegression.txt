@@ -1,1 +1,1 @@
-{'classifier__C': 1.0}
+{'classifier__solver': 'newton-cg', 'classifier__penalty': 'l2', 'classifier__C': 1}

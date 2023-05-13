@@ -1,1 +1,1 @@
-{'classifier__n_neighbors': 3}
+{'classifier__weights': 'distance', 'classifier__n_neighbors': 20, 'classifier__algorithm': 'auto'}
