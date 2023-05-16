@@ -1,0 +1,1 @@
+{'classifier__n_estimators': 800, 'classifier__max_depth': 9, 'classifier__learning_rate': 0.1, 'classifier__colsample_bytree': 0.7}

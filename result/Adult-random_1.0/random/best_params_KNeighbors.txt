@@ -1,0 +1,1 @@
+{'classifier__weights': 'distance', 'classifier__p': 2, 'classifier__n_neighbors': 30, 'classifier__leaf_size': 30, 'classifier__algorithm': 'auto'}
