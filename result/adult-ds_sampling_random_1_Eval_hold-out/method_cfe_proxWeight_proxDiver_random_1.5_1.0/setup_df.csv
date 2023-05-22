@@ -1,2 +1,0 @@
-"CFE_params [method_cfe, proximity_weight, proximity_diversity, total_CFs]","CLF_params [split_method ,n_splits, n_ittr]"
-"['random', 1.5, 1.0, 10]","['hold-out', 5, 20]"
