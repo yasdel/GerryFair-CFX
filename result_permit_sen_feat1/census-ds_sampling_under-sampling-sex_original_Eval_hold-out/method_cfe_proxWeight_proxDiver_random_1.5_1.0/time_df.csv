@@ -1,0 +1,7 @@
+Model,Time_Taken,Time_Taken_CFE
+RandomForest,,81.70642805099487
+LogisticRegression,,44.94791889190674
+MLPClassifier,,70.408038854599
+KNeighbors,,102.22401857376099
+XGBoost,,59.00355553627014
+AdaBoost,,85.837730884552

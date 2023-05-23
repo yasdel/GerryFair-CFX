@@ -1,0 +1,1042 @@
+age,wage per hour,class of worker,education,marital stat,race,sex,citizenship,detailed occupation recode,weeks worked in year,CF_user,candid,clf,Method_cfe,income,prediction
+28,0,Private,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,7,25.0,0,u0,MLPClassifier,random,0,0.0
+28,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,7,52.0,1,u0,MLPClassifier,random,1,
+28,0,Private,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,10,52.0,1,u0,MLPClassifier,random,1,
+28,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,10,25.0,1,u0,MLPClassifier,random,1,
+27,0,State government,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,38,52.0,0,u1,MLPClassifier,random,0,0.0
+27,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,1,52.0,1,u1,MLPClassifier,random,1,
+27,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,16,52.0,1,u1,MLPClassifier,random,1,
+27,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,10,52.0,1,u1,MLPClassifier,random,1,
+22,0,Private,High school graduate,Never married,White,Female,Native- Born in the United States,16,52.0,0,u2,MLPClassifier,random,0,0.0
+22,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Female,Native- Born in the United States,16,52.0,1,u2,MLPClassifier,random,1,
+22,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Female,Native- Born in the United States,16,48.0,1,u2,MLPClassifier,random,1,
+22,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,White,Female,Native- Born in the United States,16,52.0,1,u2,MLPClassifier,random,1,
+72,0,Local government,Associates degree-academic program,Divorced,Black,Female,Native- Born in the United States,8,50.0,0,u3,MLPClassifier,random,0,0.0
+72,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Divorced,Black,Female,Native- Born in the United States,17,50.0,1,u3,MLPClassifier,random,1,
+45,0,Private,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,16,52.0,0,u5,MLPClassifier,random,0,0.0
+45,0,State government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,16,52.0,1,u5,MLPClassifier,random,1,
+45,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,16,52.0,1,u5,MLPClassifier,random,1,
+45,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,16,48.0,1,u5,MLPClassifier,random,1,
+10,0,Not in universe,Children,Never married,White,Male,Native- Born in the United States,0,0.0,0,u7,MLPClassifier,random,0,0.0
+10,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,0,52.0,1,u7,MLPClassifier,random,1,
+47,0,Private,Some college but no degree,Married-civilian spouse present,Black,Male,Native- Born in the United States,35,52.0,0,u9,MLPClassifier,random,0,0.0
+47,0,Never worked,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,Black,Male,Native- Born in the United States,35,52.0,1,u9,MLPClassifier,random,1,
+47,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,Black,Male,Native- Born in the United States,34,52.0,1,u9,MLPClassifier,random,1,
+47,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,Black,Male,Native- Born in the United States,23,52.0,1,u9,MLPClassifier,random,1,
+34,0,Private,10th grade,Married-civilian spouse present,White,Female,Foreign born- Not a citizen of U S,36,52.0,0,u10,MLPClassifier,random,0,0.0
+34,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Foreign born- Not a citizen of U S,3,52.0,1,u10,MLPClassifier,random,1,
+34,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Foreign born- Not a citizen of U S,28,52.0,1,u10,MLPClassifier,random,1,
+34,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Foreign born- Not a citizen of U S,1,52.0,1,u10,MLPClassifier,random,1,
+49,0,Private,11th grade,Never married,Black,Male,Native- Born in the United States,36,0.0,0,u11,MLPClassifier,random,0,0.0
+49,0,Private,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Male,Native- Born in the United States,32,50.0,1,u11,MLPClassifier,random,1,
+49,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Male,Native- Born in the United States,10,0.0,1,u11,MLPClassifier,random,1,
+49,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Male,Native- Born in the United States,40,0.0,1,u11,MLPClassifier,random,1,
+49,0,Private,Some college but no degree,Divorced,White,Female,Native- Born in the United States,26,52.0,0,u12,MLPClassifier,random,0,0.0
+49,0,Private,Doctorate degree(PhD EdD),Divorced,White,Female,Native- Born in the United States,15,52.0,1,u12,MLPClassifier,random,1,
+49,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Female,Native- Born in the United States,34,52.0,1,u12,MLPClassifier,random,1,
+49,0,Private,Doctorate degree(PhD EdD),Divorced,White,Female,Native- Born in the United States,42,52.0,1,u12,MLPClassifier,random,1,
+23,0,Not in universe,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,52.0,0,u13,MLPClassifier,random,0,0.0
+23,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,48.0,1,u13,MLPClassifier,random,1,
+23,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,32,52.0,1,u13,MLPClassifier,random,1,
+23,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,52.0,1,u13,MLPClassifier,random,1,
+14,0,Not in universe,Children,Never married,White,Female,Native- Born in the United States,0,0.0,0,u14,MLPClassifier,random,0,0.0
+14,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Female,Native- Born in the United States,0,51.0,1,u14,MLPClassifier,random,1,
+41,0,Federal government,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,34,52.0,0,u15,MLPClassifier,random,0,0.0
+41,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,8,52.0,1,u15,MLPClassifier,random,1,
+41,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,42,52.0,1,u15,MLPClassifier,random,1,
+41,0,Federal government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,16,52.0,1,u15,MLPClassifier,random,1,
+71,0,Not in universe,High school graduate,Widowed,White,Female,Native- Born in the United States,0,0.0,0,u16,MLPClassifier,random,0,0.0
+71,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Widowed,White,Female,Native- Born in the United States,27,51.0,1,u16,MLPClassifier,random,1,
+71,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Widowed,White,Female,Native- Born in the United States,7,39.0,1,u16,MLPClassifier,random,1,
+71,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Widowed,White,Female,Native- Born in the United States,26,36.0,1,u16,MLPClassifier,random,1,
+22,0,Not in universe,9th grade,Never married,White,Male,Native- Born in the United States,0,0.0,0,u18,MLPClassifier,random,0,0.0
+22,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,0,38.0,1,u18,MLPClassifier,random,1,
+22,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,0,36.0,1,u18,MLPClassifier,random,1,
+22,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,0,37.0,1,u18,MLPClassifier,random,1,
+73,0,Not in universe,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u19,MLPClassifier,random,0,0.0
+73,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,26.0,1,u19,MLPClassifier,random,1,
+73,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,44,0.0,1,u19,MLPClassifier,random,1,
+73,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,34,0.0,1,u19,MLPClassifier,random,1,
+65,0,Not in universe,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u20,MLPClassifier,random,0,0.0
+65,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,1,u20,MLPClassifier,random,1,
+65,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,41,0.0,1,u20,MLPClassifier,random,1,
+65,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,45.0,1,u20,MLPClassifier,random,1,
+70,0,Not in universe,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u21,MLPClassifier,random,0,0.0
+70,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,10,0.0,1,u21,MLPClassifier,random,1,
+70,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,24,0.0,1,u21,MLPClassifier,random,1,
+70,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,38,0.0,1,u21,MLPClassifier,random,1,
+70,0,Private,High school graduate,Widowed,White,Female,Native- Born in the United States,26,4.0,0,u22,MLPClassifier,random,0,0.0
+70,0,Private,Doctorate degree(PhD EdD),Widowed,White,Female,Native- Born in the United States,43,41.0,1,u22,MLPClassifier,random,1,
+70,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Widowed,White,Female,Native- Born in the United States,4,37.0,1,u22,MLPClassifier,random,1,
+70,0,Private,Prof school degree (MD DDS DVM LLB JD),Widowed,White,Female,Native- Born in the United States,0,51.0,1,u22,MLPClassifier,random,1,
+48,0,Private,5th or 6th grade,Divorced,White,Female,Foreign born- Not a citizen of U S,32,52.0,0,u23,MLPClassifier,random,0,0.0
+48,0,Private,Doctorate degree(PhD EdD),Divorced,White,Female,Foreign born- Not a citizen of U S,39,52.0,1,u23,MLPClassifier,random,1,
+48,0,Private,Doctorate degree(PhD EdD),Divorced,White,Female,Foreign born- Not a citizen of U S,22,52.0,1,u23,MLPClassifier,random,1,
+48,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Female,Foreign born- Not a citizen of U S,19,52.0,1,u23,MLPClassifier,random,1,
+47,0,Not in universe,7th and 8th grade,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u24,MLPClassifier,random,0,0.0
+47,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,48.0,1,u24,MLPClassifier,random,1,
+47,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,46.0,1,u24,MLPClassifier,random,1,
+47,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,37.0,1,u24,MLPClassifier,random,1,
+47,0,Private,Some college but no degree,Married-civilian spouse present,White,Female,Native- Born in the United States,14,52.0,0,u25,MLPClassifier,random,0,0.0
+47,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,8,52.0,1,u25,MLPClassifier,random,1,
+47,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,5,52.0,1,u25,MLPClassifier,random,1,
+47,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,30,52.0,1,u25,MLPClassifier,random,1,
+12,0,Not in universe,Children,Never married,White,Male,Native- Born in the United States,0,0.0,0,u26,MLPClassifier,random,0,0.0
+12,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,0,48.0,1,u26,MLPClassifier,random,1,
+12,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,11,52.0,1,u26,MLPClassifier,random,1,
+12,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,0,42.0,1,u26,MLPClassifier,random,1,
+19,0,Not in universe,10th grade,Never married,White,Female,Native- Born in the United States,0,0.0,0,u28,MLPClassifier,random,0,0.0
+19,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Female,Native- Born in the United States,0,50.0,1,u28,MLPClassifier,random,1,
+19,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,White,Female,Native- Born in the United States,15,52.0,1,u28,MLPClassifier,random,1,
+19,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,White,Female,Native- Born in the United States,38,51.0,1,u28,MLPClassifier,random,1,
+21,0,Private,10th grade,Married-civilian spouse present,White,Female,Foreign born- Not a citizen of U S,27,10.0,0,u29,MLPClassifier,random,0,0.0
+21,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Foreign born- Not a citizen of U S,32,52.0,1,u29,MLPClassifier,random,1,
+41,550,Private,Some college but no degree,Married-civilian spouse present,White,Female,Native- Born in the United States,29,52.0,0,u31,MLPClassifier,random,0,0.0
+41,550,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,12,52.0,1,u31,MLPClassifier,random,1,
+41,550,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,13,52.0,1,u31,MLPClassifier,random,1,
+41,550,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,2,52.0,1,u31,MLPClassifier,random,1,
+18,0,Private,High school graduate,Never married,White,Male,Foreign born- Not a citizen of U S,29,52.0,0,u33,MLPClassifier,random,0,0.0
+18,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Foreign born- Not a citizen of U S,7,52.0,1,u33,MLPClassifier,random,1,
+18,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Foreign born- Not a citizen of U S,19,52.0,1,u33,MLPClassifier,random,1,
+18,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Foreign born- Not a citizen of U S,27,52.0,1,u33,MLPClassifier,random,1,
+4,0,Not in universe,Children,Never married,White,Male,Native- Born in the United States,0,0.0,0,u34,MLPClassifier,random,0,0.0
+4,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,3,34.0,1,u34,MLPClassifier,random,1,
+33,0,Private,Some college but no degree,Married-civilian spouse present,Black,Male,Native- Born abroad of American Parent(s),41,52.0,0,u36,MLPClassifier,random,0,0.0
+33,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,Black,Male,Native- Born abroad of American Parent(s),38,52.0,1,u36,MLPClassifier,random,1,
+33,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,Black,Male,Native- Born abroad of American Parent(s),26,52.0,1,u36,MLPClassifier,random,1,
+33,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,Black,Male,Native- Born abroad of American Parent(s),28,52.0,1,u36,MLPClassifier,random,1,
+28,0,Not in universe,High school graduate,Married-civilian spouse present,Black,Male,Foreign born- U S citizen by naturalization,0,52.0,0,u37,MLPClassifier,random,0,0.0
+28,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,Black,Male,Foreign born- U S citizen by naturalization,13,52.0,1,u37,MLPClassifier,random,1,
+28,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,Black,Male,Foreign born- U S citizen by naturalization,0,52.0,1,u37,MLPClassifier,random,1,
+28,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,Black,Male,Foreign born- U S citizen by naturalization,40,52.0,1,u37,MLPClassifier,random,1,
+5,0,Not in universe,Children,Never married,White,Male,Native- Born in the United States,0,0.0,0,u38,MLPClassifier,random,0,0.0
+5,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,0,26.0,1,u38,MLPClassifier,random,1,
+5,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,0,34.0,1,u38,MLPClassifier,random,1,
+5,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,0,51.0,1,u38,MLPClassifier,random,1,
+48,0,Not in universe,11th grade,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u39,MLPClassifier,random,0,0.0
+48,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,38.0,1,u39,MLPClassifier,random,1,
+48,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,35,52.0,1,u39,MLPClassifier,random,1,
+48,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,32.0,1,u39,MLPClassifier,random,1,
+18,0,Not in universe,11th grade,Never married,White,Male,Native- Born in the United States,0,0.0,0,u40,MLPClassifier,random,0,0.0
+18,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,28,42.0,1,u40,MLPClassifier,random,1,
+18,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,27,49.0,1,u40,MLPClassifier,random,1,
+18,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,35,46.0,1,u40,MLPClassifier,random,1,
+76,0,Not in universe,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u41,MLPClassifier,random,0,0.0
+76,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,1,u41,MLPClassifier,random,1,
+76,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,8,0.0,1,u41,MLPClassifier,random,1,
+76,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,13,0.0,1,u41,MLPClassifier,random,1,
+26,0,Self-employed-not incorporated,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,16,0.0,0,u42,MLPClassifier,random,0,0.0
+26,0,Private,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,16,48.0,1,u42,MLPClassifier,random,1,
+26,0,Private,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,16,52.0,1,u42,MLPClassifier,random,1,
+26,0,Private,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,16,51.0,1,u42,MLPClassifier,random,1,
+51,0,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,37,52.0,0,u43,MLPClassifier,random,0,0.0
+51,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,39,52.0,1,u43,MLPClassifier,random,1,
+51,0,Private,Associates degree-occup /vocational,Married-civilian spouse present,White,Male,Native- Born in the United States,22,52.0,1,u43,MLPClassifier,random,1,
+51,0,Private,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,23,52.0,1,u43,MLPClassifier,random,1,
+76,0,Not in universe,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u44,MLPClassifier,random,0,0.0
+76,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,2,36.0,1,u44,MLPClassifier,random,1,
+76,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,33,47.0,1,u44,MLPClassifier,random,1,
+76,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,5,40.0,1,u44,MLPClassifier,random,1,
+45,0,Private,High school graduate,Divorced,White,Female,Native- Born in the United States,27,52.0,0,u45,MLPClassifier,random,0,0.0
+45,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Female,Native- Born in the United States,24,52.0,1,u45,MLPClassifier,random,1,
+45,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Female,Native- Born in the United States,29,52.0,1,u45,MLPClassifier,random,1,
+45,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Female,Native- Born in the United States,21,52.0,1,u45,MLPClassifier,random,1,
+30,600,Private,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,36,52.0,0,u46,MLPClassifier,random,0,0.0
+30,600,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,23,52.0,1,u46,MLPClassifier,random,1,
+30,600,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,2,52.0,1,u46,MLPClassifier,random,1,
+30,600,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,24,52.0,1,u46,MLPClassifier,random,1,
+22,0,Private,Bachelors degree(BA AB BS),Never married,White,Female,Native- Born in the United States,29,24.0,0,u48,MLPClassifier,random,0,0.0
+22,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Female,Native- Born in the United States,35,35.0,1,u48,MLPClassifier,random,1,
+11,0,Not in universe,Children,Never married,White,Male,Native- Born in the United States,0,0.0,0,u49,MLPClassifier,random,0,0.0
+11,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,0,31.0,1,u49,MLPClassifier,random,1,
+11,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,0,43.0,1,u49,MLPClassifier,random,1,
+64,0,Private,5th or 6th grade,Married-civilian spouse present,White,Female,Native- Born in the United States,36,52.0,0,u50,MLPClassifier,random,0,0.0
+64,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,12,52.0,1,u50,MLPClassifier,random,1,
+64,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,43,52.0,1,u50,MLPClassifier,random,1,
+64,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,37,52.0,1,u50,MLPClassifier,random,1,
+62,0,Not in universe,High school graduate,Never married,Black,Male,Native- Born in the United States,0,0.0,0,u51,MLPClassifier,random,0,0.0
+62,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,Black,Male,Native- Born in the United States,38,0.0,1,u51,MLPClassifier,random,1,
+62,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Male,Native- Born in the United States,0,13.0,1,u51,MLPClassifier,random,1,
+62,0,Not in universe,Bachelors degree(BA AB BS),Never married,Black,Male,Native- Born in the United States,0,36.0,1,u51,MLPClassifier,random,1,
+30,440,Private,High school graduate,Divorced,White,Female,Native- Born in the United States,19,36.0,0,u52,MLPClassifier,random,0,0.0
+30,440,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Female,Native- Born in the United States,17,36.0,1,u52,MLPClassifier,random,1,
+30,440,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Female,Native- Born in the United States,18,51.0,1,u52,MLPClassifier,random,1,
+65,0,Not in universe,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u53,MLPClassifier,random,0,0.0
+65,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,47.0,1,u53,MLPClassifier,random,1,
+65,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,16,0.0,1,u53,MLPClassifier,random,1,
+65,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,1,u53,MLPClassifier,random,1,
+25,0,Private,9th grade,Never married,White,Male,Foreign born- Not a citizen of U S,26,52.0,0,u55,MLPClassifier,random,0,0.0
+25,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Foreign born- Not a citizen of U S,25,52.0,1,u55,MLPClassifier,random,1,
+25,0,Private,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Foreign born- Not a citizen of U S,0,52.0,1,u55,MLPClassifier,random,1,
+25,0,Private,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Foreign born- Not a citizen of U S,3,52.0,1,u55,MLPClassifier,random,1,
+59,0,Not in universe,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u56,MLPClassifier,random,0,0.0
+59,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,42.0,1,u56,MLPClassifier,random,1,
+59,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,51.0,1,u56,MLPClassifier,random,1,
+59,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,45.0,1,u56,MLPClassifier,random,1,
+73,0,Not in universe,High school graduate,Widowed,White,Female,Native- Born in the United States,0,0.0,0,u57,MLPClassifier,random,0,0.0
+73,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Widowed,White,Female,Native- Born in the United States,0,46.0,1,u57,MLPClassifier,random,1,
+73,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Widowed,White,Female,Native- Born in the United States,0,42.0,1,u57,MLPClassifier,random,1,
+73,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Widowed,White,Female,Native- Born in the United States,0,33.0,1,u57,MLPClassifier,random,1,
+53,0,State government,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,42,52.0,0,u58,MLPClassifier,random,0,0.0
+53,0,State government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,44,52.0,1,u58,MLPClassifier,random,1,
+53,0,State government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,43,52.0,1,u58,MLPClassifier,random,1,
+53,0,State government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,8,52.0,1,u58,MLPClassifier,random,1,
+41,0,Private,High school graduate,Divorced,Black,Male,Native- Born in the United States,22,50.0,0,u60,MLPClassifier,random,0,0.0
+41,0,Private,Prof school degree (MD DDS DVM LLB JD),Divorced,Black,Male,Native- Born in the United States,32,50.0,1,u60,MLPClassifier,random,1,
+41,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Divorced,Black,Male,Native- Born in the United States,37,50.0,1,u60,MLPClassifier,random,1,
+41,0,Private,Prof school degree (MD DDS DVM LLB JD),Divorced,Black,Male,Native- Born in the United States,27,50.0,1,u60,MLPClassifier,random,1,
+77,0,Not in universe,12th grade no diploma,Widowed,White,Female,Native- Born in the United States,0,0.0,0,u61,MLPClassifier,random,0,0.0
+77,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Widowed,White,Female,Native- Born in the United States,0,52.0,1,u61,MLPClassifier,random,1,
+77,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Widowed,White,Female,Native- Born in the United States,0,31.0,1,u61,MLPClassifier,random,1,
+77,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Widowed,White,Female,Native- Born in the United States,0,0.0,1,u61,MLPClassifier,random,1,
+13,0,Not in universe,Children,Never married,White,Male,Native- Born in the United States,0,0.0,0,u62,MLPClassifier,random,0,0.0
+13,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,0,51.0,1,u62,MLPClassifier,random,1,
+13,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,0,42.0,1,u62,MLPClassifier,random,1,
+13,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,0,42.0,1,u62,MLPClassifier,random,1,
+29,0,Private,Some college but no degree,Married-civilian spouse present,White,Female,Native- Born in the United States,30,32.0,0,u63,MLPClassifier,random,0,0.0
+29,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,6,51.0,1,u63,MLPClassifier,random,1,
+29,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,16,39.0,1,u63,MLPClassifier,random,1,
+40,0,Private,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,42,52.0,0,u67,MLPClassifier,random,0,0.0
+40,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,30,52.0,1,u67,MLPClassifier,random,1,
+40,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,31,52.0,1,u67,MLPClassifier,random,1,
+40,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,17,52.0,1,u67,MLPClassifier,random,1,
+41,0,Local government,Some college but no degree,Married-civilian spouse present,White,Female,Native- Born in the United States,28,18.0,0,u70,MLPClassifier,random,0,0.0
+41,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,28,18.0,1,u70,MLPClassifier,random,1,
+41,0,Local government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,28,34.0,1,u70,MLPClassifier,random,1,
+41,0,Not in universe,Some college but no degree,Married-civilian spouse present,White,Female,Native- Born in the United States,28,48.0,1,u70,MLPClassifier,random,1,
+73,0,Self-employed-not incorporated,7th and 8th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,43,52.0,0,u72,MLPClassifier,random,0,0.0
+73,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,5,52.0,1,u72,MLPClassifier,random,1,
+73,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,43,19.0,1,u72,MLPClassifier,random,1,
+73,0,Self-employed-not incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,29,52.0,1,u72,MLPClassifier,random,1,
+54,0,Not in universe,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u73,MLPClassifier,random,0,0.0
+54,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,48.0,1,u73,MLPClassifier,random,1,
+54,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,39.0,1,u73,MLPClassifier,random,1,
+54,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,46.0,1,u73,MLPClassifier,random,1,
+63,0,Not in universe,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u74,MLPClassifier,random,0,0.0
+63,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,33.0,1,u74,MLPClassifier,random,1,
+63,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,2,0.0,1,u74,MLPClassifier,random,1,
+63,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,32.0,1,u74,MLPClassifier,random,1,
+43,0,Local government,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,38,36.0,0,u76,MLPClassifier,random,0,0.0
+43,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,25,36.0,1,u76,MLPClassifier,random,1,
+43,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,17,36.0,1,u76,MLPClassifier,random,1,
+43,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,31,36.0,1,u76,MLPClassifier,random,1,
+23,0,Private,High school graduate,Never married,White,Male,Native- Born in the United States,34,52.0,0,u77,MLPClassifier,random,0,0.0
+23,0,Private,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,1,52.0,1,u77,MLPClassifier,random,1,
+23,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,34,52.0,1,u77,MLPClassifier,random,1,
+23,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,9,52.0,1,u77,MLPClassifier,random,1,
+41,0,Self-employed-not incorporated,Associates degree-academic program,Married-civilian spouse present,White,Male,Native- Born in the United States,34,40.0,0,u78,MLPClassifier,random,0,0.0
+41,0,Federal government,Associates degree-academic program,Married-civilian spouse present,White,Male,Native- Born in the United States,34,47.0,1,u78,MLPClassifier,random,1,
+41,0,Private,Associates degree-academic program,Married-civilian spouse present,White,Male,Native- Born in the United States,34,43.0,1,u78,MLPClassifier,random,1,
+39,0,Private,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Foreign born- U S citizen by naturalization,4,52.0,0,u79,MLPClassifier,random,0,0.0
+39,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Foreign born- U S citizen by naturalization,4,52.0,1,u79,MLPClassifier,random,1,
+39,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Foreign born- U S citizen by naturalization,4,52.0,1,u79,MLPClassifier,random,1,
+39,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Foreign born- U S citizen by naturalization,4,52.0,1,u79,MLPClassifier,random,1,
+56,0,Self-employed-incorporated,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,0,u80,MLPClassifier,random,0,0.0
+56,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,2,48.0,1,u80,MLPClassifier,random,1,
+56,0,Self-employed-incorporated,Associates degree-occup /vocational,Married-civilian spouse present,White,Male,Native- Born in the United States,29,52.0,1,u80,MLPClassifier,random,1,
+56,0,Local government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,1,u80,MLPClassifier,random,1,
+10,0,Not in universe,Children,Never married,White,Male,Native- Born in the United States,0,0.0,0,u81,MLPClassifier,random,0,0.0
+10,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,0,48.0,1,u81,MLPClassifier,random,1,
+10,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,0,44.0,1,u81,MLPClassifier,random,1,
+34,0,Private,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,34,52.0,0,u83,MLPClassifier,random,0,0.0
+34,0,Private,Associates degree-academic program,Married-civilian spouse present,White,Male,Native- Born in the United States,34,52.0,1,u83,MLPClassifier,random,1,
+34,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,34,40.0,1,u83,MLPClassifier,random,1,
+34,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,34,52.0,1,u83,MLPClassifier,random,1,
+38,0,Private,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Female,Native- Born in the United States,2,52.0,0,u85,MLPClassifier,random,0,0.0
+38,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,17,52.0,1,u85,MLPClassifier,random,1,
+38,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,28,52.0,1,u85,MLPClassifier,random,1,
+38,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,3,52.0,1,u85,MLPClassifier,random,1,
+49,0,Private,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,25,52.0,0,u86,MLPClassifier,random,0,0.0
+49,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,25,52.0,1,u86,MLPClassifier,random,1,
+49,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,16,52.0,1,u86,MLPClassifier,random,1,
+49,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,10,52.0,1,u86,MLPClassifier,random,1,
+53,0,Private,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,26,0.0,0,u87,MLPClassifier,random,0,0.0
+53,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,18,49.0,1,u87,MLPClassifier,random,1,
+53,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,33,52.0,1,u87,MLPClassifier,random,1,
+53,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,6,51.0,1,u87,MLPClassifier,random,1,
+50,0,Not in universe,9th grade,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u88,MLPClassifier,random,0,0.0
+50,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,6,27.0,1,u88,MLPClassifier,random,1,
+50,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,36,40.0,1,u88,MLPClassifier,random,1,
+50,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,50.0,1,u88,MLPClassifier,random,1,
+35,0,Not in universe,Some college but no degree,Married-civilian spouse present,White,Female,Native- Born in the United States,0,20.0,0,u90,MLPClassifier,random,0,0.0
+35,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,25,48.0,1,u90,MLPClassifier,random,1,
+35,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,36.0,1,u90,MLPClassifier,random,1,
+35,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,38,50.0,1,u90,MLPClassifier,random,1,
+43,0,Self-employed-not incorporated,Some college but no degree,Married-civilian spouse present,White,Female,Native- Born in the United States,32,52.0,0,u91,MLPClassifier,random,0,0.0
+43,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,29,52.0,1,u91,MLPClassifier,random,1,
+43,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,16,52.0,1,u91,MLPClassifier,random,1,
+43,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,19,52.0,1,u91,MLPClassifier,random,1,
+39,0,Private,High school graduate,Divorced,White,Male,Native- Born in the United States,42,52.0,0,u92,MLPClassifier,random,0,0.0
+39,0,Private,Bachelors degree(BA AB BS),Divorced,White,Male,Native- Born in the United States,8,52.0,1,u92,MLPClassifier,random,1,
+39,0,Private,Prof school degree (MD DDS DVM LLB JD),Divorced,White,Male,Native- Born in the United States,3,52.0,1,u92,MLPClassifier,random,1,
+39,0,Private,Bachelors degree(BA AB BS),Divorced,White,Male,Native- Born in the United States,23,52.0,1,u92,MLPClassifier,random,1,
+53,0,Local government,10th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,31,52.0,0,u93,MLPClassifier,random,0,0.0
+53,0,Local government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,37,52.0,1,u93,MLPClassifier,random,1,
+53,0,Local government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,40,52.0,1,u93,MLPClassifier,random,1,
+53,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,31,52.0,1,u93,MLPClassifier,random,1,
+43,0,Self-employed-not incorporated,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Female,Native- Born in the United States,3,52.0,0,u94,MLPClassifier,random,0,0.0
+43,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,24,52.0,1,u94,MLPClassifier,random,1,
+43,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,29,52.0,1,u94,MLPClassifier,random,1,
+43,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,4,52.0,1,u94,MLPClassifier,random,1,
+66,0,Not in universe,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u96,MLPClassifier,random,0,0.0
+66,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,2,0.0,1,u96,MLPClassifier,random,1,
+66,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,27,0.0,1,u96,MLPClassifier,random,1,
+66,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,22,0.0,1,u96,MLPClassifier,random,1,
+44,0,Private,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Female,Native- Born in the United States,8,30.0,0,u97,MLPClassifier,random,0,0.0
+44,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,40,42.0,1,u97,MLPClassifier,random,1,
+44,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,33,30.0,1,u97,MLPClassifier,random,1,
+44,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,29,46.0,1,u97,MLPClassifier,random,1,
+20,0,Private,Some college but no degree,Never married,Black,Male,Native- Born in the United States,31,49.0,0,u98,MLPClassifier,random,0,0.0
+20,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Never married,Black,Male,Native- Born in the United States,29,49.0,1,u98,MLPClassifier,random,1,
+20,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,Black,Male,Native- Born in the United States,12,49.0,1,u98,MLPClassifier,random,1,
+20,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Never married,Black,Male,Native- Born in the United States,40,49.0,1,u98,MLPClassifier,random,1,
+35,0,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,37,52.0,0,u101,MLPClassifier,random,0,0.0
+35,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,45,52.0,1,u101,MLPClassifier,random,1,
+35,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,25,52.0,1,u101,MLPClassifier,random,1,
+35,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,27,52.0,1,u101,MLPClassifier,random,1,
+20,0,Not in universe,Some college but no degree,Never married,White,Male,Native- Born in the United States,0,14.0,0,u103,MLPClassifier,random,0,0.0
+20,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,0,14.0,1,u103,MLPClassifier,random,1,
+20,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,0,40.0,1,u103,MLPClassifier,random,1,
+20,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,0,46.0,1,u103,MLPClassifier,random,1,
+28,0,Private,High school graduate,Never married,White,Female,Native- Born in the United States,3,52.0,0,u104,MLPClassifier,random,0,0.0
+28,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Female,Native- Born in the United States,36,52.0,1,u104,MLPClassifier,random,1,
+28,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Female,Native- Born in the United States,44,52.0,1,u104,MLPClassifier,random,1,
+28,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Female,Native- Born in the United States,25,52.0,1,u104,MLPClassifier,random,1,
+70,0,Not in universe,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u105,MLPClassifier,random,0,0.0
+70,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,51.0,1,u105,MLPClassifier,random,1,
+70,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,42.0,1,u105,MLPClassifier,random,1,
+70,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,48.0,1,u105,MLPClassifier,random,1,
+42,0,Self-employed-not incorporated,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,33,52.0,0,u108,MLPClassifier,random,0,0.0
+42,0,Self-employed-not incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,1,u108,MLPClassifier,random,1,
+42,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,33,52.0,1,u108,MLPClassifier,random,1,
+42,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,33,52.0,1,u108,MLPClassifier,random,1,
+74,0,Not in universe,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u109,MLPClassifier,random,0,0.0
+74,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,34,0.0,1,u109,MLPClassifier,random,1,
+74,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,22.0,1,u109,MLPClassifier,random,1,
+74,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,31.0,1,u109,MLPClassifier,random,1,
+8,0,Not in universe,Children,Never married,White,Male,Native- Born in the United States,0,0.0,0,u110,MLPClassifier,random,0,0.0
+8,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,10,38.0,1,u110,MLPClassifier,random,1,
+8,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,0,38.0,1,u110,MLPClassifier,random,1,
+8,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,0,48.0,1,u110,MLPClassifier,random,1,
+16,0,Not in universe,10th grade,Never married,Black,Male,Native- Born in the United States,0,0.0,0,u111,MLPClassifier,random,0,0.0
+16,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Male,Native- Born in the United States,0,39.0,1,u111,MLPClassifier,random,1,
+16,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Male,Native- Born in the United States,0,35.0,1,u111,MLPClassifier,random,1,
+16,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,Black,Male,Native- Born in the United States,0,31.0,1,u111,MLPClassifier,random,1,
+20,0,Private,High school graduate,Never married,White,Male,Native- Born in the United States,19,52.0,0,u112,MLPClassifier,random,0,0.0
+20,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,44,52.0,1,u112,MLPClassifier,random,1,
+20,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,32,52.0,1,u112,MLPClassifier,random,1,
+20,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,42,52.0,1,u112,MLPClassifier,random,1,
+35,835,Private,Some college but no degree,Married-civilian spouse present,White,Female,Native- Born in the United States,23,52.0,0,u113,MLPClassifier,random,0,0.0
+35,835,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,6,52.0,1,u113,MLPClassifier,random,1,
+49,0,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,36,52.0,0,u116,MLPClassifier,random,0,0.0
+49,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,6,52.0,1,u116,MLPClassifier,random,1,
+49,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,13,52.0,1,u116,MLPClassifier,random,1,
+49,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,28,52.0,1,u116,MLPClassifier,random,1,
+36,0,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,35,52.0,0,u117,MLPClassifier,random,0,0.0
+36,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,3,52.0,1,u117,MLPClassifier,random,1,
+36,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,42,52.0,1,u117,MLPClassifier,random,1,
+36,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,4,52.0,1,u117,MLPClassifier,random,1,
+46,0,Private,High school graduate,Divorced,White,Female,Native- Born in the United States,36,52.0,0,u118,MLPClassifier,random,0,0.0
+46,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Female,Native- Born in the United States,37,52.0,1,u118,MLPClassifier,random,1,
+46,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Female,Native- Born in the United States,24,52.0,1,u118,MLPClassifier,random,1,
+46,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Female,Native- Born in the United States,40,52.0,1,u118,MLPClassifier,random,1,
+20,0,Private,10th grade,Married-spouse absent,White,Male,Native- Born in the United States,42,52.0,0,u120,MLPClassifier,random,0,0.0
+20,0,Private,Bachelors degree(BA AB BS),Married-spouse absent,White,Male,Native- Born in the United States,23,52.0,1,u120,MLPClassifier,random,1,
+20,0,Private,Associates degree-academic program,Married-spouse absent,White,Male,Native- Born in the United States,32,52.0,1,u120,MLPClassifier,random,1,
+20,0,Private,Some college but no degree,Married-spouse absent,White,Male,Native- Born in the United States,19,52.0,1,u120,MLPClassifier,random,1,
+33,0,Self-employed-incorporated,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,17,52.0,0,u122,MLPClassifier,random,0,0.0
+33,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,17,52.0,1,u122,MLPClassifier,random,1,
+33,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,17,24.0,1,u122,MLPClassifier,random,1,
+33,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,17,19.0,1,u122,MLPClassifier,random,1,
+69,0,Not in universe,9th grade,Widowed,White,Male,Native- Born in the United States,0,0.0,0,u123,MLPClassifier,random,0,0.0
+69,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Widowed,White,Male,Native- Born in the United States,0,2.0,1,u123,MLPClassifier,random,1,
+69,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Widowed,White,Male,Native- Born in the United States,0,33.0,1,u123,MLPClassifier,random,1,
+69,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Widowed,White,Male,Native- Born in the United States,0,34.0,1,u123,MLPClassifier,random,1,
+53,1940,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,33,52.0,0,u125,MLPClassifier,random,0,0.0
+53,1940,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,36,52.0,1,u125,MLPClassifier,random,1,
+53,1940,Self-employed-not incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,33,52.0,1,u125,MLPClassifier,random,1,
+53,1940,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,27,52.0,1,u125,MLPClassifier,random,1,
+42,0,Local government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Female,Native- Born in the United States,10,52.0,0,u126,MLPClassifier,random,0,0.0
+42,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,10,52.0,1,u126,MLPClassifier,random,1,
+42,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,10,52.0,1,u126,MLPClassifier,random,1,
+42,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,10,52.0,1,u126,MLPClassifier,random,1,
+51,0,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,0,u127,MLPClassifier,random,0,0.0
+51,0,Private,Associates degree-academic program,Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,1,u127,MLPClassifier,random,1,
+51,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,21,52.0,1,u127,MLPClassifier,random,1,
+51,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,1,u127,MLPClassifier,random,1,
+39,0,State government,Bachelors degree(BA AB BS),Never married,Black,Male,Native- Born in the United States,12,52.0,0,u128,MLPClassifier,random,0,0.0
+39,0,Self-employed-not incorporated,Bachelors degree(BA AB BS),Never married,Black,Male,Native- Born in the United States,12,52.0,1,u128,MLPClassifier,random,1,
+39,0,State government,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Male,Native- Born in the United States,37,52.0,1,u128,MLPClassifier,random,1,
+39,0,Self-employed-incorporated,Bachelors degree(BA AB BS),Never married,Black,Male,Native- Born in the United States,36,52.0,1,u128,MLPClassifier,random,1,
+11,0,Not in universe,Children,Never married,White,Male,Native- Born in the United States,0,0.0,0,u129,MLPClassifier,random,0,0.0
+11,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,0,31.0,1,u129,MLPClassifier,random,1,
+11,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,0,50.0,1,u129,MLPClassifier,random,1,
+11,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,0,39.0,1,u129,MLPClassifier,random,1,
+18,0,Private,11th grade,Never married,White,Female,Native- Born in the United States,29,26.0,0,u131,MLPClassifier,random,0,0.0
+18,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,White,Female,Native- Born in the United States,16,51.0,1,u131,MLPClassifier,random,1,
+57,0,Not in universe,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u132,MLPClassifier,random,0,0.0
+57,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,49.0,1,u132,MLPClassifier,random,1,
+57,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,44.0,1,u132,MLPClassifier,random,1,
+57,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,40.0,1,u132,MLPClassifier,random,1,
+72,0,Not in universe,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u133,MLPClassifier,random,0,0.0
+72,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,2,0.0,1,u133,MLPClassifier,random,1,
+72,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,8,0.0,1,u133,MLPClassifier,random,1,
+72,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,37,0.0,1,u133,MLPClassifier,random,1,
+2,0,Not in universe,Children,Never married,Black,Male,Native- Born in the United States,0,0.0,0,u134,MLPClassifier,random,0,0.0
+2,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Male,Native- Born in the United States,30,52.0,1,u134,MLPClassifier,random,1,
+2,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Male,Native- Born in the United States,13,32.0,1,u134,MLPClassifier,random,1,
+2,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Male,Native- Born in the United States,33,48.0,1,u134,MLPClassifier,random,1,
+45,0,Private,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Female,Native- Born in the United States,12,52.0,0,u135,MLPClassifier,random,0,0.0
+45,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,12,43.0,1,u135,MLPClassifier,random,1,
+45,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,24,52.0,1,u135,MLPClassifier,random,1,
+45,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,12,44.0,1,u135,MLPClassifier,random,1,
+9,0,Not in universe,Children,Never married,White,Male,Native- Born in the United States,0,0.0,0,u136,MLPClassifier,random,0,0.0
+9,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,0,33.0,1,u136,MLPClassifier,random,1,
+9,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,17,49.0,1,u136,MLPClassifier,random,1,
+55,0,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,34,39.0,0,u137,MLPClassifier,random,0,0.0
+55,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,34,39.0,1,u137,MLPClassifier,random,1,
+55,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,34,49.0,1,u137,MLPClassifier,random,1,
+55,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,42,39.0,1,u137,MLPClassifier,random,1,
+47,0,Not in universe,High school graduate,Divorced,White,Male,Native- Born in the United States,0,0.0,0,u138,MLPClassifier,random,0,0.0
+47,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Male,Native- Born in the United States,0,33.0,1,u138,MLPClassifier,random,1,
+47,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Divorced,White,Male,Native- Born in the United States,0,52.0,1,u138,MLPClassifier,random,1,
+47,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Male,Native- Born in the United States,0,36.0,1,u138,MLPClassifier,random,1,
+23,0,Private,Associates degree-occup /vocational,Never married,White,Male,Native- Born in the United States,26,52.0,0,u140,MLPClassifier,random,0,0.0
+23,0,Federal government,Associates degree-occup /vocational,Never married,White,Male,Native- Born in the United States,37,52.0,1,u140,MLPClassifier,random,1,
+23,0,Federal government,Associates degree-occup /vocational,Never married,White,Male,Native- Born in the United States,2,52.0,1,u140,MLPClassifier,random,1,
+23,0,Private,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,8,52.0,1,u140,MLPClassifier,random,1,
+27,0,Self-employed-not incorporated,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,34,52.0,0,u141,MLPClassifier,random,0,0.0
+27,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,34,52.0,1,u141,MLPClassifier,random,1,
+27,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,8,52.0,1,u141,MLPClassifier,random,1,
+27,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,34,52.0,1,u141,MLPClassifier,random,1,
+16,0,Not in universe,9th grade,Never married,White,Female,Native- Born in the United States,0,0.0,0,u146,MLPClassifier,random,0,0.0
+16,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Female,Native- Born in the United States,0,46.0,1,u146,MLPClassifier,random,1,
+16,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Female,Native- Born in the United States,0,50.0,1,u146,MLPClassifier,random,1,
+19,435,Private,Some college but no degree,Never married,White,Male,Native- Born in the United States,31,32.0,0,u148,MLPClassifier,random,0,0.0
+19,435,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,2,20.0,1,u148,MLPClassifier,random,1,
+77,0,Not in universe,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u150,MLPClassifier,random,0,0.0
+77,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,17.0,1,u150,MLPClassifier,random,1,
+77,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,43.0,1,u150,MLPClassifier,random,1,
+77,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,47.0,1,u150,MLPClassifier,random,1,
+44,1510,Local government,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,40,52.0,0,u151,MLPClassifier,random,0,0.0
+44,1510,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,44,52.0,1,u151,MLPClassifier,random,1,
+44,1510,Federal government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,22,52.0,1,u151,MLPClassifier,random,1,
+44,1510,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,10,52.0,1,u151,MLPClassifier,random,1,
+77,0,Not in universe,High school graduate,Never married,Black,Female,Native- Born in the United States,0,0.0,0,u154,MLPClassifier,random,0,0.0
+77,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Female,Native- Born in the United States,21,0.0,1,u154,MLPClassifier,random,1,
+77,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Female,Native- Born in the United States,0,46.0,1,u154,MLPClassifier,random,1,
+77,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Never married,Black,Female,Native- Born in the United States,0,33.0,1,u154,MLPClassifier,random,1,
+45,0,Private,Associates degree-occup /vocational,Married-civilian spouse present,White,Male,Native- Born in the United States,33,52.0,0,u155,MLPClassifier,random,0,0.0
+45,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,28,52.0,1,u155,MLPClassifier,random,1,
+28,0,Private,11th grade,Never married,White,Male,Native- Born in the United States,38,52.0,0,u156,MLPClassifier,random,0,0.0
+28,0,Private,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,19,52.0,1,u156,MLPClassifier,random,1,
+28,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,31,52.0,1,u156,MLPClassifier,random,1,
+28,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,33,52.0,1,u156,MLPClassifier,random,1,
+14,0,Not in universe,Children,Never married,White,Male,Native- Born in the United States,0,0.0,0,u157,MLPClassifier,random,0,0.0
+14,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,0,52.0,1,u157,MLPClassifier,random,1,
+14,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,19,51.0,1,u157,MLPClassifier,random,1,
+14,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,5,51.0,1,u157,MLPClassifier,random,1,
+58,0,Not in universe,Some college but no degree,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u160,MLPClassifier,random,0,0.0
+58,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,39.0,1,u160,MLPClassifier,random,1,
+58,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,34.0,1,u160,MLPClassifier,random,1,
+58,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,40.0,1,u160,MLPClassifier,random,1,
+72,0,Not in universe,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u161,MLPClassifier,random,0,0.0
+72,0,Federal government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,0,40.0,1,u161,MLPClassifier,random,1,
+72,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,28.0,1,u161,MLPClassifier,random,1,
+72,0,Federal government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,0,49.0,1,u161,MLPClassifier,random,1,
+53,0,Self-employed-not incorporated,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,18,52.0,0,u162,MLPClassifier,random,0,0.0
+53,0,Self-employed-not incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,12,52.0,1,u162,MLPClassifier,random,1,
+53,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,39,52.0,1,u162,MLPClassifier,random,1,
+53,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,33,52.0,1,u162,MLPClassifier,random,1,
+64,0,Private,Associates degree-academic program,Married-civilian spouse present,White,Male,Foreign born- U S citizen by naturalization,17,52.0,0,u163,MLPClassifier,random,0,0.0
+64,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Foreign born- U S citizen by naturalization,17,52.0,1,u163,MLPClassifier,random,1,
+80,0,Not in universe,1st 2nd 3rd or 4th grade,Widowed,White,Female,Foreign born- U S citizen by naturalization,0,0.0,0,u164,MLPClassifier,random,0,0.0
+80,0,Federal government,Doctorate degree(PhD EdD),Widowed,White,Female,Foreign born- U S citizen by naturalization,42,40.0,1,u164,MLPClassifier,random,1,
+80,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Widowed,White,Female,Foreign born- U S citizen by naturalization,0,42.0,1,u164,MLPClassifier,random,1,
+80,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Widowed,White,Female,Foreign born- U S citizen by naturalization,0,50.0,1,u164,MLPClassifier,random,1,
+86,0,Not in universe,Bachelors degree(BA AB BS),Widowed,White,Male,Native- Born in the United States,0,0.0,0,u165,MLPClassifier,random,0,0.0
+86,0,Self-employed-incorporated,Bachelors degree(BA AB BS),Widowed,White,Male,Native- Born in the United States,2,0.0,1,u165,MLPClassifier,random,1,
+86,0,Federal government,Bachelors degree(BA AB BS),Widowed,White,Male,Native- Born in the United States,22,0.0,1,u165,MLPClassifier,random,1,
+86,0,Not in universe,Bachelors degree(BA AB BS),Widowed,White,Male,Native- Born in the United States,30,35.0,1,u165,MLPClassifier,random,1,
+66,0,Not in universe,7th and 8th grade,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u167,MLPClassifier,random,0,0.0
+66,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,47.0,1,u167,MLPClassifier,random,1,
+66,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,27,47.0,1,u167,MLPClassifier,random,1,
+66,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,30,48.0,1,u167,MLPClassifier,random,1,
+19,0,Private,High school graduate,Never married,White,Female,Native- Born in the United States,16,52.0,0,u168,MLPClassifier,random,0,0.0
+19,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Female,Native- Born in the United States,16,52.0,1,u168,MLPClassifier,random,1,
+19,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Female,Native- Born in the United States,16,52.0,1,u168,MLPClassifier,random,1,
+19,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Female,Native- Born in the United States,16,52.0,1,u168,MLPClassifier,random,1,
+37,0,Private,Some college but no degree,Divorced,Black,Male,Native- Born in the United States,19,52.0,0,u169,MLPClassifier,random,0,0.0
+37,0,Private,Doctorate degree(PhD EdD),Divorced,Black,Male,Native- Born in the United States,35,52.0,1,u169,MLPClassifier,random,1,
+37,0,Private,Prof school degree (MD DDS DVM LLB JD),Divorced,Black,Male,Native- Born in the United States,5,52.0,1,u169,MLPClassifier,random,1,
+37,0,Private,Prof school degree (MD DDS DVM LLB JD),Divorced,Black,Male,Native- Born in the United States,17,52.0,1,u169,MLPClassifier,random,1,
+31,0,Private,11th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,36,52.0,0,u170,MLPClassifier,random,0,0.0
+31,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,17,52.0,1,u170,MLPClassifier,random,1,
+31,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,27,52.0,1,u170,MLPClassifier,random,1,
+31,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,5,52.0,1,u170,MLPClassifier,random,1,
+32,0,Private,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,26,15.0,0,u171,MLPClassifier,random,0,0.0
+32,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,43,47.0,1,u171,MLPClassifier,random,1,
+32,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,41,47.0,1,u171,MLPClassifier,random,1,
+49,0,Not in universe,High school graduate,Divorced,White,Male,Native- Born in the United States,0,12.0,0,u172,MLPClassifier,random,0,0.0
+49,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Divorced,White,Male,Native- Born in the United States,0,48.0,1,u172,MLPClassifier,random,1,
+49,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Male,Native- Born in the United States,0,42.0,1,u172,MLPClassifier,random,1,
+49,0,Not in universe,Doctorate degree(PhD EdD),Divorced,White,Male,Native- Born in the United States,0,49.0,1,u172,MLPClassifier,random,1,
+41,0,Private,High school graduate,Never married,White,Male,Foreign born- Not a citizen of U S,39,52.0,0,u173,MLPClassifier,random,0,0.0
+41,0,Without pay,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Foreign born- Not a citizen of U S,39,52.0,1,u173,MLPClassifier,random,1,
+41,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Foreign born- Not a citizen of U S,14,52.0,1,u173,MLPClassifier,random,1,
+41,0,Private,Doctorate degree(PhD EdD),Never married,White,Male,Foreign born- Not a citizen of U S,39,52.0,1,u173,MLPClassifier,random,1,
+34,0,Private,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,41,52.0,0,u174,MLPClassifier,random,0,0.0
+34,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,27,52.0,1,u174,MLPClassifier,random,1,
+34,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,42,52.0,1,u174,MLPClassifier,random,1,
+34,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,6,52.0,1,u174,MLPClassifier,random,1,
+84,0,Not in universe,7th and 8th grade,Widowed,White,Female,Native- Born in the United States,0,0.0,0,u175,MLPClassifier,random,0,0.0
+84,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Widowed,White,Female,Native- Born in the United States,0,46.0,1,u175,MLPClassifier,random,1,
+84,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Widowed,White,Female,Native- Born in the United States,0,41.0,1,u175,MLPClassifier,random,1,
+84,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Widowed,White,Female,Native- Born in the United States,0,40.0,1,u175,MLPClassifier,random,1,
+10,0,Not in universe,Children,Never married,White,Female,Native- Born in the United States,0,0.0,0,u176,MLPClassifier,random,0,0.0
+10,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Female,Native- Born in the United States,6,51.0,1,u176,MLPClassifier,random,1,
+74,0,Not in universe,7th and 8th grade,Divorced,White,Male,Native- Born in the United States,0,0.0,0,u177,MLPClassifier,random,0,0.0
+74,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Male,Native- Born in the United States,0,29.0,1,u177,MLPClassifier,random,1,
+74,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Divorced,White,Male,Native- Born in the United States,0,48.0,1,u177,MLPClassifier,random,1,
+74,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Divorced,White,Male,Native- Born in the United States,0,42.0,1,u177,MLPClassifier,random,1,
+7,0,Not in universe,Children,Never married,Black,Male,Native- Born in the United States,0,0.0,0,u179,MLPClassifier,random,0,0.0
+7,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Male,Native- Born in the United States,0,48.0,1,u179,MLPClassifier,random,1,
+7,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Male,Native- Born in the United States,14,42.0,1,u179,MLPClassifier,random,1,
+7,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Male,Native- Born in the United States,0,48.0,1,u179,MLPClassifier,random,1,
+26,0,Private,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Female,Native- Born in the United States,4,52.0,0,u180,MLPClassifier,random,0,0.0
+26,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,10,52.0,1,u180,MLPClassifier,random,1,
+26,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,34,52.0,1,u180,MLPClassifier,random,1,
+26,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,23,52.0,1,u180,MLPClassifier,random,1,
+1,0,Not in universe,Children,Never married,White,Male,Native- Born in the United States,0,0.0,0,u181,MLPClassifier,random,0,0.0
+1,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,0,40.0,1,u181,MLPClassifier,random,1,
+1,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,33,47.0,1,u181,MLPClassifier,random,1,
+70,0,Self-employed-not incorporated,10th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,0,u182,MLPClassifier,random,0,0.0
+70,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,2,27.0,1,u182,MLPClassifier,random,1,
+70,0,Self-employed-not incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,24,52.0,1,u182,MLPClassifier,random,1,
+70,0,Federal government,Less than 1st grade,Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,1,u182,MLPClassifier,random,1,
+36,0,State government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Female,Native- Born in the United States,10,52.0,0,u183,MLPClassifier,random,0,0.0
+36,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,10,52.0,1,u183,MLPClassifier,random,1,
+36,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,10,52.0,1,u183,MLPClassifier,random,1,
+36,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,10,52.0,1,u183,MLPClassifier,random,1,
+33,0,Private,Some college but no degree,Married-civilian spouse present,Black,Male,Native- Born in the United States,3,52.0,0,u185,MLPClassifier,random,0,0.0
+33,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,Black,Male,Native- Born in the United States,9,52.0,1,u185,MLPClassifier,random,1,
+33,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,Black,Male,Native- Born in the United States,34,52.0,1,u185,MLPClassifier,random,1,
+33,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,Black,Male,Native- Born in the United States,36,52.0,1,u185,MLPClassifier,random,1,
+31,0,Not in universe,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u186,MLPClassifier,random,0,0.0
+31,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,50.0,1,u186,MLPClassifier,random,1,
+31,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,41.0,1,u186,MLPClassifier,random,1,
+31,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,50.0,1,u186,MLPClassifier,random,1,
+24,0,Self-employed-not incorporated,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,38,52.0,0,u188,MLPClassifier,random,0,0.0
+24,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,29,52.0,1,u188,MLPClassifier,random,1,
+24,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,26,52.0,1,u188,MLPClassifier,random,1,
+24,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,3,52.0,1,u188,MLPClassifier,random,1,
+27,0,Not in universe,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,0,52.0,0,u190,MLPClassifier,random,0,0.0
+27,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,36.0,1,u190,MLPClassifier,random,1,
+27,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,42,52.0,1,u190,MLPClassifier,random,1,
+27,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,37.0,1,u190,MLPClassifier,random,1,
+31,0,Private,Associates degree-occup /vocational,Never married,White,Female,Native- Born in the United States,23,52.0,0,u191,MLPClassifier,random,0,0.0
+31,0,Federal government,Doctorate degree(PhD EdD),Never married,White,Female,Native- Born in the United States,0,52.0,1,u191,MLPClassifier,random,1,
+33,0,Not in universe,High school graduate,Married-civilian spouse present,White,Female,Foreign born- Not a citizen of U S,0,0.0,0,u192,MLPClassifier,random,0,0.0
+33,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Foreign born- Not a citizen of U S,42,48.0,1,u192,MLPClassifier,random,1,
+33,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Foreign born- Not a citizen of U S,18,50.0,1,u192,MLPClassifier,random,1,
+33,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Foreign born- Not a citizen of U S,33,39.0,1,u192,MLPClassifier,random,1,
+11,0,Not in universe,Children,Never married,White,Male,Native- Born in the United States,0,0.0,0,u194,MLPClassifier,random,0,0.0
+11,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,7,51.0,1,u194,MLPClassifier,random,1,
+11,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,0,51.0,1,u194,MLPClassifier,random,1,
+11,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,0,30.0,1,u194,MLPClassifier,random,1,
+45,0,Private,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,41,47.0,0,u195,MLPClassifier,random,0,0.0
+45,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,24,47.0,1,u195,MLPClassifier,random,1,
+45,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,17,47.0,1,u195,MLPClassifier,random,1,
+45,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,25,47.0,1,u195,MLPClassifier,random,1,
+67,0,Not in universe,High school graduate,Widowed,Black,Female,Native- Born in the United States,0,0.0,0,u196,MLPClassifier,random,0,0.0
+67,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Widowed,Black,Female,Native- Born in the United States,0,46.0,1,u196,MLPClassifier,random,1,
+67,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Widowed,Black,Female,Native- Born in the United States,0,48.0,1,u196,MLPClassifier,random,1,
+67,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Widowed,Black,Female,Native- Born in the United States,31,0.0,1,u196,MLPClassifier,random,1,
+71,0,Not in universe,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u197,MLPClassifier,random,0,0.0
+71,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,38.0,1,u197,MLPClassifier,random,1,
+71,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,52.0,1,u197,MLPClassifier,random,1,
+71,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,35.0,1,u197,MLPClassifier,random,1,
+64,0,Not in universe,7th and 8th grade,Never married,White,Male,Native- Born in the United States,0,0.0,0,u199,MLPClassifier,random,0,0.0
+64,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,0,51.0,1,u199,MLPClassifier,random,1,
+64,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,23,0.0,1,u199,MLPClassifier,random,1,
+64,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,0,0.0,1,u199,MLPClassifier,random,1,
+19,0,Not in universe,High school graduate,Never married,Black,Male,Native- Born in the United States,0,32.0,0,u200,MLPClassifier,random,0,0.0
+19,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Male,Native- Born in the United States,0,32.0,1,u200,MLPClassifier,random,1,
+19,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,Black,Male,Native- Born in the United States,38,32.0,1,u200,MLPClassifier,random,1,
+19,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Never married,Black,Male,Native- Born in the United States,0,32.0,1,u200,MLPClassifier,random,1,
+77,0,Not in universe,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u202,MLPClassifier,random,0,0.0
+77,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,35,0.0,1,u202,MLPClassifier,random,1,
+77,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,1,u202,MLPClassifier,random,1,
+77,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,40,0.0,1,u202,MLPClassifier,random,1,
+31,750,Private,5th or 6th grade,Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,44,0.0,0,u203,MLPClassifier,random,0,0.0
+31,750,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,44,49.0,1,u203,MLPClassifier,random,1,
+31,750,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,44,30.0,1,u203,MLPClassifier,random,1,
+31,750,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,35,51.0,1,u203,MLPClassifier,random,1,
+39,0,Self-employed-not incorporated,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,37,46.0,0,u205,MLPClassifier,random,0,0.0
+39,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,46.0,1,u205,MLPClassifier,random,1,
+39,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,36,46.0,1,u205,MLPClassifier,random,1,
+39,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,12,46.0,1,u205,MLPClassifier,random,1,
+37,0,Private,11th grade,Married-civilian spouse present,White,Female,Native- Born in the United States,26,52.0,0,u206,MLPClassifier,random,0,0.0
+37,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,14,52.0,1,u206,MLPClassifier,random,1,
+37,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,31,52.0,1,u206,MLPClassifier,random,1,
+37,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,19,52.0,1,u206,MLPClassifier,random,1,
+14,0,Not in universe,Children,Never married,White,Female,Native- Born in the United States,0,0.0,0,u207,MLPClassifier,random,0,0.0
+14,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Female,Native- Born in the United States,0,49.0,1,u207,MLPClassifier,random,1,
+14,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Female,Native- Born in the United States,13,52.0,1,u207,MLPClassifier,random,1,
+30,0,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,0,u208,MLPClassifier,random,0,0.0
+30,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,37,52.0,1,u208,MLPClassifier,random,1,
+30,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,2,39.0,1,u208,MLPClassifier,random,1,
+30,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,1,u208,MLPClassifier,random,1,
+33,0,Federal government,Some college but no degree,Never married,White,Female,Native- Born in the United States,3,52.0,0,u209,MLPClassifier,random,0,0.0
+33,0,Federal government,Associates degree-academic program,Never married,White,Female,Native- Born in the United States,22,52.0,1,u209,MLPClassifier,random,1,
+33,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Female,Native- Born in the United States,27,52.0,1,u209,MLPClassifier,random,1,
+33,0,Federal government,Associates degree-academic program,Never married,White,Female,Native- Born in the United States,6,52.0,1,u209,MLPClassifier,random,1,
+47,0,Federal government,High school graduate,Never married,Black,Female,Native- Born in the United States,25,15.0,0,u210,MLPClassifier,random,0,0.0
+47,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Female,Native- Born in the United States,19,15.0,1,u210,MLPClassifier,random,1,
+47,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Female,Native- Born in the United States,42,15.0,1,u210,MLPClassifier,random,1,
+47,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Female,Native- Born in the United States,9,15.0,1,u210,MLPClassifier,random,1,
+37,0,Self-employed-not incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,Black,Male,Foreign born- Not a citizen of U S,19,52.0,0,u211,MLPClassifier,random,0,0.0
+37,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,Black,Male,Foreign born- Not a citizen of U S,37,52.0,1,u211,MLPClassifier,random,1,
+37,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,Black,Male,Foreign born- Not a citizen of U S,42,52.0,1,u211,MLPClassifier,random,1,
+37,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,Black,Male,Foreign born- Not a citizen of U S,9,52.0,1,u211,MLPClassifier,random,1,
+40,0,Not in universe,11th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u212,MLPClassifier,random,0,0.0
+40,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,45.0,1,u212,MLPClassifier,random,1,
+40,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,20.0,1,u212,MLPClassifier,random,1,
+40,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,48.0,1,u212,MLPClassifier,random,1,
+24,0,Private,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,33,52.0,0,u213,MLPClassifier,random,0,0.0
+24,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,4,52.0,1,u213,MLPClassifier,random,1,
+24,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,13,52.0,1,u213,MLPClassifier,random,1,
+24,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,33,52.0,1,u213,MLPClassifier,random,1,
+27,0,Not in universe,Associates degree-occup /vocational,Never married,White,Female,Native- Born in the United States,0,41.0,0,u215,MLPClassifier,random,0,0.0
+27,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,White,Female,Native- Born in the United States,38,41.0,1,u215,MLPClassifier,random,1,
+63,0,Self-employed-incorporated,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,24,52.0,0,u216,MLPClassifier,random,0,0.0
+63,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,16,52.0,1,u216,MLPClassifier,random,1,
+63,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,32,52.0,1,u216,MLPClassifier,random,1,
+63,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,6,52.0,1,u216,MLPClassifier,random,1,
+62,0,Not in universe,1st 2nd 3rd or 4th grade,Divorced,White,Female,Native- Born in the United States,0,0.0,0,u217,MLPClassifier,random,0,0.0
+62,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Female,Native- Born in the United States,24,40.0,1,u217,MLPClassifier,random,1,
+62,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Female,Native- Born in the United States,39,45.0,1,u217,MLPClassifier,random,1,
+62,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Female,Native- Born in the United States,16,41.0,1,u217,MLPClassifier,random,1,
+7,0,Not in universe,Children,Never married,Black,Male,Native- Born in the United States,0,0.0,0,u219,MLPClassifier,random,0,0.0
+7,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Male,Native- Born in the United States,0,46.0,1,u219,MLPClassifier,random,1,
+7,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Male,Native- Born in the United States,41,43.0,1,u219,MLPClassifier,random,1,
+7,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Male,Native- Born in the United States,34,46.0,1,u219,MLPClassifier,random,1,
+48,0,Private,High school graduate,Never married,Black,Male,Native- Born in the United States,31,52.0,0,u220,MLPClassifier,random,0,0.0
+48,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Never married,Black,Male,Native- Born in the United States,14,52.0,1,u220,MLPClassifier,random,1,
+48,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Never married,Black,Male,Native- Born in the United States,45,52.0,1,u220,MLPClassifier,random,1,
+48,0,Private,Doctorate degree(PhD EdD),Never married,Black,Male,Native- Born in the United States,32,52.0,1,u220,MLPClassifier,random,1,
+1,0,Not in universe,Children,Never married,Black,Male,Native- Born in the United States,0,0.0,0,u221,MLPClassifier,random,0,0.0
+1,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Male,Native- Born in the United States,14,52.0,1,u221,MLPClassifier,random,1,
+1,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Male,Native- Born in the United States,11,50.0,1,u221,MLPClassifier,random,1,
+17,0,Not in universe,11th grade,Never married,Black,Male,Native- Born in the United States,0,0.0,0,u222,MLPClassifier,random,0,0.0
+17,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,Black,Male,Native- Born in the United States,0,42.0,1,u222,MLPClassifier,random,1,
+17,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Male,Native- Born in the United States,0,36.0,1,u222,MLPClassifier,random,1,
+17,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Male,Native- Born in the United States,0,51.0,1,u222,MLPClassifier,random,1,
+35,0,Private,High school graduate,Married-spouse absent,White,Male,Foreign born- Not a citizen of U S,42,52.0,0,u224,MLPClassifier,random,0,0.0
+35,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-spouse absent,White,Male,Foreign born- Not a citizen of U S,42,52.0,1,u224,MLPClassifier,random,1,
+35,0,Private,High school graduate,Married-spouse absent,White,Male,Foreign born- Not a citizen of U S,19,52.0,1,u224,MLPClassifier,random,1,
+35,0,Private,Doctorate degree(PhD EdD),Married-spouse absent,White,Male,Foreign born- Not a citizen of U S,9,52.0,1,u224,MLPClassifier,random,1,
+21,0,Private,11th grade,Never married,White,Male,Native- Born in the United States,41,36.0,0,u225,MLPClassifier,random,0,0.0
+21,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,16,36.0,1,u225,MLPClassifier,random,1,
+21,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,3,36.0,1,u225,MLPClassifier,random,1,
+21,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,24,36.0,1,u225,MLPClassifier,random,1,
+20,0,Never worked,11th grade,Never married,Black,Male,Native- Born in the United States,0,0.0,0,u226,MLPClassifier,random,0,0.0
+20,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Male,Native- Born in the United States,0,51.0,1,u226,MLPClassifier,random,1,
+20,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Male,Native- Born in the United States,17,17.0,1,u226,MLPClassifier,random,1,
+20,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Male,Native- Born in the United States,0,49.0,1,u226,MLPClassifier,random,1,
+40,1800,Private,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,36,50.0,0,u228,MLPClassifier,random,0,0.0
+40,1800,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,1,50.0,1,u228,MLPClassifier,random,1,
+40,1800,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,36,50.0,1,u228,MLPClassifier,random,1,
+40,1800,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,34,50.0,1,u228,MLPClassifier,random,1,
+58,0,Not in universe,1st 2nd 3rd or 4th grade,Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,0,0.0,0,u229,MLPClassifier,random,0,0.0
+58,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,33,0.0,1,u229,MLPClassifier,random,1,
+58,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,36,0.0,1,u229,MLPClassifier,random,1,
+58,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,43,0.0,1,u229,MLPClassifier,random,1,
+22,0,Private,High school graduate,Never married,White,Male,Native- Born in the United States,19,52.0,0,u230,MLPClassifier,random,0,0.0
+22,0,Private,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,5,52.0,1,u230,MLPClassifier,random,1,
+22,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,31,52.0,1,u230,MLPClassifier,random,1,
+22,0,Private,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,24,52.0,1,u230,MLPClassifier,random,1,
+80,0,Not in universe,Bachelors degree(BA AB BS),Never married,White,Male,Native- Born in the United States,0,0.0,0,u231,MLPClassifier,random,0,0.0
+80,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,7,0.0,1,u231,MLPClassifier,random,1,
+80,0,Federal government,Bachelors degree(BA AB BS),Never married,White,Male,Native- Born in the United States,29,0.0,1,u231,MLPClassifier,random,1,
+80,0,Self-employed-incorporated,Bachelors degree(BA AB BS),Never married,White,Male,Native- Born in the United States,0,46.0,1,u231,MLPClassifier,random,1,
+0,0,Not in universe,Children,Never married,White,Male,Native- Born in the United States,0,0.0,0,u232,MLPClassifier,random,0,0.0
+0,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,0,39.0,1,u232,MLPClassifier,random,1,
+82,0,Not in universe,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u233,MLPClassifier,random,0,0.0
+82,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,48.0,1,u233,MLPClassifier,random,1,
+82,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,30.0,1,u233,MLPClassifier,random,1,
+82,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,1,u233,MLPClassifier,random,1,
+49,0,Private,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,23,52.0,0,u234,MLPClassifier,random,0,0.0
+49,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,9,52.0,1,u234,MLPClassifier,random,1,
+49,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,31,52.0,1,u234,MLPClassifier,random,1,
+49,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,38,52.0,1,u234,MLPClassifier,random,1,
+1,0,Not in universe,Children,Never married,White,Male,Native- Born in the United States,0,0.0,0,u235,MLPClassifier,random,0,0.0
+1,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,0,43.0,1,u235,MLPClassifier,random,1,
+47,0,Federal government,Associates degree-academic program,Married-civilian spouse present,White,Female,Native- Born in the United States,3,52.0,0,u236,MLPClassifier,random,0,0.0
+47,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,25,52.0,1,u236,MLPClassifier,random,1,
+47,0,Federal government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,18,52.0,1,u236,MLPClassifier,random,1,
+40,0,Local government,High school graduate,Never married,White,Female,Native- Born in the United States,29,52.0,0,u237,MLPClassifier,random,0,0.0
+40,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Never married,White,Female,Native- Born in the United States,42,52.0,1,u237,MLPClassifier,random,1,
+40,0,Self-employed-not incorporated,Doctorate degree(PhD EdD),Never married,White,Female,Native- Born in the United States,9,52.0,1,u237,MLPClassifier,random,1,
+40,0,Federal government,Doctorate degree(PhD EdD),Never married,White,Female,Native- Born in the United States,35,52.0,1,u237,MLPClassifier,random,1,
+3,0,Not in universe,Children,Never married,White,Male,Native- Born in the United States,0,0.0,0,u238,MLPClassifier,random,0,0.0
+3,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,6,44.0,1,u238,MLPClassifier,random,1,
+43,0,Local government,Bachelors degree(BA AB BS),Married-civilian spouse present,Black,Male,Foreign born- Not a citizen of U S,2,38.0,0,u239,MLPClassifier,random,0,0.0
+43,0,Local government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,Black,Male,Foreign born- Not a citizen of U S,2,38.0,1,u239,MLPClassifier,random,1,
+43,0,Federal government,Bachelors degree(BA AB BS),Married-civilian spouse present,Black,Male,Foreign born- Not a citizen of U S,2,43.0,1,u239,MLPClassifier,random,1,
+43,0,Self-employed-not incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,Black,Male,Foreign born- Not a citizen of U S,2,38.0,1,u239,MLPClassifier,random,1,
+47,333,Private,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Female,Native- Born in the United States,29,12.0,0,u240,MLPClassifier,random,0,0.0
+47,333,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,13,49.0,1,u240,MLPClassifier,random,1,
+47,333,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,19,45.0,1,u240,MLPClassifier,random,1,
+47,333,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,4,50.0,1,u240,MLPClassifier,random,1,
+41,0,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,6,52.0,0,u241,MLPClassifier,random,0,0.0
+41,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,6,52.0,1,u241,MLPClassifier,random,1,
+41,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,6,30.0,1,u241,MLPClassifier,random,1,
+41,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,6,52.0,1,u241,MLPClassifier,random,1,
+46,0,Private,Some college but no degree,Divorced,White,Female,Native- Born in the United States,8,22.0,0,u243,MLPClassifier,random,0,0.0
+46,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Female,Native- Born in the United States,4,51.0,1,u243,MLPClassifier,random,1,
+46,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Female,Native- Born in the United States,28,22.0,1,u243,MLPClassifier,random,1,
+46,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Female,Native- Born in the United States,12,23.0,1,u243,MLPClassifier,random,1,
+16,0,Self-employed-incorporated,10th grade,Never married,White,Female,Native- Born in the United States,19,52.0,0,u245,MLPClassifier,random,0,0.0
+16,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Female,Native- Born in the United States,32,52.0,1,u245,MLPClassifier,random,1,
+42,0,Not in universe,10th grade,Widowed,White,Male,Native- Born in the United States,0,0.0,0,u246,MLPClassifier,random,0,0.0
+42,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Widowed,White,Male,Native- Born in the United States,0,46.0,1,u246,MLPClassifier,random,1,
+42,0,Not in universe,Doctorate degree(PhD EdD),Widowed,White,Male,Native- Born in the United States,0,41.0,1,u246,MLPClassifier,random,1,
+42,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Widowed,White,Male,Native- Born in the United States,0,12.0,1,u246,MLPClassifier,random,1,
+64,0,Private,7th and 8th grade,Married-civilian spouse present,White,Female,Foreign born- Not a citizen of U S,30,52.0,0,u248,MLPClassifier,random,0,0.0
+64,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Foreign born- Not a citizen of U S,26,52.0,1,u248,MLPClassifier,random,1,
+64,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Foreign born- Not a citizen of U S,44,52.0,1,u248,MLPClassifier,random,1,
+64,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Foreign born- Not a citizen of U S,33,52.0,1,u248,MLPClassifier,random,1,
+44,0,Not in universe,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u250,MLPClassifier,random,0,0.0
+44,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,39.0,1,u250,MLPClassifier,random,1,
+44,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,12.0,1,u250,MLPClassifier,random,1,
+44,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,36.0,1,u250,MLPClassifier,random,1,
+19,800,Private,High school graduate,Never married,White,Male,Native- Born in the United States,33,44.0,0,u251,MLPClassifier,random,0,0.0
+19,800,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,33,44.0,1,u251,MLPClassifier,random,1,
+19,800,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,33,44.0,1,u251,MLPClassifier,random,1,
+19,800,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,33,44.0,1,u251,MLPClassifier,random,1,
+10,0,Not in universe,Children,Never married,White,Male,Native- Born in the United States,0,0.0,0,u252,MLPClassifier,random,0,0.0
+10,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,0,51.0,1,u252,MLPClassifier,random,1,
+68,0,Not in universe,5th or 6th grade,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u253,MLPClassifier,random,0,0.0
+68,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,10,30.0,1,u253,MLPClassifier,random,1,
+68,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,40,49.0,1,u253,MLPClassifier,random,1,
+68,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,38,51.0,1,u253,MLPClassifier,random,1,
+3,0,Not in universe,Children,Never married,Black,Male,Native- Born in the United States,0,0.0,0,u254,MLPClassifier,random,0,0.0
+3,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Male,Native- Born in the United States,0,50.0,1,u254,MLPClassifier,random,1,
+3,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Male,Native- Born in the United States,0,48.0,1,u254,MLPClassifier,random,1,
+3,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Male,Native- Born in the United States,0,51.0,1,u254,MLPClassifier,random,1,
+18,0,Private,High school graduate,Never married,White,Male,Native- Born in the United States,40,24.0,0,u255,MLPClassifier,random,0,0.0
+18,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,24,18.0,1,u255,MLPClassifier,random,1,
+18,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,29,46.0,1,u255,MLPClassifier,random,1,
+18,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,35,24.0,1,u255,MLPClassifier,random,1,
+6,0,Not in universe,Children,Never married,White,Male,Native- Born in the United States,0,0.0,0,u256,MLPClassifier,random,0,0.0
+6,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,0,35.0,1,u256,MLPClassifier,random,1,
+72,0,Not in universe,High school graduate,Divorced,White,Female,Native- Born in the United States,0,0.0,0,u257,MLPClassifier,random,0,0.0
+72,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Female,Native- Born in the United States,1,48.0,1,u257,MLPClassifier,random,1,
+72,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Female,Native- Born in the United States,0,48.0,1,u257,MLPClassifier,random,1,
+72,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Female,Native- Born in the United States,24,49.0,1,u257,MLPClassifier,random,1,
+65,0,Not in universe,7th and 8th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u258,MLPClassifier,random,0,0.0
+65,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,36,0.0,1,u258,MLPClassifier,random,1,
+65,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,38.0,1,u258,MLPClassifier,random,1,
+65,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,1,u258,MLPClassifier,random,1,
+35,0,Not in universe,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u261,MLPClassifier,random,0,0.0
+35,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,47.0,1,u261,MLPClassifier,random,1,
+35,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,44.0,1,u261,MLPClassifier,random,1,
+35,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,46.0,1,u261,MLPClassifier,random,1,
+55,1700,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,34,52.0,0,u262,MLPClassifier,random,0,0.0
+55,1700,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,40,52.0,1,u262,MLPClassifier,random,1,
+55,1700,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,26,52.0,1,u262,MLPClassifier,random,1,
+55,1700,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,35,52.0,1,u262,MLPClassifier,random,1,
+10,0,Not in universe,Children,Never married,White,Male,Native- Born in the United States,0,0.0,0,u263,MLPClassifier,random,0,0.0
+10,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,24,42.0,1,u263,MLPClassifier,random,1,
+10,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,0,47.0,1,u263,MLPClassifier,random,1,
+10,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,39,51.0,1,u263,MLPClassifier,random,1,
+41,0,Private,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,29,52.0,0,u265,MLPClassifier,random,0,0.0
+41,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,19,52.0,1,u265,MLPClassifier,random,1,
+41,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,3,52.0,1,u265,MLPClassifier,random,1,
+41,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,2,52.0,1,u265,MLPClassifier,random,1,
+73,0,Not in universe,7th and 8th grade,Widowed,White,Female,Native- Born in the United States,0,0.0,0,u266,MLPClassifier,random,0,0.0
+73,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Widowed,White,Female,Native- Born in the United States,0,0.0,1,u266,MLPClassifier,random,1,
+73,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Widowed,White,Female,Native- Born in the United States,0,40.0,1,u266,MLPClassifier,random,1,
+73,0,Not in universe,Doctorate degree(PhD EdD),Widowed,White,Female,Native- Born in the United States,0,51.0,1,u266,MLPClassifier,random,1,
+48,0,Private,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,31,30.0,0,u267,MLPClassifier,random,0,0.0
+48,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,1,30.0,1,u267,MLPClassifier,random,1,
+48,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,41,30.0,1,u267,MLPClassifier,random,1,
+48,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,45,30.0,1,u267,MLPClassifier,random,1,
+37,850,Private,High school graduate,Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,29,52.0,0,u268,MLPClassifier,random,0,0.0
+37,850,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,32,52.0,1,u268,MLPClassifier,random,1,
+37,850,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,2,52.0,1,u268,MLPClassifier,random,1,
+37,850,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,12,52.0,1,u268,MLPClassifier,random,1,
+7,0,Not in universe,Children,Never married,White,Male,Native- Born in the United States,0,0.0,0,u269,MLPClassifier,random,0,0.0
+7,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,0,49.0,1,u269,MLPClassifier,random,1,
+51,0,State government,Doctorate degree(PhD EdD),Divorced,White,Female,Native- Born in the United States,3,52.0,0,u270,MLPClassifier,random,0,0.0
+51,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Divorced,White,Female,Native- Born in the United States,6,52.0,1,u270,MLPClassifier,random,1,
+51,0,Not in universe,Doctorate degree(PhD EdD),Divorced,White,Female,Native- Born in the United States,1,52.0,1,u270,MLPClassifier,random,1,
+51,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Divorced,White,Female,Native- Born in the United States,32,52.0,1,u270,MLPClassifier,random,1,
+34,0,Self-employed-not incorporated,Some college but no degree,Married-civilian spouse present,White,Female,Native- Born in the United States,31,36.0,0,u271,MLPClassifier,random,0,0.0
+34,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,19,36.0,1,u271,MLPClassifier,random,1,
+34,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,4,36.0,1,u271,MLPClassifier,random,1,
+34,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,13,36.0,1,u271,MLPClassifier,random,1,
+25,0,Private,High school graduate,Never married,White,Male,Native- Born in the United States,42,52.0,0,u272,MLPClassifier,random,0,0.0
+25,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,13,52.0,1,u272,MLPClassifier,random,1,
+25,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,29,52.0,1,u272,MLPClassifier,random,1,
+25,0,Private,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,16,52.0,1,u272,MLPClassifier,random,1,
+0,0,Not in universe,Children,Never married,White,Male,Native- Born in the United States,0,0.0,0,u273,MLPClassifier,random,0,0.0
+0,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,42,32.0,1,u273,MLPClassifier,random,1,
+0,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,32,38.0,1,u273,MLPClassifier,random,1,
+0,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,14,36.0,1,u273,MLPClassifier,random,1,
+32,0,Private,High school graduate,Never married,White,Female,Native- Born in Puerto Rico or U S Outlying,37,52.0,0,u274,MLPClassifier,random,0,0.0
+32,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,White,Female,Native- Born in Puerto Rico or U S Outlying,38,52.0,1,u274,MLPClassifier,random,1,
+32,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,White,Female,Native- Born in Puerto Rico or U S Outlying,11,52.0,1,u274,MLPClassifier,random,1,
+32,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,White,Female,Native- Born in Puerto Rico or U S Outlying,7,52.0,1,u274,MLPClassifier,random,1,
+37,0,State government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,9,40.0,0,u275,MLPClassifier,random,0,0.0
+37,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,42,40.0,1,u275,MLPClassifier,random,1,
+37,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,36,40.0,1,u275,MLPClassifier,random,1,
+37,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,38,40.0,1,u275,MLPClassifier,random,1,
+47,0,Private,High school graduate,Married-civilian spouse present,Black,Female,Native- Born in the United States,27,0.0,0,u276,MLPClassifier,random,0,0.0
+47,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,Black,Female,Native- Born in the United States,9,48.0,1,u276,MLPClassifier,random,1,
+47,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,Black,Female,Native- Born in the United States,15,48.0,1,u276,MLPClassifier,random,1,
+47,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,Black,Female,Native- Born in the United States,6,36.0,1,u276,MLPClassifier,random,1,
+15,0,Not in universe,7th and 8th grade,Never married,White,Male,Native- Born in the United States,0,0.0,0,u277,MLPClassifier,random,0,0.0
+15,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,16,46.0,1,u277,MLPClassifier,random,1,
+15,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,25,50.0,1,u277,MLPClassifier,random,1,
+15,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,37,51.0,1,u277,MLPClassifier,random,1,
+12,0,Not in universe,Children,Never married,Black,Male,Native- Born in the United States,0,0.0,0,u280,MLPClassifier,random,0,0.0
+12,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,Black,Male,Native- Born in the United States,0,45.0,1,u280,MLPClassifier,random,1,
+12,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,Black,Male,Native- Born in the United States,0,52.0,1,u280,MLPClassifier,random,1,
+12,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,Black,Male,Native- Born in the United States,0,41.0,1,u280,MLPClassifier,random,1,
+20,0,Private,Some college but no degree,Never married,White,Male,Native- Born in the United States,19,7.0,0,u281,MLPClassifier,random,0,0.0
+20,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,17,34.0,1,u281,MLPClassifier,random,1,
+20,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,28,21.0,1,u281,MLPClassifier,random,1,
+20,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,11,7.0,1,u281,MLPClassifier,random,1,
+34,0,Private,High school graduate,Never married,White,Male,Native- Born in the United States,33,52.0,0,u282,MLPClassifier,random,0,0.0
+34,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,33,52.0,1,u282,MLPClassifier,random,1,
+34,0,Private,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,40,52.0,1,u282,MLPClassifier,random,1,
+34,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,25,52.0,1,u282,MLPClassifier,random,1,
+67,0,Not in universe,High school graduate,Divorced,White,Male,Native- Born in the United States,0,0.0,0,u283,MLPClassifier,random,0,0.0
+67,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Divorced,White,Male,Native- Born in the United States,7,0.0,1,u283,MLPClassifier,random,1,
+67,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Male,Native- Born in the United States,4,29.0,1,u283,MLPClassifier,random,1,
+67,0,Not in universe,Bachelors degree(BA AB BS),Divorced,White,Male,Native- Born in the United States,44,44.0,1,u283,MLPClassifier,random,1,
+38,0,Private,Associates degree-occup /vocational,Divorced,Black,Female,Native- Born in the United States,8,52.0,0,u284,MLPClassifier,random,0,0.0
+38,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Divorced,Black,Female,Native- Born in the United States,31,52.0,1,u284,MLPClassifier,random,1,
+38,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Divorced,Black,Female,Native- Born in the United States,14,52.0,1,u284,MLPClassifier,random,1,
+54,0,Not in universe,9th grade,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u285,MLPClassifier,random,0,0.0
+54,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,51.0,1,u285,MLPClassifier,random,1,
+54,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,47.0,1,u285,MLPClassifier,random,1,
+54,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,52.0,1,u285,MLPClassifier,random,1,
+38,0,Private,9th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,42,44.0,0,u287,MLPClassifier,random,0,0.0
+38,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,43,44.0,1,u287,MLPClassifier,random,1,
+38,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,38,44.0,1,u287,MLPClassifier,random,1,
+38,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,6,44.0,1,u287,MLPClassifier,random,1,
+43,0,State government,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,1,52.0,0,u288,MLPClassifier,random,0,0.0
+43,0,State government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,45.0,1,u288,MLPClassifier,random,1,
+43,0,State government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,47.0,1,u288,MLPClassifier,random,1,
+43,0,State government,Associates degree-occup /vocational,Married-civilian spouse present,White,Male,Native- Born in the United States,1,51.0,1,u288,MLPClassifier,random,1,
+38,0,Not in universe,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u290,MLPClassifier,random,0,0.0
+38,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,40.0,1,u290,MLPClassifier,random,1,
+38,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,41.0,1,u290,MLPClassifier,random,1,
+38,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,25,48.0,1,u290,MLPClassifier,random,1,
+25,0,Private,10th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,33,0.0,0,u291,MLPClassifier,random,0,0.0
+25,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,33,46.0,1,u291,MLPClassifier,random,1,
+25,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,41,39.0,1,u291,MLPClassifier,random,1,
+25,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,24,50.0,1,u291,MLPClassifier,random,1,
+23,650,Private,Some college but no degree,Never married,White,Male,Native- Born in the United States,40,52.0,0,u292,MLPClassifier,random,0,0.0
+23,650,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,11,28.0,1,u292,MLPClassifier,random,1,
+23,650,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,4,46.0,1,u292,MLPClassifier,random,1,
+23,650,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,36,37.0,1,u292,MLPClassifier,random,1,
+39,0,Private,9th grade,Never married,Black,Female,Native- Born in the United States,41,52.0,0,u293,MLPClassifier,random,0,0.0
+39,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Female,Native- Born in the United States,17,52.0,1,u293,MLPClassifier,random,1,
+39,0,Federal government,Doctorate degree(PhD EdD),Never married,Black,Female,Native- Born in the United States,9,52.0,1,u293,MLPClassifier,random,1,
+39,0,Federal government,Doctorate degree(PhD EdD),Never married,Black,Female,Native- Born in the United States,15,52.0,1,u293,MLPClassifier,random,1,
+43,0,Private,Associates degree-occup /vocational,Married-civilian spouse present,White,Female,Native- Born in the United States,24,52.0,0,u295,MLPClassifier,random,0,0.0
+43,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,37,52.0,1,u295,MLPClassifier,random,1,
+43,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,3,52.0,1,u295,MLPClassifier,random,1,
+43,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,39,52.0,1,u295,MLPClassifier,random,1,
+26,0,Local government,Some college but no degree,Never married,Black,Male,Foreign born- Not a citizen of U S,26,45.0,0,u297,MLPClassifier,random,0,0.0
+26,0,Self-employed-not incorporated,Masters degree(MA MS MEng MEd MSW MBA),Never married,Black,Male,Foreign born- Not a citizen of U S,23,45.0,1,u297,MLPClassifier,random,1,
+26,0,Self-employed-not incorporated,Masters degree(MA MS MEng MEd MSW MBA),Never married,Black,Male,Foreign born- Not a citizen of U S,45,45.0,1,u297,MLPClassifier,random,1,
+26,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Never married,Black,Male,Foreign born- Not a citizen of U S,7,45.0,1,u297,MLPClassifier,random,1,
+26,0,Private,High school graduate,Never married,White,Male,Native- Born in the United States,34,52.0,0,u298,MLPClassifier,random,0,0.0
+26,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,34,52.0,1,u298,MLPClassifier,random,1,
+26,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,37,52.0,1,u298,MLPClassifier,random,1,
+26,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,10,52.0,1,u298,MLPClassifier,random,1,
+19,0,Not in universe,Some college but no degree,Never married,White,Female,Native- Born in the United States,0,10.0,0,u299,MLPClassifier,random,0,0.0
+19,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Female,Native- Born in the United States,0,51.0,1,u299,MLPClassifier,random,1,
+18,0,Private,11th grade,Never married,White,Male,Native- Born in the United States,41,52.0,0,u300,MLPClassifier,random,0,0.0
+18,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,19,52.0,1,u300,MLPClassifier,random,1,
+18,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,26,52.0,1,u300,MLPClassifier,random,1,
+18,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,1,52.0,1,u300,MLPClassifier,random,1,
+77,0,Not in universe,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u301,MLPClassifier,random,0,0.0
+77,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,1,u301,MLPClassifier,random,1,
+77,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,30,0.0,1,u301,MLPClassifier,random,1,
+77,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,1,u301,MLPClassifier,random,1,
+28,0,Private,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,0,u302,MLPClassifier,random,0,0.0
+28,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,25,52.0,1,u302,MLPClassifier,random,1,
+28,0,Federal government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,1,u302,MLPClassifier,random,1,
+28,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,4,52.0,1,u302,MLPClassifier,random,1,
+82,0,Not in universe,High school graduate,Never married,Black,Male,Native- Born in the United States,0,0.0,0,u303,MLPClassifier,random,0,0.0
+82,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,Black,Male,Native- Born in the United States,0,42.0,1,u303,MLPClassifier,random,1,
+82,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,Black,Male,Native- Born in the United States,34,0.0,1,u303,MLPClassifier,random,1,
+82,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,Black,Male,Native- Born in the United States,45,0.0,1,u303,MLPClassifier,random,1,
+89,0,Not in universe,7th and 8th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u304,MLPClassifier,random,0,0.0
+89,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,42,0.0,1,u304,MLPClassifier,random,1,
+89,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,16.0,1,u304,MLPClassifier,random,1,
+89,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,46.0,1,u304,MLPClassifier,random,1,
+62,0,Not in universe,Bachelors degree(BA AB BS),Never married,White,Female,Native- Born in the United States,0,0.0,0,u305,MLPClassifier,random,0,0.0
+62,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Female,Native- Born in the United States,27,39.0,1,u305,MLPClassifier,random,1,
+62,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Female,Native- Born in the United States,0,52.0,1,u305,MLPClassifier,random,1,
+62,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Female,Native- Born in the United States,28,0.0,1,u305,MLPClassifier,random,1,
+32,521,Private,High school graduate,Divorced,White,Female,Native- Born in the United States,19,52.0,0,u306,MLPClassifier,random,0,0.0
+32,521,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Female,Native- Born in the United States,37,52.0,1,u306,MLPClassifier,random,1,
+32,521,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Female,Native- Born in the United States,41,52.0,1,u306,MLPClassifier,random,1,
+32,521,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Female,Native- Born in the United States,11,52.0,1,u306,MLPClassifier,random,1,
+20,0,Private,Some college but no degree,Never married,White,Female,Native- Born in the United States,41,48.0,0,u308,MLPClassifier,random,0,0.0
+20,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Female,Native- Born in the United States,17,48.0,1,u308,MLPClassifier,random,1,
+20,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Female,Native- Born in the United States,39,48.0,1,u308,MLPClassifier,random,1,
+20,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Female,Native- Born in the United States,21,48.0,1,u308,MLPClassifier,random,1,
+50,0,Not in universe,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u309,MLPClassifier,random,0,0.0
+50,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,50.0,1,u309,MLPClassifier,random,1,
+50,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,44.0,1,u309,MLPClassifier,random,1,
+50,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,42.0,1,u309,MLPClassifier,random,1,
+78,0,Not in universe,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u310,MLPClassifier,random,0,0.0
+78,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,36.0,1,u310,MLPClassifier,random,1,
+78,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,37.0,1,u310,MLPClassifier,random,1,
+78,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,49.0,1,u310,MLPClassifier,random,1,
+18,0,Private,9th grade,Never married,White,Male,Native- Born in the United States,41,15.0,0,u311,MLPClassifier,random,0,0.0
+18,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,22,15.0,1,u311,MLPClassifier,random,1,
+18,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,27,26.0,1,u311,MLPClassifier,random,1,
+70,0,Not in universe,10th grade,Widowed,White,Female,Native- Born in the United States,0,0.0,0,u312,MLPClassifier,random,0,0.0
+70,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Widowed,White,Female,Native- Born in the United States,0,40.0,1,u312,MLPClassifier,random,1,
+70,0,Not in universe,Doctorate degree(PhD EdD),Widowed,White,Female,Native- Born in the United States,0,52.0,1,u312,MLPClassifier,random,1,
+70,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Widowed,White,Female,Native- Born in the United States,0,0.0,1,u312,MLPClassifier,random,1,
+40,0,Private,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,36,52.0,0,u313,MLPClassifier,random,0,0.0
+40,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,19,52.0,1,u313,MLPClassifier,random,1,
+40,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,36,52.0,1,u313,MLPClassifier,random,1,
+40,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,42,52.0,1,u313,MLPClassifier,random,1,
+48,0,Private,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Female,Native- Born in the United States,12,51.0,0,u314,MLPClassifier,random,0,0.0
+48,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,27,51.0,1,u314,MLPClassifier,random,1,
+48,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,12,51.0,1,u314,MLPClassifier,random,1,
+48,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,12,44.0,1,u314,MLPClassifier,random,1,
+32,0,Private,High school graduate,Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,26,52.0,0,u315,MLPClassifier,random,0,0.0
+32,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,5,52.0,1,u315,MLPClassifier,random,1,
+32,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,27,52.0,1,u315,MLPClassifier,random,1,
+32,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,33,52.0,1,u315,MLPClassifier,random,1,
+27,0,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,34,52.0,0,u316,MLPClassifier,random,0,0.0
+27,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,34,52.0,1,u316,MLPClassifier,random,1,
+27,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,14,52.0,1,u316,MLPClassifier,random,1,
+27,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,22,52.0,1,u316,MLPClassifier,random,1,
+54,725,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,44,52.0,0,u317,MLPClassifier,random,0,0.0
+54,725,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,4,52.0,1,u317,MLPClassifier,random,1,
+54,725,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,44,52.0,1,u317,MLPClassifier,random,1,
+54,725,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,44,41.0,1,u317,MLPClassifier,random,1,
+53,0,Not in universe,High school graduate,Divorced,White,Female,Native- Born in the United States,0,17.0,0,u319,MLPClassifier,random,0,0.0
+53,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Divorced,White,Female,Native- Born in the United States,10,50.0,1,u319,MLPClassifier,random,1,
+53,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Female,Native- Born in the United States,31,37.0,1,u319,MLPClassifier,random,1,
+53,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Female,Native- Born in the United States,0,50.0,1,u319,MLPClassifier,random,1,
+3,0,Not in universe,Children,Never married,White,Male,Native- Born in the United States,0,0.0,0,u321,MLPClassifier,random,0,0.0
+3,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,8,30.0,1,u321,MLPClassifier,random,1,
+1,0,Not in universe,Children,Never married,Black,Male,Native- Born in the United States,0,0.0,0,u322,MLPClassifier,random,0,0.0
+1,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Male,Native- Born in the United States,27,51.0,1,u322,MLPClassifier,random,1,
+55,0,Not in universe,5th or 6th grade,Married-civilian spouse present,Black,Male,Native- Born in the United States,0,0.0,0,u323,MLPClassifier,random,0,0.0
+55,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,Black,Male,Native- Born in the United States,0,40.0,1,u323,MLPClassifier,random,1,
+55,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,Black,Male,Native- Born in the United States,0,52.0,1,u323,MLPClassifier,random,1,
+55,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,Black,Male,Native- Born in the United States,0,34.0,1,u323,MLPClassifier,random,1,
+44,0,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,41,52.0,0,u324,MLPClassifier,random,0,0.0
+44,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,52.0,1,u324,MLPClassifier,random,1,
+44,0,Private,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,22,52.0,1,u324,MLPClassifier,random,1,
+44,0,Private,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,23,52.0,1,u324,MLPClassifier,random,1,
+49,0,Federal government,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,33,52.0,0,u325,MLPClassifier,random,0,0.0
+49,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,33,46.0,1,u325,MLPClassifier,random,1,
+49,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,33,4.0,1,u325,MLPClassifier,random,1,
+70,0,Private,10th grade,Married-civilian spouse present,Black,Male,Native- Born in the United States,42,2.0,0,u326,MLPClassifier,random,0,0.0
+70,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,Black,Male,Native- Born in the United States,14,16.0,1,u326,MLPClassifier,random,1,
+70,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,Black,Male,Native- Born in the United States,35,41.0,1,u326,MLPClassifier,random,1,
+70,0,Private,Bachelors degree(BA AB BS),Married-civilian spouse present,Black,Male,Native- Born in the United States,29,42.0,1,u326,MLPClassifier,random,1,
+29,0,Private,11th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,38,25.0,0,u328,MLPClassifier,random,0,0.0
+29,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,17,44.0,1,u328,MLPClassifier,random,1,
+29,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,5,41.0,1,u328,MLPClassifier,random,1,
+29,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,33,51.0,1,u328,MLPClassifier,random,1,
+41,0,Without pay,Some college but no degree,Married-civilian spouse present,White,Female,Native- Born in the United States,23,52.0,0,u329,MLPClassifier,random,0,0.0
+41,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,31,52.0,1,u329,MLPClassifier,random,1,
+41,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,17,52.0,1,u329,MLPClassifier,random,1,
+41,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,36,52.0,1,u329,MLPClassifier,random,1,
+29,0,Self-employed-not incorporated,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,32,52.0,0,u330,MLPClassifier,random,0,0.0
+29,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,40,52.0,1,u330,MLPClassifier,random,1,
+29,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,23,52.0,1,u330,MLPClassifier,random,1,
+29,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,26,52.0,1,u330,MLPClassifier,random,1,
+87,0,Not in universe,Some college but no degree,Widowed,White,Male,Native- Born in the United States,0,0.0,0,u331,MLPClassifier,random,0,0.0
+87,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Widowed,White,Male,Native- Born in the United States,24,0.0,1,u331,MLPClassifier,random,1,
+87,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Widowed,White,Male,Native- Born in the United States,0,46.0,1,u331,MLPClassifier,random,1,
+87,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Widowed,White,Male,Native- Born in the United States,15,0.0,1,u331,MLPClassifier,random,1,
+55,0,State government,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,32,52.0,0,u332,MLPClassifier,random,0,0.0
+55,0,State government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,35,52.0,1,u332,MLPClassifier,random,1,
+55,0,State government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,22,52.0,1,u332,MLPClassifier,random,1,
+55,0,State government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,34,52.0,1,u332,MLPClassifier,random,1,
+26,0,Private,10th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,38,39.0,0,u333,MLPClassifier,random,0,0.0
+26,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,17,39.0,1,u333,MLPClassifier,random,1,
+26,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,27,39.0,1,u333,MLPClassifier,random,1,
+26,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,21,39.0,1,u333,MLPClassifier,random,1,
+62,0,Private,Associates degree-occup /vocational,Divorced,White,Male,Native- Born in the United States,29,52.0,0,u334,MLPClassifier,random,0,0.0
+62,0,Private,Doctorate degree(PhD EdD),Divorced,White,Male,Native- Born in the United States,44,52.0,1,u334,MLPClassifier,random,1,
+62,0,Self-employed-not incorporated,Associates degree-occup /vocational,Divorced,White,Male,Native- Born in the United States,8,52.0,1,u334,MLPClassifier,random,1,
+40,0,Private,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Female,Native- Born in the United States,8,52.0,0,u335,MLPClassifier,random,0,0.0
+40,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,28,52.0,1,u335,MLPClassifier,random,1,
+40,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,8,52.0,1,u335,MLPClassifier,random,1,
+40,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,36,52.0,1,u335,MLPClassifier,random,1,
+51,0,Local government,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in Puerto Rico or U S Outlying,26,52.0,0,u336,MLPClassifier,random,0,0.0
+51,0,Local government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in Puerto Rico or U S Outlying,31,52.0,1,u336,MLPClassifier,random,1,
+51,0,Local government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in Puerto Rico or U S Outlying,4,52.0,1,u336,MLPClassifier,random,1,
+51,0,Local government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in Puerto Rico or U S Outlying,27,52.0,1,u336,MLPClassifier,random,1,
+46,0,Private,Some college but no degree,Married-civilian spouse present,White,Female,Native- Born in the United States,2,46.0,0,u337,MLPClassifier,random,0,0.0
+46,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,2,46.0,1,u337,MLPClassifier,random,1,
+46,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,2,46.0,1,u337,MLPClassifier,random,1,
+46,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,26,46.0,1,u337,MLPClassifier,random,1,
+17,0,Never worked,12th grade no diploma,Never married,Black,Male,Foreign born- Not a citizen of U S,0,0.0,0,u338,MLPClassifier,random,0,0.0
+17,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Male,Foreign born- Not a citizen of U S,0,47.0,1,u338,MLPClassifier,random,1,
+49,0,Self-employed-not incorporated,Associates degree-academic program,Married-civilian spouse present,White,Male,Native- Born abroad of American Parent(s),33,40.0,0,u339,MLPClassifier,random,0,0.0
+49,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born abroad of American Parent(s),30,40.0,1,u339,MLPClassifier,random,1,
+49,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born abroad of American Parent(s),33,40.0,1,u339,MLPClassifier,random,1,
+23,0,Private,Associates degree-occup /vocational,Never married,White,Male,Native- Born in the United States,37,26.0,0,u341,MLPClassifier,random,0,0.0
+23,0,Federal government,Associates degree-occup /vocational,Never married,White,Male,Native- Born in the United States,36,52.0,1,u341,MLPClassifier,random,1,
+34,0,Not in universe,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Female,Native- Born in the United States,0,17.0,0,u342,MLPClassifier,random,0,0.0
+34,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,32,52.0,1,u342,MLPClassifier,random,1,
+34,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,48.0,1,u342,MLPClassifier,random,1,
+34,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,14,49.0,1,u342,MLPClassifier,random,1,
+41,0,Not in universe,High school graduate,Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,0,0.0,0,u343,MLPClassifier,random,0,0.0
+41,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,0,32.0,1,u343,MLPClassifier,random,1,
+41,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,0,44.0,1,u343,MLPClassifier,random,1,
+41,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,0,29.0,1,u343,MLPClassifier,random,1,
+39,0,Local government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Female,Native- Born in the United States,10,52.0,0,u344,MLPClassifier,random,0,0.0
+39,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,10,52.0,1,u344,MLPClassifier,random,1,
+39,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,10,52.0,1,u344,MLPClassifier,random,1,
+39,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,10,52.0,1,u344,MLPClassifier,random,1,
+21,0,Private,Some college but no degree,Never married,White,Male,Native- Born in the United States,29,24.0,0,u345,MLPClassifier,random,0,0.0
+21,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,25,24.0,1,u345,MLPClassifier,random,1,
+21,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,36,24.0,1,u345,MLPClassifier,random,1,
+21,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,42,24.0,1,u345,MLPClassifier,random,1,
+11,0,Not in universe,Children,Never married,White,Male,Native- Born in the United States,0,0.0,0,u346,MLPClassifier,random,0,0.0
+11,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,35,52.0,1,u346,MLPClassifier,random,1,
+11,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,24,51.0,1,u346,MLPClassifier,random,1,
+11,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,0,48.0,1,u346,MLPClassifier,random,1,
+20,0,Not in universe,Some college but no degree,Never married,Black,Male,Native- Born in the United States,0,0.0,0,u347,MLPClassifier,random,0,0.0
+20,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Male,Native- Born in the United States,0,42.0,1,u347,MLPClassifier,random,1,
+20,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Male,Native- Born in the United States,0,32.0,1,u347,MLPClassifier,random,1,
+20,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Male,Native- Born in the United States,0,39.0,1,u347,MLPClassifier,random,1,
+25,0,Self-employed-incorporated,Bachelors degree(BA AB BS),Never married,White,Female,Native- Born in the United States,2,25.0,0,u348,MLPClassifier,random,0,0.0
+25,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Female,Native- Born in the United States,39,49.0,1,u348,MLPClassifier,random,1,
+25,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Female,Native- Born in the United States,12,44.0,1,u348,MLPClassifier,random,1,
+25,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,White,Female,Native- Born in the United States,2,48.0,1,u348,MLPClassifier,random,1,
+70,0,Private,7th and 8th grade,Widowed,Black,Female,Native- Born in the United States,29,52.0,0,u349,MLPClassifier,random,0,0.0
+70,0,Private,Prof school degree (MD DDS DVM LLB JD),Widowed,Black,Female,Native- Born in the United States,42,52.0,1,u349,MLPClassifier,random,1,
+70,0,Private,Bachelors degree(BA AB BS),Widowed,Black,Female,Native- Born in the United States,27,52.0,1,u349,MLPClassifier,random,1,
+70,0,Private,Doctorate degree(PhD EdD),Widowed,Black,Female,Native- Born in the United States,27,52.0,1,u349,MLPClassifier,random,1,
+73,0,Not in universe,7th and 8th grade,Widowed,Black,Female,Native- Born in the United States,0,0.0,0,u350,MLPClassifier,random,0,0.0
+73,0,Not in universe,Doctorate degree(PhD EdD),Widowed,Black,Female,Native- Born in the United States,42,43.0,1,u350,MLPClassifier,random,1,
+73,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Widowed,Black,Female,Native- Born in the United States,29,0.0,1,u350,MLPClassifier,random,1,
+73,0,Not in universe,Doctorate degree(PhD EdD),Widowed,Black,Female,Native- Born in the United States,36,52.0,1,u350,MLPClassifier,random,1,
+14,0,Not in universe,Children,Never married,Black,Male,Native- Born in the United States,0,0.0,0,u351,MLPClassifier,random,0,0.0
+14,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,Black,Male,Native- Born in the United States,0,35.0,1,u351,MLPClassifier,random,1,
+14,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,Black,Male,Native- Born in the United States,0,52.0,1,u351,MLPClassifier,random,1,
+14,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,Black,Male,Native- Born in the United States,0,50.0,1,u351,MLPClassifier,random,1,
+39,0,Private,Associates degree-academic program,Separated,White,Male,Native- Born in the United States,33,52.0,0,u352,MLPClassifier,random,0,0.0
+39,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Separated,White,Male,Native- Born in the United States,7,52.0,1,u352,MLPClassifier,random,1,

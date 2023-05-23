@@ -1,0 +1,551 @@
+age,wage per hour,class of worker,education,marital stat,race,sex,citizenship,detailed occupation recode,weeks worked in year,CF_user,candid,clf,Method_cfe,income,prediction
+28,0,Private,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,7,25.0,0,u0,KNeighbors,random,0,0.0
+28,0,Local government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,7,48.0,1,u0,KNeighbors,random,1,
+28,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,7,36.0,1,u0,KNeighbors,random,1,
+28,0,Local government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,7,47.0,1,u0,KNeighbors,random,1,
+45,0,Private,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,16,52.0,0,u5,KNeighbors,random,0,0.0
+45,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,16,52.0,1,u5,KNeighbors,random,1,
+45,0,Self-employed-not incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,16,52.0,1,u5,KNeighbors,random,1,
+45,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,16,52.0,1,u5,KNeighbors,random,1,
+47,0,Private,Some college but no degree,Married-civilian spouse present,Black,Male,Native- Born in the United States,35,52.0,0,u9,KNeighbors,random,0,0.0
+47,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,Black,Male,Native- Born in the United States,35,52.0,1,u9,KNeighbors,random,1,
+49,0,Private,11th grade,Never married,Black,Male,Native- Born in the United States,36,0.0,0,u11,KNeighbors,random,0,0.0
+49,0,Not in universe,1st 2nd 3rd or 4th grade,Never married,Black,Male,Native- Born in the United States,36,39.0,1,u11,KNeighbors,random,1,
+49,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,Black,Male,Native- Born in the United States,36,43.0,1,u11,KNeighbors,random,1,
+49,0,Private,Some college but no degree,Divorced,White,Female,Native- Born in the United States,26,52.0,0,u12,KNeighbors,random,0,0.0
+49,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Female,Native- Born in the United States,29,52.0,1,u12,KNeighbors,random,1,
+23,0,Not in universe,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,52.0,0,u13,KNeighbors,random,0,0.0
+23,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,7,52.0,1,u13,KNeighbors,random,1,
+23,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,7,52.0,1,u13,KNeighbors,random,1,
+23,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,1,u13,KNeighbors,random,1,
+41,0,Federal government,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,34,52.0,0,u15,KNeighbors,random,0,0.0
+41,0,Without pay,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,34,52.0,1,u15,KNeighbors,random,1,
+41,0,Private,Associates degree-academic program,Married-civilian spouse present,White,Male,Native- Born in the United States,34,52.0,1,u15,KNeighbors,random,1,
+41,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,7,52.0,1,u15,KNeighbors,random,1,
+22,0,Not in universe,9th grade,Never married,White,Male,Native- Born in the United States,0,0.0,0,u18,KNeighbors,random,0,0.0
+22,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,0,52.0,1,u18,KNeighbors,random,1,
+22,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,0,47.0,1,u18,KNeighbors,random,1,
+22,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,33,52.0,1,u18,KNeighbors,random,1,
+73,0,Not in universe,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u19,KNeighbors,random,0,0.0
+73,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,39.0,1,u19,KNeighbors,random,1,
+73,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,30.0,1,u19,KNeighbors,random,1,
+73,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,22.0,1,u19,KNeighbors,random,1,
+65,0,Not in universe,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u20,KNeighbors,random,0,0.0
+65,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,18.0,1,u20,KNeighbors,random,1,
+65,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,34.0,1,u20,KNeighbors,random,1,
+65,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,40.0,1,u20,KNeighbors,random,1,
+70,0,Not in universe,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u21,KNeighbors,random,0,0.0
+70,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,30.0,1,u21,KNeighbors,random,1,
+70,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,16.0,1,u21,KNeighbors,random,1,
+70,0,Federal government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,0,45.0,1,u21,KNeighbors,random,1,
+47,0,Not in universe,7th and 8th grade,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u24,KNeighbors,random,0,0.0
+47,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,48.0,1,u24,KNeighbors,random,1,
+47,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,12,49.0,1,u24,KNeighbors,random,1,
+47,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,32,46.0,1,u24,KNeighbors,random,1,
+47,0,Private,Some college but no degree,Married-civilian spouse present,White,Female,Native- Born in the United States,14,52.0,0,u25,KNeighbors,random,0,0.0
+47,0,Never worked,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,14,52.0,1,u25,KNeighbors,random,1,
+47,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,14,52.0,1,u25,KNeighbors,random,1,
+47,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,14,35.0,1,u25,KNeighbors,random,1,
+33,0,Private,Some college but no degree,Married-civilian spouse present,Black,Male,Native- Born abroad of American Parent(s),41,52.0,0,u36,KNeighbors,random,0,0.0
+33,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,Black,Male,Native- Born abroad of American Parent(s),30,52.0,1,u36,KNeighbors,random,1,
+33,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,Black,Male,Native- Born abroad of American Parent(s),34,52.0,1,u36,KNeighbors,random,1,
+28,0,Not in universe,High school graduate,Married-civilian spouse present,Black,Male,Foreign born- U S citizen by naturalization,0,52.0,0,u37,KNeighbors,random,0,0.0
+28,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,Black,Male,Foreign born- U S citizen by naturalization,13,52.0,1,u37,KNeighbors,random,1,
+28,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,Black,Male,Foreign born- U S citizen by naturalization,9,52.0,1,u37,KNeighbors,random,1,
+28,0,Not in universe,11th grade,Married-civilian spouse present,Black,Male,Foreign born- U S citizen by naturalization,0,52.0,1,u37,KNeighbors,random,1,
+48,0,Not in universe,11th grade,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u39,KNeighbors,random,0,0.0
+48,0,Never worked,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,51.0,1,u39,KNeighbors,random,1,
+48,0,State government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,52.0,1,u39,KNeighbors,random,1,
+48,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,1,51.0,1,u39,KNeighbors,random,1,
+76,0,Not in universe,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u41,KNeighbors,random,0,0.0
+76,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,26.0,1,u41,KNeighbors,random,1,
+76,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,36.0,1,u41,KNeighbors,random,1,
+76,0,Without pay,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,44.0,1,u41,KNeighbors,random,1,
+26,0,Self-employed-not incorporated,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,16,0.0,0,u42,KNeighbors,random,0,0.0
+26,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,16,48.0,1,u42,KNeighbors,random,1,
+26,0,Without pay,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,16,36.0,1,u42,KNeighbors,random,1,
+51,0,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,37,52.0,0,u43,KNeighbors,random,0,0.0
+51,0,Private,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,16,52.0,1,u43,KNeighbors,random,1,
+51,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,37,52.0,1,u43,KNeighbors,random,1,
+51,0,State government,Less than 1st grade,Married-civilian spouse present,White,Male,Native- Born in the United States,37,52.0,1,u43,KNeighbors,random,1,
+76,0,Not in universe,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u44,KNeighbors,random,0,0.0
+76,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,23,51.0,1,u44,KNeighbors,random,1,
+76,0,Never worked,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,49.0,1,u44,KNeighbors,random,1,
+45,0,Private,High school graduate,Divorced,White,Female,Native- Born in the United States,27,52.0,0,u45,KNeighbors,random,0,0.0
+45,0,Local government,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Female,Native- Born in the United States,27,52.0,1,u45,KNeighbors,random,1,
+45,0,Local government,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Female,Native- Born in the United States,8,52.0,1,u45,KNeighbors,random,1,
+45,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Female,Native- Born in the United States,27,52.0,1,u45,KNeighbors,random,1,
+64,0,Private,5th or 6th grade,Married-civilian spouse present,White,Female,Native- Born in the United States,36,52.0,0,u50,KNeighbors,random,0,0.0
+64,0,Never worked,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,19,52.0,1,u50,KNeighbors,random,1,
+64,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,39,43.0,1,u50,KNeighbors,random,1,
+64,0,State government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,36,52.0,1,u50,KNeighbors,random,1,
+62,0,Not in universe,High school graduate,Never married,Black,Male,Native- Born in the United States,0,0.0,0,u51,KNeighbors,random,0,0.0
+62,0,Not in universe,High school graduate,Never married,Black,Male,Native- Born in the United States,0,44.0,1,u51,KNeighbors,random,1,
+62,0,Not in universe,High school graduate,Never married,Black,Male,Native- Born in the United States,0,52.0,1,u51,KNeighbors,random,1,
+65,0,Not in universe,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u53,KNeighbors,random,0,0.0
+65,0,Federal government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,0,43.0,1,u53,KNeighbors,random,1,
+65,0,Not in universe,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,0,50.0,1,u53,KNeighbors,random,1,
+65,0,Not in universe,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,43,41.0,1,u53,KNeighbors,random,1,
+59,0,Not in universe,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u56,KNeighbors,random,0,0.0
+59,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,9,48.0,1,u56,KNeighbors,random,1,
+59,0,State government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,45.0,1,u56,KNeighbors,random,1,
+59,0,State government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,16,50.0,1,u56,KNeighbors,random,1,
+41,0,Private,High school graduate,Divorced,Black,Male,Native- Born in the United States,22,50.0,0,u60,KNeighbors,random,0,0.0
+41,0,Private,Bachelors degree(BA AB BS),Divorced,Black,Male,Native- Born in the United States,10,50.0,1,u60,KNeighbors,random,1,
+41,0,Without pay,Bachelors degree(BA AB BS),Divorced,Black,Male,Native- Born in the United States,22,50.0,1,u60,KNeighbors,random,1,
+41,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Divorced,Black,Male,Native- Born in the United States,2,50.0,1,u60,KNeighbors,random,1,
+73,0,Self-employed-not incorporated,7th and 8th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,43,52.0,0,u72,KNeighbors,random,0,0.0
+73,0,State government,7th and 8th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,10,52.0,1,u72,KNeighbors,random,1,
+73,0,State government,9th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,43,52.0,1,u72,KNeighbors,random,1,
+73,0,State government,1st 2nd 3rd or 4th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,43,52.0,1,u72,KNeighbors,random,1,
+54,0,Not in universe,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u73,KNeighbors,random,0,0.0
+54,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,23,42.0,1,u73,KNeighbors,random,1,
+54,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,5,39.0,1,u73,KNeighbors,random,1,
+54,0,State government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,38.0,1,u73,KNeighbors,random,1,
+63,0,Not in universe,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u74,KNeighbors,random,0,0.0
+63,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,38.0,1,u74,KNeighbors,random,1,
+63,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,26.0,1,u74,KNeighbors,random,1,
+63,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,15.0,1,u74,KNeighbors,random,1,
+43,0,Local government,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,38,36.0,0,u76,KNeighbors,random,0,0.0
+43,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,3,36.0,1,u76,KNeighbors,random,1,
+43,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,38,36.0,1,u76,KNeighbors,random,1,
+43,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,38,24.0,1,u76,KNeighbors,random,1,
+23,0,Private,High school graduate,Never married,White,Male,Native- Born in the United States,34,52.0,0,u77,KNeighbors,random,0,0.0
+23,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,29,52.0,1,u77,KNeighbors,random,1,
+23,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,0,52.0,1,u77,KNeighbors,random,1,
+41,0,Self-employed-not incorporated,Associates degree-academic program,Married-civilian spouse present,White,Male,Native- Born in the United States,34,40.0,0,u78,KNeighbors,random,0,0.0
+41,0,Private,Associates degree-academic program,Married-civilian spouse present,White,Male,Native- Born in the United States,34,46.0,1,u78,KNeighbors,random,1,
+41,0,Private,Associates degree-academic program,Married-civilian spouse present,White,Male,Native- Born in the United States,34,47.0,1,u78,KNeighbors,random,1,
+41,0,Private,Associates degree-academic program,Married-civilian spouse present,White,Male,Native- Born in the United States,34,49.0,1,u78,KNeighbors,random,1,
+39,0,Private,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Foreign born- U S citizen by naturalization,4,52.0,0,u79,KNeighbors,random,0,0.0
+39,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Foreign born- U S citizen by naturalization,4,52.0,1,u79,KNeighbors,random,1,
+39,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Foreign born- U S citizen by naturalization,4,52.0,1,u79,KNeighbors,random,1,
+39,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Foreign born- U S citizen by naturalization,4,52.0,1,u79,KNeighbors,random,1,
+34,0,Private,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,34,52.0,0,u83,KNeighbors,random,0,0.0
+34,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,13,52.0,1,u83,KNeighbors,random,1,
+34,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,5,52.0,1,u83,KNeighbors,random,1,
+34,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,4,52.0,1,u83,KNeighbors,random,1,
+38,0,Private,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Female,Native- Born in the United States,2,52.0,0,u85,KNeighbors,random,0,0.0
+38,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,2,50.0,1,u85,KNeighbors,random,1,
+38,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,2,52.0,1,u85,KNeighbors,random,1,
+49,0,Private,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,25,52.0,0,u86,KNeighbors,random,0,0.0
+49,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,25,52.0,1,u86,KNeighbors,random,1,
+49,0,Never worked,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,25,52.0,1,u86,KNeighbors,random,1,
+49,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,25,52.0,1,u86,KNeighbors,random,1,
+53,0,Private,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,26,0.0,0,u87,KNeighbors,random,0,0.0
+53,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,14,51.0,1,u87,KNeighbors,random,1,
+50,0,Not in universe,9th grade,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u88,KNeighbors,random,0,0.0
+50,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,13,50.0,1,u88,KNeighbors,random,1,
+50,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,52.0,1,u88,KNeighbors,random,1,
+50,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,26,49.0,1,u88,KNeighbors,random,1,
+43,0,Self-employed-not incorporated,Some college but no degree,Married-civilian spouse present,White,Female,Native- Born in the United States,32,52.0,0,u91,KNeighbors,random,0,0.0
+43,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,15,52.0,1,u91,KNeighbors,random,1,
+43,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,41,27.0,1,u91,KNeighbors,random,1,
+43,0,Never worked,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,19,52.0,1,u91,KNeighbors,random,1,
+39,0,Private,High school graduate,Divorced,White,Male,Native- Born in the United States,42,52.0,0,u92,KNeighbors,random,0,0.0
+39,0,State government,Bachelors degree(BA AB BS),Divorced,White,Male,Native- Born in the United States,42,52.0,1,u92,KNeighbors,random,1,
+39,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Male,Native- Born in the United States,13,52.0,1,u92,KNeighbors,random,1,
+39,0,Not in universe,Bachelors degree(BA AB BS),Divorced,White,Male,Native- Born in the United States,42,52.0,1,u92,KNeighbors,random,1,
+53,0,Local government,10th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,31,52.0,0,u93,KNeighbors,random,0,0.0
+53,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,31,52.0,1,u93,KNeighbors,random,1,
+53,0,Local government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,52.0,1,u93,KNeighbors,random,1,
+53,0,Self-employed-incorporated,10th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,31,52.0,1,u93,KNeighbors,random,1,
+43,0,Self-employed-not incorporated,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Female,Native- Born in the United States,3,52.0,0,u94,KNeighbors,random,0,0.0
+43,0,Without pay,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,43,52.0,1,u94,KNeighbors,random,1,
+43,0,Without pay,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,2,52.0,1,u94,KNeighbors,random,1,
+43,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,40,52.0,1,u94,KNeighbors,random,1,
+34,0,Private,High school graduate,Divorced,White,Male,Native- Born in the United States,28,52.0,0,u95,KNeighbors,random,0,0.0
+34,0,Local government,Bachelors degree(BA AB BS),Divorced,White,Male,Native- Born in the United States,28,52.0,1,u95,KNeighbors,random,1,
+34,0,Local government,Less than 1st grade,Divorced,White,Male,Native- Born in the United States,28,52.0,1,u95,KNeighbors,random,1,
+34,0,Local government,Associates degree-academic program,Divorced,White,Male,Native- Born in the United States,28,52.0,1,u95,KNeighbors,random,1,
+66,0,Not in universe,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u96,KNeighbors,random,0,0.0
+66,0,State government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,0,49.0,1,u96,KNeighbors,random,1,
+66,0,Without pay,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,40.0,1,u96,KNeighbors,random,1,
+44,0,Private,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Female,Native- Born in the United States,8,30.0,0,u97,KNeighbors,random,0,0.0
+44,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,22,30.0,1,u97,KNeighbors,random,1,
+35,0,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,37,52.0,0,u101,KNeighbors,random,0,0.0
+35,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,38,52.0,1,u101,KNeighbors,random,1,
+35,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,37,52.0,1,u101,KNeighbors,random,1,
+35,0,State government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,37,52.0,1,u101,KNeighbors,random,1,
+70,0,Not in universe,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u105,KNeighbors,random,0,0.0
+70,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,48.0,1,u105,KNeighbors,random,1,
+70,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,32,31.0,1,u105,KNeighbors,random,1,
+70,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,7,50.0,1,u105,KNeighbors,random,1,
+47,0,Not in universe,9th grade,Separated,White,Male,Native- Born in the United States,0,0.0,0,u107,KNeighbors,random,0,0.0
+47,0,Not in universe,Bachelors degree(BA AB BS),Separated,White,Male,Native- Born in the United States,0,39.0,1,u107,KNeighbors,random,1,
+47,0,Not in universe,Bachelors degree(BA AB BS),Separated,White,Male,Native- Born in the United States,0,34.0,1,u107,KNeighbors,random,1,
+47,0,Not in universe,Bachelors degree(BA AB BS),Separated,White,Male,Native- Born in the United States,0,42.0,1,u107,KNeighbors,random,1,
+42,0,Self-employed-not incorporated,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,33,52.0,0,u108,KNeighbors,random,0,0.0
+42,0,State government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,35,52.0,1,u108,KNeighbors,random,1,
+42,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,11,52.0,1,u108,KNeighbors,random,1,
+74,0,Not in universe,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u109,KNeighbors,random,0,0.0
+74,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,42.0,1,u109,KNeighbors,random,1,
+74,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,19.0,1,u109,KNeighbors,random,1,
+74,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,39.0,1,u109,KNeighbors,random,1,
+20,0,Private,High school graduate,Never married,White,Male,Native- Born in the United States,19,52.0,0,u112,KNeighbors,random,0,0.0
+20,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,31,52.0,1,u112,KNeighbors,random,1,
+20,0,Federal government,Associates degree-academic program,Never married,White,Male,Native- Born in the United States,10,30.0,1,u112,KNeighbors,random,1,
+49,0,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,36,52.0,0,u116,KNeighbors,random,0,0.0
+49,0,Private,5th or 6th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,22,52.0,1,u116,KNeighbors,random,1,
+49,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,22,52.0,1,u116,KNeighbors,random,1,
+36,0,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,35,52.0,0,u117,KNeighbors,random,0,0.0
+36,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,5,52.0,1,u117,KNeighbors,random,1,
+36,0,Never worked,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,35,52.0,1,u117,KNeighbors,random,1,
+36,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,35,52.0,1,u117,KNeighbors,random,1,
+20,0,Private,10th grade,Married-spouse absent,White,Male,Native- Born in the United States,42,52.0,0,u120,KNeighbors,random,0,0.0
+20,0,Private,Associates degree-academic program,Married-spouse absent,White,Male,Native- Born in the United States,21,52.0,1,u120,KNeighbors,random,1,
+20,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-spouse absent,White,Male,Native- Born in the United States,10,52.0,1,u120,KNeighbors,random,1,
+20,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-spouse absent,White,Male,Native- Born in the United States,27,52.0,1,u120,KNeighbors,random,1,
+33,0,Self-employed-incorporated,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,17,52.0,0,u122,KNeighbors,random,0,0.0
+33,0,Never worked,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,17,52.0,1,u122,KNeighbors,random,1,
+33,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,17,52.0,1,u122,KNeighbors,random,1,
+69,0,Not in universe,9th grade,Widowed,White,Male,Native- Born in the United States,0,0.0,0,u123,KNeighbors,random,0,0.0
+69,0,Never worked,Masters degree(MA MS MEng MEd MSW MBA),Widowed,White,Male,Native- Born in the United States,0,40.0,1,u123,KNeighbors,random,1,
+69,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Widowed,White,Male,Native- Born in the United States,14,48.0,1,u123,KNeighbors,random,1,
+69,0,Self-employed-not incorporated,9th grade,Widowed,White,Male,Native- Born in the United States,33,30.0,1,u123,KNeighbors,random,1,
+42,0,Local government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Female,Native- Born in the United States,10,52.0,0,u126,KNeighbors,random,0,0.0
+42,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,1,52.0,1,u126,KNeighbors,random,1,
+42,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,23,52.0,1,u126,KNeighbors,random,1,
+42,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,40,52.0,1,u126,KNeighbors,random,1,
+51,0,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,0,u127,KNeighbors,random,0,0.0
+51,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,38,52.0,1,u127,KNeighbors,random,1,
+39,0,State government,Bachelors degree(BA AB BS),Never married,Black,Male,Native- Born in the United States,12,52.0,0,u128,KNeighbors,random,0,0.0
+39,0,Not in universe,Associates degree-academic program,Never married,Black,Male,Native- Born in the United States,12,52.0,1,u128,KNeighbors,random,1,
+39,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,Black,Male,Native- Born in the United States,0,52.0,1,u128,KNeighbors,random,1,
+39,0,Not in universe,Associates degree-academic program,Never married,Black,Male,Native- Born in the United States,23,52.0,1,u128,KNeighbors,random,1,
+57,0,Not in universe,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u132,KNeighbors,random,0,0.0
+57,0,Never worked,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,5,50.0,1,u132,KNeighbors,random,1,
+57,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,24,43.0,1,u132,KNeighbors,random,1,
+57,0,State government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,41,37.0,1,u132,KNeighbors,random,1,
+72,0,Not in universe,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u133,KNeighbors,random,0,0.0
+72,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,18.0,1,u133,KNeighbors,random,1,
+72,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,29.0,1,u133,KNeighbors,random,1,
+72,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,28.0,1,u133,KNeighbors,random,1,
+45,0,Private,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Female,Native- Born in the United States,12,52.0,0,u135,KNeighbors,random,0,0.0
+45,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,12,52.0,1,u135,KNeighbors,random,1,
+45,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,12,28.0,1,u135,KNeighbors,random,1,
+45,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,12,48.0,1,u135,KNeighbors,random,1,
+55,0,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,34,39.0,0,u137,KNeighbors,random,0,0.0
+55,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,34,26.0,1,u137,KNeighbors,random,1,
+55,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,34,46.0,1,u137,KNeighbors,random,1,
+55,0,Self-employed-incorporated,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,5,39.0,1,u137,KNeighbors,random,1,
+47,0,Not in universe,High school graduate,Divorced,White,Male,Native- Born in the United States,0,0.0,0,u138,KNeighbors,random,0,0.0
+47,0,Not in universe,Bachelors degree(BA AB BS),Divorced,White,Male,Native- Born in the United States,0,50.0,1,u138,KNeighbors,random,1,
+47,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Male,Native- Born in the United States,0,48.0,1,u138,KNeighbors,random,1,
+47,0,Not in universe,Bachelors degree(BA AB BS),Divorced,White,Male,Native- Born in the United States,0,51.0,1,u138,KNeighbors,random,1,
+23,0,Private,Associates degree-occup /vocational,Never married,White,Male,Native- Born in the United States,26,52.0,0,u140,KNeighbors,random,0,0.0
+23,0,Federal government,Associates degree-academic program,Never married,White,Male,Native- Born in the United States,4,52.0,1,u140,KNeighbors,random,1,
+23,0,Federal government,Associates degree-academic program,Never married,White,Male,Native- Born in the United States,22,52.0,1,u140,KNeighbors,random,1,
+27,0,Self-employed-not incorporated,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,34,52.0,0,u141,KNeighbors,random,0,0.0
+27,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,10,52.0,1,u141,KNeighbors,random,1,
+27,0,Without pay,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,14,52.0,1,u141,KNeighbors,random,1,
+27,0,Without pay,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,24,52.0,1,u141,KNeighbors,random,1,
+77,0,Not in universe,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u150,KNeighbors,random,0,0.0
+77,0,Without pay,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,5,40.0,1,u150,KNeighbors,random,1,
+55,0,Private,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,39,52.0,0,u152,KNeighbors,random,0,0.0
+55,0,State government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,39,52.0,1,u152,KNeighbors,random,1,
+55,0,State government,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,0,52.0,1,u152,KNeighbors,random,1,
+55,0,State government,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,12,52.0,1,u152,KNeighbors,random,1,
+77,0,Not in universe,High school graduate,Never married,Black,Female,Native- Born in the United States,0,0.0,0,u154,KNeighbors,random,0,0.0
+77,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,Black,Female,Native- Born in the United States,0,51.0,1,u154,KNeighbors,random,1,
+45,0,Private,Associates degree-occup /vocational,Married-civilian spouse present,White,Male,Native- Born in the United States,33,52.0,0,u155,KNeighbors,random,0,0.0
+45,0,Self-employed-incorporated,Associates degree-occup /vocational,Married-civilian spouse present,White,Male,Native- Born in the United States,8,52.0,1,u155,KNeighbors,random,1,
+45,0,Self-employed-incorporated,Associates degree-occup /vocational,Married-civilian spouse present,White,Male,Native- Born in the United States,34,52.0,1,u155,KNeighbors,random,1,
+75,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u159,KNeighbors,random,0,0.0
+75,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,23,34.0,1,u159,KNeighbors,random,1,
+75,0,Without pay,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,34.0,1,u159,KNeighbors,random,1,
+75,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,28.0,1,u159,KNeighbors,random,1,
+58,0,Not in universe,Some college but no degree,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u160,KNeighbors,random,0,0.0
+58,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,9,46.0,1,u160,KNeighbors,random,1,
+58,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,23,41.0,1,u160,KNeighbors,random,1,
+58,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,17,45.0,1,u160,KNeighbors,random,1,
+72,0,Not in universe,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u161,KNeighbors,random,0,0.0
+72,0,Federal government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,0,42.0,1,u161,KNeighbors,random,1,
+72,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,40.0,1,u161,KNeighbors,random,1,
+72,0,Federal government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,0,49.0,1,u161,KNeighbors,random,1,
+53,0,Self-employed-not incorporated,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,18,52.0,0,u162,KNeighbors,random,0,0.0
+53,0,State government,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,21,52.0,1,u162,KNeighbors,random,1,
+53,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,27,52.0,1,u162,KNeighbors,random,1,
+53,0,State government,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,39,52.0,1,u162,KNeighbors,random,1,
+64,0,Private,Associates degree-academic program,Married-civilian spouse present,White,Male,Foreign born- U S citizen by naturalization,17,52.0,0,u163,KNeighbors,random,0,0.0
+64,0,Federal government,Associates degree-academic program,Married-civilian spouse present,White,Male,Foreign born- U S citizen by naturalization,17,52.0,1,u163,KNeighbors,random,1,
+64,0,Not in universe,Associates degree-academic program,Married-civilian spouse present,White,Male,Foreign born- U S citizen by naturalization,17,48.0,1,u163,KNeighbors,random,1,
+64,0,Not in universe,Associates degree-academic program,Married-civilian spouse present,White,Male,Foreign born- U S citizen by naturalization,17,50.0,1,u163,KNeighbors,random,1,
+86,0,Not in universe,Bachelors degree(BA AB BS),Widowed,White,Male,Native- Born in the United States,0,0.0,0,u165,KNeighbors,random,0,0.0
+86,0,Private,Bachelors degree(BA AB BS),Widowed,White,Male,Native- Born in the United States,21,35.0,1,u165,KNeighbors,random,1,
+86,0,Federal government,Bachelors degree(BA AB BS),Widowed,White,Male,Native- Born in the United States,40,49.0,1,u165,KNeighbors,random,1,
+86,0,Private,Bachelors degree(BA AB BS),Widowed,White,Male,Native- Born in the United States,21,28.0,1,u165,KNeighbors,random,1,
+66,0,Not in universe,7th and 8th grade,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u167,KNeighbors,random,0,0.0
+66,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,36,45.0,1,u167,KNeighbors,random,1,
+66,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,19,43.0,1,u167,KNeighbors,random,1,
+37,0,Private,Some college but no degree,Divorced,Black,Male,Native- Born in the United States,19,52.0,0,u169,KNeighbors,random,0,0.0
+37,0,Local government,Associates degree-occup /vocational,Divorced,Black,Male,Native- Born in the United States,19,52.0,1,u169,KNeighbors,random,1,
+31,0,Private,11th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,36,52.0,0,u170,KNeighbors,random,0,0.0
+31,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,45,52.0,1,u170,KNeighbors,random,1,
+31,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,10,52.0,1,u170,KNeighbors,random,1,
+31,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,9,52.0,1,u170,KNeighbors,random,1,
+49,0,Not in universe,High school graduate,Divorced,White,Male,Native- Born in the United States,0,12.0,0,u172,KNeighbors,random,0,0.0
+49,0,Never worked,Bachelors degree(BA AB BS),Divorced,White,Male,Native- Born in the United States,0,35.0,1,u172,KNeighbors,random,1,
+49,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Divorced,White,Male,Native- Born in the United States,0,48.0,1,u172,KNeighbors,random,1,
+49,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Divorced,White,Male,Native- Born in the United States,24,50.0,1,u172,KNeighbors,random,1,
+34,0,Private,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,41,52.0,0,u174,KNeighbors,random,0,0.0
+34,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,5,52.0,1,u174,KNeighbors,random,1,
+34,0,Never worked,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,41,52.0,1,u174,KNeighbors,random,1,
+34,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,1,u174,KNeighbors,random,1,
+74,0,Not in universe,7th and 8th grade,Divorced,White,Male,Native- Born in the United States,0,0.0,0,u177,KNeighbors,random,0,0.0
+74,0,Self-employed-not incorporated,7th and 8th grade,Divorced,White,Male,Native- Born in the United States,6,50.0,1,u177,KNeighbors,random,1,
+74,0,Not in universe,Bachelors degree(BA AB BS),Divorced,White,Male,Native- Born in the United States,43,49.0,1,u177,KNeighbors,random,1,
+74,0,State government,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Male,Native- Born in the United States,0,46.0,1,u177,KNeighbors,random,1,
+70,0,Self-employed-not incorporated,10th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,0,u182,KNeighbors,random,0,0.0
+70,0,State government,10th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,35,52.0,1,u182,KNeighbors,random,1,
+70,0,Self-employed-incorporated,10th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,2,44.0,1,u182,KNeighbors,random,1,
+70,0,Without pay,5th or 6th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,1,u182,KNeighbors,random,1,
+33,0,Private,Some college but no degree,Married-civilian spouse present,Black,Male,Native- Born in the United States,3,52.0,0,u185,KNeighbors,random,0,0.0
+33,0,Never worked,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,Black,Male,Native- Born in the United States,3,52.0,1,u185,KNeighbors,random,1,
+24,0,Self-employed-not incorporated,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,38,52.0,0,u188,KNeighbors,random,0,0.0
+24,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,15,52.0,1,u188,KNeighbors,random,1,
+24,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,1,u188,KNeighbors,random,1,
+24,0,State government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,22,52.0,1,u188,KNeighbors,random,1,
+27,0,Not in universe,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,0,52.0,0,u190,KNeighbors,random,0,0.0
+27,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,52.0,1,u190,KNeighbors,random,1,
+27,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,6,52.0,1,u190,KNeighbors,random,1,
+27,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,42,52.0,1,u190,KNeighbors,random,1,
+45,0,Private,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,41,47.0,0,u195,KNeighbors,random,0,0.0
+45,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,41,30.0,1,u195,KNeighbors,random,1,
+45,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,19,47.0,1,u195,KNeighbors,random,1,
+45,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,41,47.0,1,u195,KNeighbors,random,1,
+71,0,Not in universe,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u197,KNeighbors,random,0,0.0
+71,0,State government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,42.0,1,u197,KNeighbors,random,1,
+71,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,50.0,1,u197,KNeighbors,random,1,
+64,0,Not in universe,7th and 8th grade,Never married,White,Male,Native- Born in the United States,0,0.0,0,u199,KNeighbors,random,0,0.0
+64,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,0,32.0,1,u199,KNeighbors,random,1,
+64,0,State government,7th and 8th grade,Never married,White,Male,Native- Born in the United States,0,50.0,1,u199,KNeighbors,random,1,
+64,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,0,39.0,1,u199,KNeighbors,random,1,
+77,0,Not in universe,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u202,KNeighbors,random,0,0.0
+77,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,27.0,1,u202,KNeighbors,random,1,
+77,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,31.0,1,u202,KNeighbors,random,1,
+77,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,43.0,1,u202,KNeighbors,random,1,
+34,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,10,52.0,0,u204,KNeighbors,random,0,0.0
+34,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,31,52.0,1,u204,KNeighbors,random,1,
+34,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,2,36.0,1,u204,KNeighbors,random,1,
+34,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,25,52.0,1,u204,KNeighbors,random,1,
+39,0,Self-employed-not incorporated,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,37,46.0,0,u205,KNeighbors,random,0,0.0
+39,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,37,46.0,1,u205,KNeighbors,random,1,
+39,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,37,46.0,1,u205,KNeighbors,random,1,
+39,0,Never worked,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,37,46.0,1,u205,KNeighbors,random,1,
+30,0,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,0,u208,KNeighbors,random,0,0.0
+30,0,Without pay,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,1,u208,KNeighbors,random,1,
+30,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,22,52.0,1,u208,KNeighbors,random,1,
+30,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,18,52.0,1,u208,KNeighbors,random,1,
+40,0,Not in universe,11th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u212,KNeighbors,random,0,0.0
+40,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,50.0,1,u212,KNeighbors,random,1,
+40,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,49.0,1,u212,KNeighbors,random,1,
+40,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,29.0,1,u212,KNeighbors,random,1,
+24,0,Private,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,33,52.0,0,u213,KNeighbors,random,0,0.0
+24,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,12,52.0,1,u213,KNeighbors,random,1,
+24,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,3,52.0,1,u213,KNeighbors,random,1,
+24,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,23,52.0,1,u213,KNeighbors,random,1,
+63,0,Self-employed-incorporated,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,24,52.0,0,u216,KNeighbors,random,0,0.0
+63,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,42,52.0,1,u216,KNeighbors,random,1,
+63,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,3,52.0,1,u216,KNeighbors,random,1,
+63,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,10,52.0,1,u216,KNeighbors,random,1,
+48,0,Private,High school graduate,Never married,Black,Male,Native- Born in the United States,31,52.0,0,u220,KNeighbors,random,0,0.0
+48,0,Not in universe,Associates degree-academic program,Never married,Black,Male,Native- Born in the United States,36,52.0,1,u220,KNeighbors,random,1,
+48,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Male,Native- Born in the United States,19,52.0,1,u220,KNeighbors,random,1,
+48,0,Without pay,Associates degree-academic program,Never married,Black,Male,Native- Born in the United States,17,52.0,1,u220,KNeighbors,random,1,
+35,0,Private,High school graduate,Married-spouse absent,White,Male,Foreign born- Not a citizen of U S,42,52.0,0,u224,KNeighbors,random,0,0.0
+35,0,Self-employed-not incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-spouse absent,White,Male,Foreign born- Not a citizen of U S,42,52.0,1,u224,KNeighbors,random,1,
+35,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Married-spouse absent,White,Male,Foreign born- Not a citizen of U S,42,52.0,1,u224,KNeighbors,random,1,
+35,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-spouse absent,White,Male,Foreign born- Not a citizen of U S,42,52.0,1,u224,KNeighbors,random,1,
+21,0,Private,11th grade,Never married,White,Male,Native- Born in the United States,41,36.0,0,u225,KNeighbors,random,0,0.0
+21,0,Without pay,Associates degree-academic program,Never married,White,Male,Native- Born in the United States,15,36.0,1,u225,KNeighbors,random,1,
+21,0,Federal government,Associates degree-academic program,Never married,White,Male,Native- Born in the United States,8,36.0,1,u225,KNeighbors,random,1,
+21,0,Never worked,Associates degree-academic program,Never married,White,Male,Native- Born in the United States,15,36.0,1,u225,KNeighbors,random,1,
+58,0,Not in universe,1st 2nd 3rd or 4th grade,Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,0,0.0,0,u229,KNeighbors,random,0,0.0
+58,0,Not in universe,1st 2nd 3rd or 4th grade,Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,9,52.0,1,u229,KNeighbors,random,1,
+58,0,Not in universe,1st 2nd 3rd or 4th grade,Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,5,49.0,1,u229,KNeighbors,random,1,
+58,0,Not in universe,1st 2nd 3rd or 4th grade,Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,36,42.0,1,u229,KNeighbors,random,1,
+22,0,Private,High school graduate,Never married,White,Male,Native- Born in the United States,19,52.0,0,u230,KNeighbors,random,0,0.0
+22,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,6,52.0,1,u230,KNeighbors,random,1,
+22,0,Federal government,Associates degree-academic program,Never married,White,Male,Native- Born in the United States,1,52.0,1,u230,KNeighbors,random,1,
+80,0,Not in universe,Bachelors degree(BA AB BS),Never married,White,Male,Native- Born in the United States,0,0.0,0,u231,KNeighbors,random,0,0.0
+80,0,Not in universe,Bachelors degree(BA AB BS),Never married,White,Male,Native- Born in the United States,0,52.0,1,u231,KNeighbors,random,1,
+80,0,Not in universe,Bachelors degree(BA AB BS),Never married,White,Male,Native- Born in the United States,3,42.0,1,u231,KNeighbors,random,1,
+80,0,Federal government,Bachelors degree(BA AB BS),Never married,White,Male,Native- Born in the United States,0,46.0,1,u231,KNeighbors,random,1,
+82,0,Not in universe,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u233,KNeighbors,random,0,0.0
+82,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,38.0,1,u233,KNeighbors,random,1,
+82,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,36,47.0,1,u233,KNeighbors,random,1,
+82,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,30,50.0,1,u233,KNeighbors,random,1,
+49,0,Private,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,23,52.0,0,u234,KNeighbors,random,0,0.0
+49,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,7,52.0,1,u234,KNeighbors,random,1,
+49,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,25,52.0,1,u234,KNeighbors,random,1,
+49,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,44,52.0,1,u234,KNeighbors,random,1,
+43,0,Local government,Bachelors degree(BA AB BS),Married-civilian spouse present,Black,Male,Foreign born- Not a citizen of U S,2,38.0,0,u239,KNeighbors,random,0,0.0
+43,0,Private,Bachelors degree(BA AB BS),Married-civilian spouse present,Black,Male,Foreign born- Not a citizen of U S,2,21.0,1,u239,KNeighbors,random,1,
+43,0,Local government,Bachelors degree(BA AB BS),Married-civilian spouse present,Black,Male,Foreign born- Not a citizen of U S,2,51.0,1,u239,KNeighbors,random,1,
+43,0,Private,Bachelors degree(BA AB BS),Married-civilian spouse present,Black,Male,Foreign born- Not a citizen of U S,2,44.0,1,u239,KNeighbors,random,1,
+41,0,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,6,52.0,0,u241,KNeighbors,random,0,0.0
+41,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,6,44.0,1,u241,KNeighbors,random,1,
+41,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,6,52.0,1,u241,KNeighbors,random,1,
+41,0,Private,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,33,52.0,1,u241,KNeighbors,random,1,
+43,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,10,52.0,0,u244,KNeighbors,random,0,0.0
+43,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,18,52.0,1,u244,KNeighbors,random,1,
+43,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,35,52.0,1,u244,KNeighbors,random,1,
+43,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,33,52.0,1,u244,KNeighbors,random,1,
+42,0,Not in universe,10th grade,Widowed,White,Male,Native- Born in the United States,0,0.0,0,u246,KNeighbors,random,0,0.0
+42,0,Not in universe,Bachelors degree(BA AB BS),Widowed,White,Male,Native- Born in the United States,0,38.0,1,u246,KNeighbors,random,1,
+42,0,Not in universe,Bachelors degree(BA AB BS),Widowed,White,Male,Native- Born in the United States,0,52.0,1,u246,KNeighbors,random,1,
+42,0,Not in universe,Bachelors degree(BA AB BS),Widowed,White,Male,Native- Born in the United States,0,44.0,1,u246,KNeighbors,random,1,
+64,0,Private,7th and 8th grade,Married-civilian spouse present,White,Female,Foreign born- Not a citizen of U S,30,52.0,0,u248,KNeighbors,random,0,0.0
+64,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Foreign born- Not a citizen of U S,30,52.0,1,u248,KNeighbors,random,1,
+64,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Foreign born- Not a citizen of U S,30,52.0,1,u248,KNeighbors,random,1,
+64,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Foreign born- Not a citizen of U S,30,38.0,1,u248,KNeighbors,random,1,
+64,0,Private,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,4,52.0,0,u249,KNeighbors,random,0,0.0
+64,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,44,52.0,1,u249,KNeighbors,random,1,
+64,0,Never worked,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,4,52.0,1,u249,KNeighbors,random,1,
+64,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,22,52.0,1,u249,KNeighbors,random,1,
+44,0,Not in universe,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u250,KNeighbors,random,0,0.0
+44,0,Not in universe,Associates degree-academic program,Married-civilian spouse present,White,Male,Native- Born in the United States,0,49.0,1,u250,KNeighbors,random,1,
+44,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,49.0,1,u250,KNeighbors,random,1,
+44,0,Not in universe,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,0,37.0,1,u250,KNeighbors,random,1,
+68,0,Not in universe,5th or 6th grade,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u253,KNeighbors,random,0,0.0
+68,0,Never worked,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,51.0,1,u253,KNeighbors,random,1,
+68,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,44,46.0,1,u253,KNeighbors,random,1,
+68,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,3,49.0,1,u253,KNeighbors,random,1,
+18,0,Private,High school graduate,Never married,White,Male,Native- Born in the United States,40,24.0,0,u255,KNeighbors,random,0,0.0
+18,0,Federal government,Associates degree-academic program,Never married,White,Male,Native- Born in the United States,40,37.0,1,u255,KNeighbors,random,1,
+18,0,Federal government,Associates degree-academic program,Never married,White,Male,Native- Born in the United States,40,52.0,1,u255,KNeighbors,random,1,
+65,0,Not in universe,7th and 8th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u258,KNeighbors,random,0,0.0
+65,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,33.0,1,u258,KNeighbors,random,1,
+65,0,Self-employed-incorporated,7th and 8th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,0,48.0,1,u258,KNeighbors,random,1,
+65,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,30.0,1,u258,KNeighbors,random,1,
+41,0,Private,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,29,52.0,0,u265,KNeighbors,random,0,0.0
+41,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,44,52.0,1,u265,KNeighbors,random,1,
+41,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,32,52.0,1,u265,KNeighbors,random,1,
+48,0,Private,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,31,30.0,0,u267,KNeighbors,random,0,0.0
+48,0,State government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,31,30.0,1,u267,KNeighbors,random,1,
+48,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,31,39.0,1,u267,KNeighbors,random,1,
+25,0,Private,High school graduate,Never married,White,Male,Native- Born in the United States,42,52.0,0,u272,KNeighbors,random,0,0.0
+25,0,Federal government,Associates degree-academic program,Never married,White,Male,Native- Born in the United States,16,52.0,1,u272,KNeighbors,random,1,
+25,0,Federal government,Associates degree-academic program,Never married,White,Male,Native- Born in the United States,42,52.0,1,u272,KNeighbors,random,1,
+25,0,Federal government,Associates degree-academic program,Never married,White,Male,Native- Born in the United States,42,34.0,1,u272,KNeighbors,random,1,
+15,0,Not in universe,7th and 8th grade,Never married,White,Male,Native- Born in the United States,0,0.0,0,u277,KNeighbors,random,0,0.0
+15,0,Federal government,Associates degree-academic program,Never married,White,Male,Native- Born in the United States,0,46.0,1,u277,KNeighbors,random,1,
+34,0,Private,High school graduate,Never married,White,Male,Native- Born in the United States,33,52.0,0,u282,KNeighbors,random,0,0.0
+34,0,State government,Associates degree-academic program,Never married,White,Male,Native- Born in the United States,23,52.0,1,u282,KNeighbors,random,1,
+34,0,Federal government,Associates degree-academic program,Never married,White,Male,Native- Born in the United States,3,52.0,1,u282,KNeighbors,random,1,
+34,0,Federal government,Associates degree-academic program,Never married,White,Male,Native- Born in the United States,43,32.0,1,u282,KNeighbors,random,1,
+67,0,Not in universe,High school graduate,Divorced,White,Male,Native- Born in the United States,0,0.0,0,u283,KNeighbors,random,0,0.0
+67,0,Local government,Prof school degree (MD DDS DVM LLB JD),Divorced,White,Male,Native- Born in the United States,0,51.0,1,u283,KNeighbors,random,1,
+67,0,State government,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Male,Native- Born in the United States,0,38.0,1,u283,KNeighbors,random,1,
+67,0,Self-employed-not incorporated,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Male,Native- Born in the United States,0,49.0,1,u283,KNeighbors,random,1,
+54,0,Not in universe,9th grade,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u285,KNeighbors,random,0,0.0
+54,0,Never worked,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,36,51.0,1,u285,KNeighbors,random,1,
+54,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,2,47.0,1,u285,KNeighbors,random,1,
+54,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,28,43.0,1,u285,KNeighbors,random,1,
+38,0,Private,9th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,42,44.0,0,u287,KNeighbors,random,0,0.0
+38,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,42,45.0,1,u287,KNeighbors,random,1,
+38,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,25,44.0,1,u287,KNeighbors,random,1,
+38,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,33,44.0,1,u287,KNeighbors,random,1,
+43,0,State government,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,1,52.0,0,u288,KNeighbors,random,0,0.0
+43,0,State government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,37,52.0,1,u288,KNeighbors,random,1,
+43,0,State government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,44,52.0,1,u288,KNeighbors,random,1,
+43,0,State government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,45,52.0,1,u288,KNeighbors,random,1,
+25,0,Private,10th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,33,0.0,0,u291,KNeighbors,random,0,0.0
+25,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,27,50.0,1,u291,KNeighbors,random,1,
+25,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,19,34.0,1,u291,KNeighbors,random,1,
+25,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,2,49.0,1,u291,KNeighbors,random,1,
+43,0,Private,Associates degree-occup /vocational,Married-civilian spouse present,White,Female,Native- Born in the United States,24,52.0,0,u295,KNeighbors,random,0,0.0
+43,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,15,42.0,1,u295,KNeighbors,random,1,
+43,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,36,52.0,1,u295,KNeighbors,random,1,
+26,0,Private,High school graduate,Never married,White,Male,Native- Born in the United States,34,52.0,0,u298,KNeighbors,random,0,0.0
+26,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,5,52.0,1,u298,KNeighbors,random,1,
+26,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,40,52.0,1,u298,KNeighbors,random,1,
+26,0,Without pay,Associates degree-academic program,Never married,White,Male,Native- Born in the United States,38,36.0,1,u298,KNeighbors,random,1,
+18,0,Private,11th grade,Never married,White,Male,Native- Born in the United States,41,52.0,0,u300,KNeighbors,random,0,0.0
+18,0,Federal government,Associates degree-academic program,Never married,White,Male,Native- Born in the United States,32,52.0,1,u300,KNeighbors,random,1,
+18,0,Federal government,Associates degree-academic program,Never married,White,Male,Native- Born in the United States,16,52.0,1,u300,KNeighbors,random,1,
+18,0,Never worked,Associates degree-academic program,Never married,White,Male,Native- Born in the United States,12,37.0,1,u300,KNeighbors,random,1,
+77,0,Not in universe,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u301,KNeighbors,random,0,0.0
+77,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,44.0,1,u301,KNeighbors,random,1,
+77,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,27.0,1,u301,KNeighbors,random,1,
+77,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,25.0,1,u301,KNeighbors,random,1,
+28,0,Private,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,0,u302,KNeighbors,random,0,0.0
+28,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,1,u302,KNeighbors,random,1,
+28,0,State government,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,8,52.0,1,u302,KNeighbors,random,1,
+28,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,2,20.0,1,u302,KNeighbors,random,1,
+82,0,Not in universe,High school graduate,Never married,Black,Male,Native- Born in the United States,0,0.0,0,u303,KNeighbors,random,0,0.0
+82,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,Black,Male,Native- Born in the United States,28,50.0,1,u303,KNeighbors,random,1,
+82,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,Black,Male,Native- Born in the United States,27,51.0,1,u303,KNeighbors,random,1,
+82,0,Federal government,Bachelors degree(BA AB BS),Never married,Black,Male,Native- Born in the United States,0,47.0,1,u303,KNeighbors,random,1,
+89,0,Not in universe,7th and 8th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u304,KNeighbors,random,0,0.0
+89,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,43,44.0,1,u304,KNeighbors,random,1,
+89,0,Without pay,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,40.0,1,u304,KNeighbors,random,1,
+89,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,52.0,1,u304,KNeighbors,random,1,
+50,0,Not in universe,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u309,KNeighbors,random,0,0.0
+50,0,Without pay,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,17,51.0,1,u309,KNeighbors,random,1,
+50,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,48.0,1,u309,KNeighbors,random,1,
+50,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,22,37.0,1,u309,KNeighbors,random,1,
+48,0,Private,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Female,Native- Born in the United States,12,51.0,0,u314,KNeighbors,random,0,0.0
+48,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,12,28.0,1,u314,KNeighbors,random,1,
+48,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,12,18.0,1,u314,KNeighbors,random,1,
+48,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,12,42.0,1,u314,KNeighbors,random,1,
+32,0,Private,High school graduate,Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,26,52.0,0,u315,KNeighbors,random,0,0.0
+32,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,26,52.0,1,u315,KNeighbors,random,1,
+27,0,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,34,52.0,0,u316,KNeighbors,random,0,0.0
+27,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,31,52.0,1,u316,KNeighbors,random,1,
+27,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,7,52.0,1,u316,KNeighbors,random,1,
+27,0,State government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,34,52.0,1,u316,KNeighbors,random,1,
+54,725,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,44,52.0,0,u317,KNeighbors,random,0,0.0
+54,725,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,44,23.0,1,u317,KNeighbors,random,1,
+53,0,Not in universe,High school graduate,Divorced,White,Female,Native- Born in the United States,0,17.0,0,u319,KNeighbors,random,0,0.0
+53,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Female,Native- Born in the United States,24,47.0,1,u319,KNeighbors,random,1,
+55,0,Not in universe,5th or 6th grade,Married-civilian spouse present,Black,Male,Native- Born in the United States,0,0.0,0,u323,KNeighbors,random,0,0.0
+55,0,State government,5th or 6th grade,Married-civilian spouse present,Black,Male,Native- Born in the United States,0,41.0,1,u323,KNeighbors,random,1,
+55,0,Not in universe,Associates degree-academic program,Married-civilian spouse present,Black,Male,Native- Born in the United States,0,51.0,1,u323,KNeighbors,random,1,
+55,0,Not in universe,5th or 6th grade,Married-civilian spouse present,Black,Male,Native- Born in the United States,0,45.0,1,u323,KNeighbors,random,1,
+44,0,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,41,52.0,0,u324,KNeighbors,random,0,0.0
+44,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,41,52.0,1,u324,KNeighbors,random,1,
+44,0,Private,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,44,52.0,1,u324,KNeighbors,random,1,
+44,0,Private,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,41,52.0,1,u324,KNeighbors,random,1,
+49,0,Federal government,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,33,52.0,0,u325,KNeighbors,random,0,0.0
+49,0,Self-employed-incorporated,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,14,52.0,1,u325,KNeighbors,random,1,
+49,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,13,52.0,1,u325,KNeighbors,random,1,
+70,0,Private,10th grade,Married-civilian spouse present,Black,Male,Native- Born in the United States,42,2.0,0,u326,KNeighbors,random,0,0.0
+70,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,Black,Male,Native- Born in the United States,42,45.0,1,u326,KNeighbors,random,1,
+70,0,State government,10th grade,Married-civilian spouse present,Black,Male,Native- Born in the United States,42,45.0,1,u326,KNeighbors,random,1,
+70,0,Private,Bachelors degree(BA AB BS),Married-civilian spouse present,Black,Male,Native- Born in the United States,42,44.0,1,u326,KNeighbors,random,1,
+29,0,Private,11th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,38,25.0,0,u328,KNeighbors,random,0,0.0
+29,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,12,25.0,1,u328,KNeighbors,random,1,
+29,0,State government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,38,25.0,1,u328,KNeighbors,random,1,
+29,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,3,25.0,1,u328,KNeighbors,random,1,
+41,0,Without pay,Some college but no degree,Married-civilian spouse present,White,Female,Native- Born in the United States,23,52.0,0,u329,KNeighbors,random,0,0.0
+41,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,32,52.0,1,u329,KNeighbors,random,1,
+41,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,1,52.0,1,u329,KNeighbors,random,1,
+87,0,Not in universe,Some college but no degree,Widowed,White,Male,Native- Born in the United States,0,0.0,0,u331,KNeighbors,random,0,0.0
+87,0,Self-employed-incorporated,Some college but no degree,Widowed,White,Male,Native- Born in the United States,24,47.0,1,u331,KNeighbors,random,1,
+87,0,Self-employed-not incorporated,Some college but no degree,Widowed,White,Male,Native- Born in the United States,25,17.0,1,u331,KNeighbors,random,1,
+87,0,Self-employed-incorporated,Some college but no degree,Widowed,White,Male,Native- Born in the United States,8,36.0,1,u331,KNeighbors,random,1,
+26,0,Private,10th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,38,39.0,0,u333,KNeighbors,random,0,0.0
+26,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,25,39.0,1,u333,KNeighbors,random,1,
+26,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,10,39.0,1,u333,KNeighbors,random,1,
+26,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,37,39.0,1,u333,KNeighbors,random,1,
+62,0,Private,Associates degree-occup /vocational,Divorced,White,Male,Native- Born in the United States,29,52.0,0,u334,KNeighbors,random,0,0.0
+62,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Divorced,White,Male,Native- Born in the United States,29,52.0,1,u334,KNeighbors,random,1,
+51,0,Local government,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in Puerto Rico or U S Outlying,26,52.0,0,u336,KNeighbors,random,0,0.0
+51,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in Puerto Rico or U S Outlying,26,52.0,1,u336,KNeighbors,random,1,
+51,0,Not in universe,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in Puerto Rico or U S Outlying,33,52.0,1,u336,KNeighbors,random,1,
+46,0,Private,Some college but no degree,Married-civilian spouse present,White,Female,Native- Born in the United States,2,46.0,0,u337,KNeighbors,random,0,0.0
+46,0,Without pay,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,2,50.0,1,u337,KNeighbors,random,1,
+46,0,Self-employed-incorporated,Associates degree-occup /vocational,Married-civilian spouse present,White,Female,Native- Born in the United States,2,46.0,1,u337,KNeighbors,random,1,
+46,0,State government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,2,46.0,1,u337,KNeighbors,random,1,
+49,0,Self-employed-not incorporated,Associates degree-academic program,Married-civilian spouse present,White,Male,Native- Born abroad of American Parent(s),33,40.0,0,u339,KNeighbors,random,0,0.0
+49,0,State government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born abroad of American Parent(s),33,40.0,1,u339,KNeighbors,random,1,
+41,0,Not in universe,High school graduate,Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,0,0.0,0,u343,KNeighbors,random,0,0.0
+41,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,0,31.0,1,u343,KNeighbors,random,1,
+41,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,0,50.0,1,u343,KNeighbors,random,1,
+41,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,0,36.0,1,u343,KNeighbors,random,1,
+39,0,Private,Associates degree-academic program,Separated,White,Male,Native- Born in the United States,33,52.0,0,u352,KNeighbors,random,0,0.0
+39,0,Private,Associates degree-academic program,Separated,White,Male,Native- Born in the United States,14,52.0,1,u352,KNeighbors,random,1,
+39,0,Private,Associates degree-academic program,Separated,White,Male,Native- Born in the United States,6,52.0,1,u352,KNeighbors,random,1,
+39,0,Private,Associates degree-academic program,Separated,White,Male,Native- Born in the United States,2,52.0,1,u352,KNeighbors,random,1,

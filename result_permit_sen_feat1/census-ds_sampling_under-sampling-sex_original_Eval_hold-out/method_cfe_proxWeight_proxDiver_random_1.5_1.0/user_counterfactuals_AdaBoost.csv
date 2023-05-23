@@ -1,0 +1,659 @@
+age,wage per hour,class of worker,education,marital stat,race,sex,citizenship,detailed occupation recode,weeks worked in year,CF_user,candid,clf,Method_cfe,income,prediction
+72,0,Local government,Associates degree-academic program,Divorced,Black,Female,Native- Born in the United States,8,50.0,0,u3,AdaBoost,random,0,0.0
+72,0,Local government,Doctorate degree(PhD EdD),Divorced,Black,Female,Native- Born in the United States,38,50.0,1,u3,AdaBoost,random,1,
+45,0,Private,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,16,52.0,0,u5,AdaBoost,random,0,0.0
+45,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,16,52.0,1,u5,AdaBoost,random,1,
+45,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,23,52.0,1,u5,AdaBoost,random,1,
+45,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,27,52.0,1,u5,AdaBoost,random,1,
+47,0,Private,Some college but no degree,Married-civilian spouse present,Black,Male,Native- Born in the United States,35,52.0,0,u9,AdaBoost,random,0,0.0
+47,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,Black,Male,Native- Born in the United States,15,52.0,1,u9,AdaBoost,random,1,
+47,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,Black,Male,Native- Born in the United States,35,52.0,1,u9,AdaBoost,random,1,
+47,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,Black,Male,Native- Born in the United States,35,29.0,1,u9,AdaBoost,random,1,
+34,0,Private,10th grade,Married-civilian spouse present,White,Female,Foreign born- Not a citizen of U S,36,52.0,0,u10,AdaBoost,random,0,0.0
+34,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Foreign born- Not a citizen of U S,41,52.0,1,u10,AdaBoost,random,1,
+49,0,Private,11th grade,Never married,Black,Male,Native- Born in the United States,36,0.0,0,u11,AdaBoost,random,0,0.0
+49,0,Private,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Male,Native- Born in the United States,23,41.0,1,u11,AdaBoost,random,1,
+49,0,Private,Doctorate degree(PhD EdD),Never married,Black,Male,Native- Born in the United States,36,45.0,1,u11,AdaBoost,random,1,
+49,0,Private,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Male,Native- Born in the United States,43,46.0,1,u11,AdaBoost,random,1,
+49,0,Private,Some college but no degree,Divorced,White,Female,Native- Born in the United States,26,52.0,0,u12,AdaBoost,random,0,0.0
+49,0,Private,Prof school degree (MD DDS DVM LLB JD),Divorced,White,Female,Native- Born in the United States,19,52.0,1,u12,AdaBoost,random,1,
+49,0,Private,Doctorate degree(PhD EdD),Divorced,White,Female,Native- Born in the United States,25,52.0,1,u12,AdaBoost,random,1,
+49,0,Private,Prof school degree (MD DDS DVM LLB JD),Divorced,White,Female,Native- Born in the United States,24,52.0,1,u12,AdaBoost,random,1,
+23,0,Not in universe,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,52.0,0,u13,AdaBoost,random,0,0.0
+23,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,34.0,1,u13,AdaBoost,random,1,
+23,0,Not in universe,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,1,u13,AdaBoost,random,1,
+23,0,Not in universe,Associates degree-academic program,Married-civilian spouse present,White,Male,Native- Born in the United States,28,52.0,1,u13,AdaBoost,random,1,
+41,0,Federal government,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,34,52.0,0,u15,AdaBoost,random,0,0.0
+41,0,Federal government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,33,52.0,1,u15,AdaBoost,random,1,
+41,0,Federal government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,27,52.0,1,u15,AdaBoost,random,1,
+41,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,34,52.0,1,u15,AdaBoost,random,1,
+71,0,Not in universe,High school graduate,Widowed,White,Female,Native- Born in the United States,0,0.0,0,u16,AdaBoost,random,0,0.0
+71,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Widowed,White,Female,Native- Born in the United States,0,26.0,1,u16,AdaBoost,random,1,
+71,0,Not in universe,Doctorate degree(PhD EdD),Widowed,White,Female,Native- Born in the United States,0,51.0,1,u16,AdaBoost,random,1,
+71,0,Not in universe,Doctorate degree(PhD EdD),Widowed,White,Female,Native- Born in the United States,0,27.0,1,u16,AdaBoost,random,1,
+73,0,Not in universe,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u19,AdaBoost,random,0,0.0
+73,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,27.0,1,u19,AdaBoost,random,1,
+73,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,42.0,1,u19,AdaBoost,random,1,
+73,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,43.0,1,u19,AdaBoost,random,1,
+65,0,Not in universe,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u20,AdaBoost,random,0,0.0
+65,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,31.0,1,u20,AdaBoost,random,1,
+65,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,45.0,1,u20,AdaBoost,random,1,
+65,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,26.0,1,u20,AdaBoost,random,1,
+70,0,Not in universe,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u21,AdaBoost,random,0,0.0
+70,0,Not in universe,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,45,32.0,1,u21,AdaBoost,random,1,
+70,0,Not in universe,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,29,47.0,1,u21,AdaBoost,random,1,
+70,0,Not in universe,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,10,28.0,1,u21,AdaBoost,random,1,
+70,0,Private,High school graduate,Widowed,White,Female,Native- Born in the United States,26,4.0,0,u22,AdaBoost,random,0,0.0
+70,0,Private,Associates degree-academic program,Widowed,White,Female,Native- Born in the United States,2,30.0,1,u22,AdaBoost,random,1,
+70,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Widowed,White,Female,Native- Born in the United States,16,4.0,1,u22,AdaBoost,random,1,
+70,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Widowed,White,Female,Native- Born in the United States,5,4.0,1,u22,AdaBoost,random,1,
+48,0,Private,5th or 6th grade,Divorced,White,Female,Foreign born- Not a citizen of U S,32,52.0,0,u23,AdaBoost,random,0,0.0
+48,0,Private,Doctorate degree(PhD EdD),Divorced,White,Female,Foreign born- Not a citizen of U S,9,52.0,1,u23,AdaBoost,random,1,
+48,0,Private,Doctorate degree(PhD EdD),Divorced,White,Female,Foreign born- Not a citizen of U S,33,52.0,1,u23,AdaBoost,random,1,
+48,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Female,Foreign born- Not a citizen of U S,33,52.0,1,u23,AdaBoost,random,1,
+47,0,Not in universe,7th and 8th grade,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u24,AdaBoost,random,0,0.0
+47,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,32.0,1,u24,AdaBoost,random,1,
+47,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,51.0,1,u24,AdaBoost,random,1,
+47,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,29.0,1,u24,AdaBoost,random,1,
+47,0,Private,Some college but no degree,Married-civilian spouse present,White,Female,Native- Born in the United States,14,52.0,0,u25,AdaBoost,random,0,0.0
+47,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,21,52.0,1,u25,AdaBoost,random,1,
+47,0,Without pay,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,14,52.0,1,u25,AdaBoost,random,1,
+47,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,31,52.0,1,u25,AdaBoost,random,1,
+61,0,Not in universe,Associates degree-occup /vocational,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u27,AdaBoost,random,0,0.0
+61,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,41.0,1,u27,AdaBoost,random,1,
+61,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,29.0,1,u27,AdaBoost,random,1,
+61,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,36.0,1,u27,AdaBoost,random,1,
+62,0,Self-employed-incorporated,Associates degree-occup /vocational,Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,0,u30,AdaBoost,random,0,0.0
+62,0,State government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,1,u30,AdaBoost,random,1,
+41,550,Private,Some college but no degree,Married-civilian spouse present,White,Female,Native- Born in the United States,29,52.0,0,u31,AdaBoost,random,0,0.0
+41,550,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,11,52.0,1,u31,AdaBoost,random,1,
+53,0,Not in universe,Associates degree-academic program,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u32,AdaBoost,random,0,0.0
+53,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,36.0,1,u32,AdaBoost,random,1,
+53,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,48.0,1,u32,AdaBoost,random,1,
+33,0,Private,Some college but no degree,Married-civilian spouse present,Black,Male,Native- Born abroad of American Parent(s),41,52.0,0,u36,AdaBoost,random,0,0.0
+33,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,Black,Male,Native- Born abroad of American Parent(s),41,52.0,1,u36,AdaBoost,random,1,
+33,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,Black,Male,Native- Born abroad of American Parent(s),41,52.0,1,u36,AdaBoost,random,1,
+33,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,Black,Male,Native- Born abroad of American Parent(s),42,52.0,1,u36,AdaBoost,random,1,
+48,0,Not in universe,11th grade,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u39,AdaBoost,random,0,0.0
+48,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,37.0,1,u39,AdaBoost,random,1,
+48,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,51.0,1,u39,AdaBoost,random,1,
+48,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,46.0,1,u39,AdaBoost,random,1,
+76,0,Not in universe,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u41,AdaBoost,random,0,0.0
+76,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,42.0,1,u41,AdaBoost,random,1,
+76,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,36.0,1,u41,AdaBoost,random,1,
+76,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,51.0,1,u41,AdaBoost,random,1,
+26,0,Self-employed-not incorporated,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,16,0.0,0,u42,AdaBoost,random,0,0.0
+26,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,16,50.0,1,u42,AdaBoost,random,1,
+26,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,16,48.0,1,u42,AdaBoost,random,1,
+26,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,5,26.0,1,u42,AdaBoost,random,1,
+51,0,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,37,52.0,0,u43,AdaBoost,random,0,0.0
+51,0,Private,Associates degree-academic program,Married-civilian spouse present,White,Male,Native- Born in the United States,33,52.0,1,u43,AdaBoost,random,1,
+51,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,12,52.0,1,u43,AdaBoost,random,1,
+51,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,7,52.0,1,u43,AdaBoost,random,1,
+45,0,Private,High school graduate,Divorced,White,Female,Native- Born in the United States,27,52.0,0,u45,AdaBoost,random,0,0.0
+45,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Divorced,White,Female,Native- Born in the United States,5,52.0,1,u45,AdaBoost,random,1,
+45,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Divorced,White,Female,Native- Born in the United States,32,52.0,1,u45,AdaBoost,random,1,
+64,0,Private,5th or 6th grade,Married-civilian spouse present,White,Female,Native- Born in the United States,36,52.0,0,u50,AdaBoost,random,0,0.0
+64,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,16,52.0,1,u50,AdaBoost,random,1,
+64,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,40,52.0,1,u50,AdaBoost,random,1,
+64,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,39,52.0,1,u50,AdaBoost,random,1,
+62,0,Not in universe,High school graduate,Never married,Black,Male,Native- Born in the United States,0,0.0,0,u51,AdaBoost,random,0,0.0
+62,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Male,Native- Born in the United States,0,35.0,1,u51,AdaBoost,random,1,
+62,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,Black,Male,Native- Born in the United States,0,41.0,1,u51,AdaBoost,random,1,
+62,0,Not in universe,Bachelors degree(BA AB BS),Never married,Black,Male,Native- Born in the United States,0,27.0,1,u51,AdaBoost,random,1,
+65,0,Not in universe,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u53,AdaBoost,random,0,0.0
+65,0,Not in universe,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,21,31.0,1,u53,AdaBoost,random,1,
+65,0,Not in universe,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,0,36.0,1,u53,AdaBoost,random,1,
+65,0,Not in universe,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,0,42.0,1,u53,AdaBoost,random,1,
+25,0,Private,9th grade,Never married,White,Male,Foreign born- Not a citizen of U S,26,52.0,0,u55,AdaBoost,random,0,0.0
+25,0,Private,Doctorate degree(PhD EdD),Never married,White,Male,Foreign born- Not a citizen of U S,22,52.0,1,u55,AdaBoost,random,1,
+25,0,Private,Doctorate degree(PhD EdD),Never married,White,Male,Foreign born- Not a citizen of U S,7,52.0,1,u55,AdaBoost,random,1,
+25,0,Private,Doctorate degree(PhD EdD),Never married,White,Male,Foreign born- Not a citizen of U S,43,52.0,1,u55,AdaBoost,random,1,
+59,0,Not in universe,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u56,AdaBoost,random,0,0.0
+59,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,48.0,1,u56,AdaBoost,random,1,
+59,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,50.0,1,u56,AdaBoost,random,1,
+59,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,32.0,1,u56,AdaBoost,random,1,
+73,0,Not in universe,High school graduate,Widowed,White,Female,Native- Born in the United States,0,0.0,0,u57,AdaBoost,random,0,0.0
+73,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Widowed,White,Female,Native- Born in the United States,0,30.0,1,u57,AdaBoost,random,1,
+73,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Widowed,White,Female,Native- Born in the United States,0,48.0,1,u57,AdaBoost,random,1,
+73,0,Not in universe,Doctorate degree(PhD EdD),Widowed,White,Female,Native- Born in the United States,0,28.0,1,u57,AdaBoost,random,1,
+53,0,State government,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,42,52.0,0,u58,AdaBoost,random,0,0.0
+53,0,Self-employed-incorporated,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,15,52.0,1,u58,AdaBoost,random,1,
+53,0,State government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,42,45.0,1,u58,AdaBoost,random,1,
+53,0,Not in universe,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,44,52.0,1,u58,AdaBoost,random,1,
+41,0,Private,High school graduate,Divorced,Black,Male,Native- Born in the United States,22,50.0,0,u60,AdaBoost,random,0,0.0
+41,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Divorced,Black,Male,Native- Born in the United States,44,50.0,1,u60,AdaBoost,random,1,
+41,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Divorced,Black,Male,Native- Born in the United States,22,43.0,1,u60,AdaBoost,random,1,
+41,0,Private,Doctorate degree(PhD EdD),Divorced,Black,Male,Native- Born in the United States,22,50.0,1,u60,AdaBoost,random,1,
+77,0,Not in universe,12th grade no diploma,Widowed,White,Female,Native- Born in the United States,0,0.0,0,u61,AdaBoost,random,0,0.0
+77,0,Not in universe,Doctorate degree(PhD EdD),Widowed,White,Female,Native- Born in the United States,0,43.0,1,u61,AdaBoost,random,1,
+77,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Widowed,White,Female,Native- Born in the United States,0,36.0,1,u61,AdaBoost,random,1,
+77,0,Not in universe,Doctorate degree(PhD EdD),Widowed,White,Female,Native- Born in the United States,0,50.0,1,u61,AdaBoost,random,1,
+41,0,Local government,Some college but no degree,Married-civilian spouse present,White,Female,Native- Born in the United States,28,18.0,0,u70,AdaBoost,random,0,0.0
+41,0,Local government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,28,42.0,1,u70,AdaBoost,random,1,
+41,0,Local government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,28,32.0,1,u70,AdaBoost,random,1,
+41,0,Local government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,28,29.0,1,u70,AdaBoost,random,1,
+73,0,Self-employed-not incorporated,7th and 8th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,43,52.0,0,u72,AdaBoost,random,0,0.0
+73,0,Self-employed-not incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,21,52.0,1,u72,AdaBoost,random,1,
+73,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,43,52.0,1,u72,AdaBoost,random,1,
+73,0,Self-employed-not incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,12,52.0,1,u72,AdaBoost,random,1,
+54,0,Not in universe,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u73,AdaBoost,random,0,0.0
+54,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,42.0,1,u73,AdaBoost,random,1,
+54,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,38.0,1,u73,AdaBoost,random,1,
+54,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,45.0,1,u73,AdaBoost,random,1,
+63,0,Not in universe,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u74,AdaBoost,random,0,0.0
+63,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,42.0,1,u74,AdaBoost,random,1,
+63,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,35.0,1,u74,AdaBoost,random,1,
+63,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,52.0,1,u74,AdaBoost,random,1,
+43,0,Local government,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,38,36.0,0,u76,AdaBoost,random,0,0.0
+43,0,Local government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,42,36.0,1,u76,AdaBoost,random,1,
+43,0,Local government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,21,36.0,1,u76,AdaBoost,random,1,
+43,0,Local government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,13,36.0,1,u76,AdaBoost,random,1,
+23,0,Private,High school graduate,Never married,White,Male,Native- Born in the United States,34,52.0,0,u77,AdaBoost,random,0,0.0
+23,0,Self-employed-not incorporated,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,34,52.0,1,u77,AdaBoost,random,1,
+23,0,Private,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,31,52.0,1,u77,AdaBoost,random,1,
+23,0,Private,Associates degree-academic program,Never married,White,Male,Native- Born in the United States,45,52.0,1,u77,AdaBoost,random,1,
+41,0,Self-employed-not incorporated,Associates degree-academic program,Married-civilian spouse present,White,Male,Native- Born in the United States,34,40.0,0,u78,AdaBoost,random,0,0.0
+41,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,34,40.0,1,u78,AdaBoost,random,1,
+41,0,Self-employed-not incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,34,41.0,1,u78,AdaBoost,random,1,
+39,0,Private,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Foreign born- U S citizen by naturalization,4,52.0,0,u79,AdaBoost,random,0,0.0
+39,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Foreign born- U S citizen by naturalization,4,52.0,1,u79,AdaBoost,random,1,
+39,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Foreign born- U S citizen by naturalization,4,52.0,1,u79,AdaBoost,random,1,
+39,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Foreign born- U S citizen by naturalization,24,52.0,1,u79,AdaBoost,random,1,
+56,0,Self-employed-incorporated,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,0,u80,AdaBoost,random,0,0.0
+56,0,Without pay,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,1,u80,AdaBoost,random,1,
+56,0,Self-employed-incorporated,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,2,27.0,1,u80,AdaBoost,random,1,
+56,0,Self-employed-not incorporated,Associates degree-academic program,Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,1,u80,AdaBoost,random,1,
+34,0,Private,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,34,52.0,0,u83,AdaBoost,random,0,0.0
+34,0,Self-employed-not incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,34,52.0,1,u83,AdaBoost,random,1,
+34,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,14,52.0,1,u83,AdaBoost,random,1,
+34,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,38,52.0,1,u83,AdaBoost,random,1,
+51,0,Private,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,0,u84,AdaBoost,random,0,0.0
+51,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,28,52.0,1,u84,AdaBoost,random,1,
+51,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,42,52.0,1,u84,AdaBoost,random,1,
+51,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,2,51.0,1,u84,AdaBoost,random,1,
+38,0,Private,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Female,Native- Born in the United States,2,52.0,0,u85,AdaBoost,random,0,0.0
+38,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,44,52.0,1,u85,AdaBoost,random,1,
+49,0,Private,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,25,52.0,0,u86,AdaBoost,random,0,0.0
+49,0,Local government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,25,52.0,1,u86,AdaBoost,random,1,
+49,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,25,52.0,1,u86,AdaBoost,random,1,
+49,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,45,52.0,1,u86,AdaBoost,random,1,
+53,0,Private,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,26,0.0,0,u87,AdaBoost,random,0,0.0
+53,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,23,51.0,1,u87,AdaBoost,random,1,
+53,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,36,51.0,1,u87,AdaBoost,random,1,
+53,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,14,44.0,1,u87,AdaBoost,random,1,
+50,0,Not in universe,9th grade,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u88,AdaBoost,random,0,0.0
+50,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,36.0,1,u88,AdaBoost,random,1,
+50,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,35.0,1,u88,AdaBoost,random,1,
+50,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,46.0,1,u88,AdaBoost,random,1,
+43,0,Self-employed-not incorporated,Some college but no degree,Married-civilian spouse present,White,Female,Native- Born in the United States,32,52.0,0,u91,AdaBoost,random,0,0.0
+43,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,14,52.0,1,u91,AdaBoost,random,1,
+43,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,9,52.0,1,u91,AdaBoost,random,1,
+43,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,3,52.0,1,u91,AdaBoost,random,1,
+39,0,Private,High school graduate,Divorced,White,Male,Native- Born in the United States,42,52.0,0,u92,AdaBoost,random,0,0.0
+39,0,Private,Doctorate degree(PhD EdD),Divorced,White,Male,Native- Born in the United States,42,47.0,1,u92,AdaBoost,random,1,
+39,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Divorced,White,Male,Native- Born in the United States,42,52.0,1,u92,AdaBoost,random,1,
+39,0,Self-employed-not incorporated,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Male,Native- Born in the United States,42,52.0,1,u92,AdaBoost,random,1,
+53,0,Local government,10th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,31,52.0,0,u93,AdaBoost,random,0,0.0
+53,0,Local government,Associates degree-academic program,Married-civilian spouse present,White,Male,Native- Born in the United States,11,52.0,1,u93,AdaBoost,random,1,
+53,0,Local government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,6,52.0,1,u93,AdaBoost,random,1,
+53,0,Local government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,8,52.0,1,u93,AdaBoost,random,1,
+43,0,Self-employed-not incorporated,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Female,Native- Born in the United States,3,52.0,0,u94,AdaBoost,random,0,0.0
+43,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,38,52.0,1,u94,AdaBoost,random,1,
+34,0,Private,High school graduate,Divorced,White,Male,Native- Born in the United States,28,52.0,0,u95,AdaBoost,random,0,0.0
+34,0,Private,Doctorate degree(PhD EdD),Divorced,White,Male,Native- Born in the United States,39,52.0,1,u95,AdaBoost,random,1,
+34,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Male,Native- Born in the United States,13,52.0,1,u95,AdaBoost,random,1,
+34,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Male,Native- Born in the United States,1,52.0,1,u95,AdaBoost,random,1,
+66,0,Not in universe,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u96,AdaBoost,random,0,0.0
+66,0,Not in universe,Associates degree-academic program,Married-civilian spouse present,White,Male,Native- Born in the United States,0,50.0,1,u96,AdaBoost,random,1,
+66,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,49.0,1,u96,AdaBoost,random,1,
+66,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,38.0,1,u96,AdaBoost,random,1,
+35,0,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,37,52.0,0,u101,AdaBoost,random,0,0.0
+35,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,45,52.0,1,u101,AdaBoost,random,1,
+35,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,31,52.0,1,u101,AdaBoost,random,1,
+35,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,7,52.0,1,u101,AdaBoost,random,1,
+70,0,Not in universe,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u105,AdaBoost,random,0,0.0
+70,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,47.0,1,u105,AdaBoost,random,1,
+70,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,47.0,1,u105,AdaBoost,random,1,
+70,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,41.0,1,u105,AdaBoost,random,1,
+47,0,Not in universe,9th grade,Separated,White,Male,Native- Born in the United States,0,0.0,0,u107,AdaBoost,random,0,0.0
+47,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Separated,White,Male,Native- Born in the United States,0,38.0,1,u107,AdaBoost,random,1,
+47,0,Not in universe,Associates degree-academic program,Separated,White,Male,Native- Born in the United States,0,35.0,1,u107,AdaBoost,random,1,
+47,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Separated,White,Male,Native- Born in the United States,0,29.0,1,u107,AdaBoost,random,1,
+42,0,Self-employed-not incorporated,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,33,52.0,0,u108,AdaBoost,random,0,0.0
+42,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,13,52.0,1,u108,AdaBoost,random,1,
+42,0,Self-employed-not incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,33,26.0,1,u108,AdaBoost,random,1,
+42,0,Self-employed-not incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,36,52.0,1,u108,AdaBoost,random,1,
+74,0,Not in universe,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u109,AdaBoost,random,0,0.0
+74,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,47.0,1,u109,AdaBoost,random,1,
+74,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,31.0,1,u109,AdaBoost,random,1,
+74,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,37.0,1,u109,AdaBoost,random,1,
+35,835,Private,Some college but no degree,Married-civilian spouse present,White,Female,Native- Born in the United States,23,52.0,0,u113,AdaBoost,random,0,0.0
+35,835,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,9,52.0,1,u113,AdaBoost,random,1,
+35,835,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,5,52.0,1,u113,AdaBoost,random,1,
+49,0,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,36,52.0,0,u116,AdaBoost,random,0,0.0
+49,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,31,52.0,1,u116,AdaBoost,random,1,
+49,0,Private,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,19,52.0,1,u116,AdaBoost,random,1,
+49,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,16,52.0,1,u116,AdaBoost,random,1,
+36,0,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,35,52.0,0,u117,AdaBoost,random,0,0.0
+36,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,35,52.0,1,u117,AdaBoost,random,1,
+36,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,30,52.0,1,u117,AdaBoost,random,1,
+36,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,35,52.0,1,u117,AdaBoost,random,1,
+46,0,Private,High school graduate,Divorced,White,Female,Native- Born in the United States,36,52.0,0,u118,AdaBoost,random,0,0.0
+46,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Female,Native- Born in the United States,37,52.0,1,u118,AdaBoost,random,1,
+46,0,Private,Doctorate degree(PhD EdD),Divorced,White,Female,Native- Born in the United States,11,52.0,1,u118,AdaBoost,random,1,
+46,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Female,Native- Born in the United States,27,52.0,1,u118,AdaBoost,random,1,
+33,0,Self-employed-incorporated,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,17,52.0,0,u122,AdaBoost,random,0,0.0
+33,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,25,52.0,1,u122,AdaBoost,random,1,
+33,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,38,52.0,1,u122,AdaBoost,random,1,
+33,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,17,52.0,1,u122,AdaBoost,random,1,
+69,0,Not in universe,9th grade,Widowed,White,Male,Native- Born in the United States,0,0.0,0,u123,AdaBoost,random,0,0.0
+69,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Widowed,White,Male,Native- Born in the United States,0,0.0,1,u123,AdaBoost,random,1,
+69,0,Not in universe,Doctorate degree(PhD EdD),Widowed,White,Male,Native- Born in the United States,36,0.0,1,u123,AdaBoost,random,1,
+69,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Widowed,White,Male,Native- Born in the United States,0,32.0,1,u123,AdaBoost,random,1,
+53,1940,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,33,52.0,0,u125,AdaBoost,random,0,0.0
+53,1940,Self-employed-incorporated,Less than 1st grade,Married-civilian spouse present,White,Male,Native- Born in the United States,33,52.0,1,u125,AdaBoost,random,1,
+53,1940,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,13,52.0,1,u125,AdaBoost,random,1,
+53,1940,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,33,46.0,1,u125,AdaBoost,random,1,
+42,0,Local government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Female,Native- Born in the United States,10,52.0,0,u126,AdaBoost,random,0,0.0
+42,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,10,52.0,1,u126,AdaBoost,random,1,
+42,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,39,52.0,1,u126,AdaBoost,random,1,
+42,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,14,52.0,1,u126,AdaBoost,random,1,
+51,0,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,0,u127,AdaBoost,random,0,0.0
+51,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,32,52.0,1,u127,AdaBoost,random,1,
+51,0,Private,Associates degree-academic program,Married-civilian spouse present,White,Male,Native- Born in the United States,12,52.0,1,u127,AdaBoost,random,1,
+51,0,State government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,1,u127,AdaBoost,random,1,
+39,0,State government,Bachelors degree(BA AB BS),Never married,Black,Male,Native- Born in the United States,12,52.0,0,u128,AdaBoost,random,0,0.0
+39,0,State government,Masters degree(MA MS MEng MEd MSW MBA),Never married,Black,Male,Native- Born in the United States,38,52.0,1,u128,AdaBoost,random,1,
+39,0,Self-employed-not incorporated,Masters degree(MA MS MEng MEd MSW MBA),Never married,Black,Male,Native- Born in the United States,12,52.0,1,u128,AdaBoost,random,1,
+39,0,State government,Doctorate degree(PhD EdD),Never married,Black,Male,Native- Born in the United States,18,52.0,1,u128,AdaBoost,random,1,
+41,0,Private,Bachelors degree(BA AB BS),Married-civilian spouse present,Black,Male,Native- Born in the United States,2,52.0,0,u130,AdaBoost,random,0,0.0
+41,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,Black,Male,Native- Born in the United States,42,52.0,1,u130,AdaBoost,random,1,
+41,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,Black,Male,Native- Born in the United States,2,52.0,1,u130,AdaBoost,random,1,
+41,0,Self-employed-not incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,Black,Male,Native- Born in the United States,2,52.0,1,u130,AdaBoost,random,1,
+57,0,Not in universe,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u132,AdaBoost,random,0,0.0
+57,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,35.0,1,u132,AdaBoost,random,1,
+57,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,44.0,1,u132,AdaBoost,random,1,
+57,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,47.0,1,u132,AdaBoost,random,1,
+72,0,Not in universe,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u133,AdaBoost,random,0,0.0
+72,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,28.0,1,u133,AdaBoost,random,1,
+72,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,47.0,1,u133,AdaBoost,random,1,
+72,0,Not in universe,Associates degree-academic program,Married-civilian spouse present,White,Male,Native- Born in the United States,0,33.0,1,u133,AdaBoost,random,1,
+55,0,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,34,39.0,0,u137,AdaBoost,random,0,0.0
+55,0,Private,Associates degree-academic program,Married-civilian spouse present,White,Male,Native- Born in the United States,34,39.0,1,u137,AdaBoost,random,1,
+55,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,34,50.0,1,u137,AdaBoost,random,1,
+55,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,13,39.0,1,u137,AdaBoost,random,1,
+47,0,Not in universe,High school graduate,Divorced,White,Male,Native- Born in the United States,0,0.0,0,u138,AdaBoost,random,0,0.0
+47,0,Not in universe,Associates degree-academic program,Divorced,White,Male,Native- Born in the United States,0,41.0,1,u138,AdaBoost,random,1,
+47,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Male,Native- Born in the United States,0,51.0,1,u138,AdaBoost,random,1,
+47,0,Not in universe,Bachelors degree(BA AB BS),Divorced,White,Male,Native- Born in the United States,0,35.0,1,u138,AdaBoost,random,1,
+23,0,Private,Associates degree-occup /vocational,Never married,White,Male,Native- Born in the United States,26,52.0,0,u140,AdaBoost,random,0,0.0
+23,0,Private,Associates degree-academic program,Never married,White,Male,Native- Born in the United States,6,52.0,1,u140,AdaBoost,random,1,
+23,0,Private,Doctorate degree(PhD EdD),Never married,White,Male,Native- Born in the United States,37,52.0,1,u140,AdaBoost,random,1,
+27,0,Self-employed-not incorporated,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,34,52.0,0,u141,AdaBoost,random,0,0.0
+27,0,State government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,34,52.0,1,u141,AdaBoost,random,1,
+27,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,34,52.0,1,u141,AdaBoost,random,1,
+27,0,Self-employed-not incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,34,28.0,1,u141,AdaBoost,random,1,
+44,1510,Local government,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,40,52.0,0,u151,AdaBoost,random,0,0.0
+44,1510,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,40,52.0,1,u151,AdaBoost,random,1,
+44,1510,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,30,52.0,1,u151,AdaBoost,random,1,
+44,1510,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,34,52.0,1,u151,AdaBoost,random,1,
+45,0,Private,Associates degree-occup /vocational,Married-civilian spouse present,White,Male,Native- Born in the United States,33,52.0,0,u155,AdaBoost,random,0,0.0
+45,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,33,43.0,1,u155,AdaBoost,random,1,
+28,0,Private,11th grade,Never married,White,Male,Native- Born in the United States,38,52.0,0,u156,AdaBoost,random,0,0.0
+28,0,Private,Doctorate degree(PhD EdD),Never married,White,Male,Native- Born in the United States,37,52.0,1,u156,AdaBoost,random,1,
+28,0,Private,Doctorate degree(PhD EdD),Never married,White,Male,Native- Born in the United States,2,52.0,1,u156,AdaBoost,random,1,
+28,0,Private,Doctorate degree(PhD EdD),Never married,White,Male,Native- Born in the United States,38,52.0,1,u156,AdaBoost,random,1,
+75,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u159,AdaBoost,random,0,0.0
+75,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,44.0,1,u159,AdaBoost,random,1,
+75,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,32,33.0,1,u159,AdaBoost,random,1,
+75,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,32,36.0,1,u159,AdaBoost,random,1,
+58,0,Not in universe,Some college but no degree,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u160,AdaBoost,random,0,0.0
+58,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,45.0,1,u160,AdaBoost,random,1,
+58,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,31.0,1,u160,AdaBoost,random,1,
+58,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,42.0,1,u160,AdaBoost,random,1,
+72,0,Not in universe,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u161,AdaBoost,random,0,0.0
+72,0,Not in universe,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,0,31.0,1,u161,AdaBoost,random,1,
+72,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,32.0,1,u161,AdaBoost,random,1,
+72,0,Not in universe,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,29,31.0,1,u161,AdaBoost,random,1,
+53,0,Self-employed-not incorporated,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,18,52.0,0,u162,AdaBoost,random,0,0.0
+53,0,Not in universe,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,0,52.0,1,u162,AdaBoost,random,1,
+53,0,Self-employed-incorporated,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,33,52.0,1,u162,AdaBoost,random,1,
+53,0,Self-employed-not incorporated,Associates degree-academic program,Married-civilian spouse present,White,Male,Native- Born in the United States,24,52.0,1,u162,AdaBoost,random,1,
+64,0,Private,Associates degree-academic program,Married-civilian spouse present,White,Male,Foreign born- U S citizen by naturalization,17,52.0,0,u163,AdaBoost,random,0,0.0
+64,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Foreign born- U S citizen by naturalization,17,52.0,1,u163,AdaBoost,random,1,
+64,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Foreign born- U S citizen by naturalization,17,52.0,1,u163,AdaBoost,random,1,
+66,0,Not in universe,7th and 8th grade,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u167,AdaBoost,random,0,0.0
+66,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,30.0,1,u167,AdaBoost,random,1,
+66,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,40.0,1,u167,AdaBoost,random,1,
+66,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,40.0,1,u167,AdaBoost,random,1,
+37,0,Private,Some college but no degree,Divorced,Black,Male,Native- Born in the United States,19,52.0,0,u169,AdaBoost,random,0,0.0
+37,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Divorced,Black,Male,Native- Born in the United States,33,52.0,1,u169,AdaBoost,random,1,
+37,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Divorced,Black,Male,Native- Born in the United States,18,52.0,1,u169,AdaBoost,random,1,
+37,0,Private,Doctorate degree(PhD EdD),Divorced,Black,Male,Native- Born in the United States,4,52.0,1,u169,AdaBoost,random,1,
+31,0,Private,11th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,36,52.0,0,u170,AdaBoost,random,0,0.0
+31,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,33,52.0,1,u170,AdaBoost,random,1,
+31,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,45,52.0,1,u170,AdaBoost,random,1,
+31,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,44,52.0,1,u170,AdaBoost,random,1,
+49,0,Not in universe,High school graduate,Divorced,White,Male,Native- Born in the United States,0,12.0,0,u172,AdaBoost,random,0,0.0
+49,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Divorced,White,Male,Native- Born in the United States,0,31.0,1,u172,AdaBoost,random,1,
+49,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Male,Native- Born in the United States,0,40.0,1,u172,AdaBoost,random,1,
+49,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Male,Native- Born in the United States,0,46.0,1,u172,AdaBoost,random,1,
+41,0,Private,High school graduate,Never married,White,Male,Foreign born- Not a citizen of U S,39,52.0,0,u173,AdaBoost,random,0,0.0
+41,0,State government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Foreign born- Not a citizen of U S,39,52.0,1,u173,AdaBoost,random,1,
+41,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Foreign born- Not a citizen of U S,39,52.0,1,u173,AdaBoost,random,1,
+41,0,Never worked,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Foreign born- Not a citizen of U S,39,52.0,1,u173,AdaBoost,random,1,
+34,0,Private,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,41,52.0,0,u174,AdaBoost,random,0,0.0
+34,0,Without pay,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,41,52.0,1,u174,AdaBoost,random,1,
+34,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,41,47.0,1,u174,AdaBoost,random,1,
+34,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,41,52.0,1,u174,AdaBoost,random,1,
+74,0,Not in universe,7th and 8th grade,Divorced,White,Male,Native- Born in the United States,0,0.0,0,u177,AdaBoost,random,0,0.0
+74,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Male,Native- Born in the United States,0,41.0,1,u177,AdaBoost,random,1,
+74,0,Not in universe,Doctorate degree(PhD EdD),Divorced,White,Male,Native- Born in the United States,0,28.0,1,u177,AdaBoost,random,1,
+74,0,Not in universe,Doctorate degree(PhD EdD),Divorced,White,Male,Native- Born in the United States,0,39.0,1,u177,AdaBoost,random,1,
+70,0,Self-employed-not incorporated,10th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,0,u182,AdaBoost,random,0,0.0
+70,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,36,52.0,1,u182,AdaBoost,random,1,
+70,0,Never worked,Associates degree-academic program,Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,1,u182,AdaBoost,random,1,
+70,0,Self-employed-not incorporated,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,31,52.0,1,u182,AdaBoost,random,1,
+36,0,State government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Female,Native- Born in the United States,10,52.0,0,u183,AdaBoost,random,0,0.0
+36,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,9,52.0,1,u183,AdaBoost,random,1,
+33,0,Private,Some college but no degree,Married-civilian spouse present,Black,Male,Native- Born in the United States,3,52.0,0,u185,AdaBoost,random,0,0.0
+33,0,Without pay,Doctorate degree(PhD EdD),Married-civilian spouse present,Black,Male,Native- Born in the United States,3,52.0,1,u185,AdaBoost,random,1,
+33,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,Black,Male,Native- Born in the United States,3,52.0,1,u185,AdaBoost,random,1,
+33,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,Black,Male,Native- Born in the United States,18,52.0,1,u185,AdaBoost,random,1,
+24,0,Self-employed-not incorporated,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,38,52.0,0,u188,AdaBoost,random,0,0.0
+24,0,Self-employed-not incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,52.0,1,u188,AdaBoost,random,1,
+24,0,Self-employed-not incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,45,52.0,1,u188,AdaBoost,random,1,
+24,0,Self-employed-not incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,1,u188,AdaBoost,random,1,
+44,0,Private,9th grade,Married-civilian spouse present,White,Female,Native- Born abroad of American Parent(s),44,26.0,0,u189,AdaBoost,random,0,0.0
+44,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born abroad of American Parent(s),44,31.0,1,u189,AdaBoost,random,1,
+44,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born abroad of American Parent(s),44,33.0,1,u189,AdaBoost,random,1,
+44,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born abroad of American Parent(s),44,26.0,1,u189,AdaBoost,random,1,
+27,0,Not in universe,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,0,52.0,0,u190,AdaBoost,random,0,0.0
+27,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,23,52.0,1,u190,AdaBoost,random,1,
+27,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,7,52.0,1,u190,AdaBoost,random,1,
+27,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,41,52.0,1,u190,AdaBoost,random,1,
+67,0,Not in universe,High school graduate,Widowed,Black,Female,Native- Born in the United States,0,0.0,0,u196,AdaBoost,random,0,0.0
+67,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Widowed,Black,Female,Native- Born in the United States,0,36.0,1,u196,AdaBoost,random,1,
+67,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Widowed,Black,Female,Native- Born in the United States,0,28.0,1,u196,AdaBoost,random,1,
+67,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Widowed,Black,Female,Native- Born in the United States,0,51.0,1,u196,AdaBoost,random,1,
+71,0,Not in universe,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u197,AdaBoost,random,0,0.0
+71,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,35.0,1,u197,AdaBoost,random,1,
+71,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,32.0,1,u197,AdaBoost,random,1,
+71,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,29.0,1,u197,AdaBoost,random,1,
+64,0,Not in universe,7th and 8th grade,Never married,White,Male,Native- Born in the United States,0,0.0,0,u199,AdaBoost,random,0,0.0
+64,0,Not in universe,Doctorate degree(PhD EdD),Never married,White,Male,Native- Born in the United States,0,40.0,1,u199,AdaBoost,random,1,
+64,0,Not in universe,Associates degree-academic program,Never married,White,Male,Native- Born in the United States,0,41.0,1,u199,AdaBoost,random,1,
+64,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,0,51.0,1,u199,AdaBoost,random,1,
+77,0,Not in universe,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u202,AdaBoost,random,0,0.0
+77,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,37.0,1,u202,AdaBoost,random,1,
+77,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,45.0,1,u202,AdaBoost,random,1,
+77,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,39.0,1,u202,AdaBoost,random,1,
+31,750,Private,5th or 6th grade,Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,44,0.0,0,u203,AdaBoost,random,0,0.0
+31,750,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,44,44.0,1,u203,AdaBoost,random,1,
+31,750,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,44,27.0,1,u203,AdaBoost,random,1,
+31,750,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,44,45.0,1,u203,AdaBoost,random,1,
+34,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,10,52.0,0,u204,AdaBoost,random,0,0.0
+34,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,5,31.0,1,u204,AdaBoost,random,1,
+34,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,42,37.0,1,u204,AdaBoost,random,1,
+34,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,1,u204,AdaBoost,random,1,
+39,0,Self-employed-not incorporated,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,37,46.0,0,u205,AdaBoost,random,0,0.0
+39,0,Self-employed-not incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,41,46.0,1,u205,AdaBoost,random,1,
+39,0,Self-employed-not incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,19,46.0,1,u205,AdaBoost,random,1,
+39,0,Self-employed-not incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,16,46.0,1,u205,AdaBoost,random,1,
+37,0,Private,11th grade,Married-civilian spouse present,White,Female,Native- Born in the United States,26,52.0,0,u206,AdaBoost,random,0,0.0
+37,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,40,52.0,1,u206,AdaBoost,random,1,
+37,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,12,52.0,1,u206,AdaBoost,random,1,
+30,0,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,0,u208,AdaBoost,random,0,0.0
+30,0,Without pay,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,1,u208,AdaBoost,random,1,
+30,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,25,52.0,1,u208,AdaBoost,random,1,
+30,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,1,u208,AdaBoost,random,1,
+47,0,Federal government,High school graduate,Never married,Black,Female,Native- Born in the United States,25,15.0,0,u210,AdaBoost,random,0,0.0
+47,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Never married,Black,Female,Native- Born in the United States,25,43.0,1,u210,AdaBoost,random,1,
+47,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Never married,Black,Female,Native- Born in the United States,25,48.0,1,u210,AdaBoost,random,1,
+47,0,Federal government,Doctorate degree(PhD EdD),Never married,Black,Female,Native- Born in the United States,25,41.0,1,u210,AdaBoost,random,1,
+37,0,Self-employed-not incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,Black,Male,Foreign born- Not a citizen of U S,19,52.0,0,u211,AdaBoost,random,0,0.0
+37,0,Without pay,Doctorate degree(PhD EdD),Married-civilian spouse present,Black,Male,Foreign born- Not a citizen of U S,2,52.0,1,u211,AdaBoost,random,1,
+37,0,Self-employed-not incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,Black,Male,Foreign born- Not a citizen of U S,5,39.0,1,u211,AdaBoost,random,1,
+37,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,Black,Male,Foreign born- Not a citizen of U S,4,52.0,1,u211,AdaBoost,random,1,
+40,0,Not in universe,11th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u212,AdaBoost,random,0,0.0
+40,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,37.0,1,u212,AdaBoost,random,1,
+40,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,48.0,1,u212,AdaBoost,random,1,
+40,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,30.0,1,u212,AdaBoost,random,1,
+24,0,Private,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,33,52.0,0,u213,AdaBoost,random,0,0.0
+24,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,33,52.0,1,u213,AdaBoost,random,1,
+24,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,33,52.0,1,u213,AdaBoost,random,1,
+24,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,33,52.0,1,u213,AdaBoost,random,1,
+63,0,Self-employed-incorporated,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,24,52.0,0,u216,AdaBoost,random,0,0.0
+63,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,34,52.0,1,u216,AdaBoost,random,1,
+63,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,24,52.0,1,u216,AdaBoost,random,1,
+63,0,Self-employed-incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,42,52.0,1,u216,AdaBoost,random,1,
+62,0,Not in universe,1st 2nd 3rd or 4th grade,Divorced,White,Female,Native- Born in the United States,0,0.0,0,u217,AdaBoost,random,0,0.0
+62,0,Not in universe,Doctorate degree(PhD EdD),Divorced,White,Female,Native- Born in the United States,0,38.0,1,u217,AdaBoost,random,1,
+62,0,Not in universe,Doctorate degree(PhD EdD),Divorced,White,Female,Native- Born in the United States,0,46.0,1,u217,AdaBoost,random,1,
+62,0,Not in universe,Doctorate degree(PhD EdD),Divorced,White,Female,Native- Born in the United States,0,37.0,1,u217,AdaBoost,random,1,
+48,0,Private,High school graduate,Never married,Black,Male,Native- Born in the United States,31,52.0,0,u220,AdaBoost,random,0,0.0
+48,0,Private,Doctorate degree(PhD EdD),Never married,Black,Male,Native- Born in the United States,29,52.0,1,u220,AdaBoost,random,1,
+48,0,Private,Doctorate degree(PhD EdD),Never married,Black,Male,Native- Born in the United States,28,52.0,1,u220,AdaBoost,random,1,
+48,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Never married,Black,Male,Native- Born in the United States,38,52.0,1,u220,AdaBoost,random,1,
+58,0,Not in universe,1st 2nd 3rd or 4th grade,Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,0,0.0,0,u229,AdaBoost,random,0,0.0
+58,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,0,30.0,1,u229,AdaBoost,random,1,
+58,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,0,50.0,1,u229,AdaBoost,random,1,
+58,0,Not in universe,Associates degree-academic program,Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,0,44.0,1,u229,AdaBoost,random,1,
+49,0,Private,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,23,52.0,0,u234,AdaBoost,random,0,0.0
+49,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,28,52.0,1,u234,AdaBoost,random,1,
+49,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,5,52.0,1,u234,AdaBoost,random,1,
+49,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,9,52.0,1,u234,AdaBoost,random,1,
+47,0,Federal government,Associates degree-academic program,Married-civilian spouse present,White,Female,Native- Born in the United States,3,52.0,0,u236,AdaBoost,random,0,0.0
+47,0,Federal government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,26,52.0,1,u236,AdaBoost,random,1,
+47,0,Federal government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,22,52.0,1,u236,AdaBoost,random,1,
+40,0,Local government,High school graduate,Never married,White,Female,Native- Born in the United States,29,52.0,0,u237,AdaBoost,random,0,0.0
+40,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Never married,White,Female,Native- Born in the United States,9,52.0,1,u237,AdaBoost,random,1,
+43,0,Local government,Bachelors degree(BA AB BS),Married-civilian spouse present,Black,Male,Foreign born- Not a citizen of U S,2,38.0,0,u239,AdaBoost,random,0,0.0
+43,0,Local government,Doctorate degree(PhD EdD),Married-civilian spouse present,Black,Male,Foreign born- Not a citizen of U S,9,38.0,1,u239,AdaBoost,random,1,
+43,0,Without pay,Doctorate degree(PhD EdD),Married-civilian spouse present,Black,Male,Foreign born- Not a citizen of U S,2,38.0,1,u239,AdaBoost,random,1,
+43,0,Local government,Doctorate degree(PhD EdD),Married-civilian spouse present,Black,Male,Foreign born- Not a citizen of U S,2,33.0,1,u239,AdaBoost,random,1,
+47,333,Private,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Female,Native- Born in the United States,29,12.0,0,u240,AdaBoost,random,0,0.0
+47,333,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,11,52.0,1,u240,AdaBoost,random,1,
+47,333,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,2,42.0,1,u240,AdaBoost,random,1,
+47,333,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,25,42.0,1,u240,AdaBoost,random,1,
+41,0,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,6,52.0,0,u241,AdaBoost,random,0,0.0
+41,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,6,30.0,1,u241,AdaBoost,random,1,
+41,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,33,52.0,1,u241,AdaBoost,random,1,
+41,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,6,52.0,1,u241,AdaBoost,random,1,
+46,0,Private,Some college but no degree,Divorced,White,Female,Native- Born in the United States,8,22.0,0,u243,AdaBoost,random,0,0.0
+46,0,Private,Doctorate degree(PhD EdD),Divorced,White,Female,Native- Born in the United States,25,28.0,1,u243,AdaBoost,random,1,
+46,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Female,Native- Born in the United States,23,38.0,1,u243,AdaBoost,random,1,
+46,0,Private,Doctorate degree(PhD EdD),Divorced,White,Female,Native- Born in the United States,23,52.0,1,u243,AdaBoost,random,1,
+43,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,10,52.0,0,u244,AdaBoost,random,0,0.0
+43,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,10,52.0,1,u244,AdaBoost,random,1,
+43,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,27,29.0,1,u244,AdaBoost,random,1,
+43,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Never married,White,Male,Native- Born in the United States,19,52.0,1,u244,AdaBoost,random,1,
+42,0,Not in universe,10th grade,Widowed,White,Male,Native- Born in the United States,0,0.0,0,u246,AdaBoost,random,0,0.0
+42,0,Not in universe,Doctorate degree(PhD EdD),Widowed,White,Male,Native- Born in the United States,0,46.0,1,u246,AdaBoost,random,1,
+42,0,Not in universe,Associates degree-academic program,Widowed,White,Male,Native- Born in the United States,0,37.0,1,u246,AdaBoost,random,1,
+42,0,Not in universe,Doctorate degree(PhD EdD),Widowed,White,Male,Native- Born in the United States,0,51.0,1,u246,AdaBoost,random,1,
+64,0,Private,7th and 8th grade,Married-civilian spouse present,White,Female,Foreign born- Not a citizen of U S,30,52.0,0,u248,AdaBoost,random,0,0.0
+64,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Foreign born- Not a citizen of U S,41,52.0,1,u248,AdaBoost,random,1,
+64,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Foreign born- Not a citizen of U S,22,52.0,1,u248,AdaBoost,random,1,
+64,0,Never worked,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Foreign born- Not a citizen of U S,30,52.0,1,u248,AdaBoost,random,1,
+64,0,Private,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,4,52.0,0,u249,AdaBoost,random,0,0.0
+64,0,Local government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,4,52.0,1,u249,AdaBoost,random,1,
+64,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,4,52.0,1,u249,AdaBoost,random,1,
+64,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,4,52.0,1,u249,AdaBoost,random,1,
+44,0,Not in universe,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u250,AdaBoost,random,0,0.0
+44,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,37.0,1,u250,AdaBoost,random,1,
+44,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,28.0,1,u250,AdaBoost,random,1,
+44,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,40.0,1,u250,AdaBoost,random,1,
+68,0,Not in universe,5th or 6th grade,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u253,AdaBoost,random,0,0.0
+68,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,52.0,1,u253,AdaBoost,random,1,
+68,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,33.0,1,u253,AdaBoost,random,1,
+68,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,31.0,1,u253,AdaBoost,random,1,
+72,0,Not in universe,High school graduate,Divorced,White,Female,Native- Born in the United States,0,0.0,0,u257,AdaBoost,random,0,0.0
+72,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Female,Native- Born in the United States,0,46.0,1,u257,AdaBoost,random,1,
+72,0,Not in universe,Doctorate degree(PhD EdD),Divorced,White,Female,Native- Born in the United States,0,33.0,1,u257,AdaBoost,random,1,
+72,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Female,Native- Born in the United States,0,49.0,1,u257,AdaBoost,random,1,
+65,0,Not in universe,7th and 8th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u258,AdaBoost,random,0,0.0
+65,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,40.0,1,u258,AdaBoost,random,1,
+65,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,46.0,1,u258,AdaBoost,random,1,
+65,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,30.0,1,u258,AdaBoost,random,1,
+42,600,Private,Associates degree-occup /vocational,Married-civilian spouse present,White,Female,Native- Born abroad of American Parent(s),19,52.0,0,u260,AdaBoost,random,0,0.0
+42,600,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born abroad of American Parent(s),5,52.0,1,u260,AdaBoost,random,1,
+55,1700,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,34,52.0,0,u262,AdaBoost,random,0,0.0
+55,1700,Not in universe,Associates degree-academic program,Married-civilian spouse present,White,Male,Native- Born in the United States,34,52.0,1,u262,AdaBoost,random,1,
+55,1700,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,23,52.0,1,u262,AdaBoost,random,1,
+55,1700,Never worked,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,34,52.0,1,u262,AdaBoost,random,1,
+73,0,Not in universe,7th and 8th grade,Widowed,White,Female,Native- Born in the United States,0,0.0,0,u266,AdaBoost,random,0,0.0
+73,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Widowed,White,Female,Native- Born in the United States,0,50.0,1,u266,AdaBoost,random,1,
+73,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Widowed,White,Female,Native- Born in the United States,0,44.0,1,u266,AdaBoost,random,1,
+73,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Widowed,White,Female,Native- Born in the United States,0,49.0,1,u266,AdaBoost,random,1,
+48,0,Private,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,31,30.0,0,u267,AdaBoost,random,0,0.0
+48,0,Self-employed-incorporated,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,14,30.0,1,u267,AdaBoost,random,1,
+48,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,28,30.0,1,u267,AdaBoost,random,1,
+48,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,1,30.0,1,u267,AdaBoost,random,1,
+37,850,Private,High school graduate,Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,29,52.0,0,u268,AdaBoost,random,0,0.0
+37,850,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,12,52.0,1,u268,AdaBoost,random,1,
+37,850,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,36,52.0,1,u268,AdaBoost,random,1,
+37,850,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,8,52.0,1,u268,AdaBoost,random,1,
+25,0,Private,High school graduate,Never married,White,Male,Native- Born in the United States,42,52.0,0,u272,AdaBoost,random,0,0.0
+25,0,Self-employed-not incorporated,Doctorate degree(PhD EdD),Never married,White,Male,Native- Born in the United States,42,52.0,1,u272,AdaBoost,random,1,
+25,0,Private,Doctorate degree(PhD EdD),Never married,White,Male,Native- Born in the United States,16,52.0,1,u272,AdaBoost,random,1,
+25,0,Private,Doctorate degree(PhD EdD),Never married,White,Male,Native- Born in the United States,42,52.0,1,u272,AdaBoost,random,1,
+47,0,Private,High school graduate,Married-civilian spouse present,Black,Female,Native- Born in the United States,27,0.0,0,u276,AdaBoost,random,0,0.0
+47,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,Black,Female,Native- Born in the United States,42,42.0,1,u276,AdaBoost,random,1,
+47,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,Black,Female,Native- Born in the United States,38,47.0,1,u276,AdaBoost,random,1,
+47,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,Black,Female,Native- Born in the United States,1,49.0,1,u276,AdaBoost,random,1,
+34,0,Private,High school graduate,Never married,White,Male,Native- Born in the United States,33,52.0,0,u282,AdaBoost,random,0,0.0
+34,0,Never worked,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,33,52.0,1,u282,AdaBoost,random,1,
+34,0,Private,Doctorate degree(PhD EdD),Never married,White,Male,Native- Born in the United States,10,52.0,1,u282,AdaBoost,random,1,
+34,0,Without pay,Doctorate degree(PhD EdD),Never married,White,Male,Native- Born in the United States,33,52.0,1,u282,AdaBoost,random,1,
+67,0,Not in universe,High school graduate,Divorced,White,Male,Native- Born in the United States,0,0.0,0,u283,AdaBoost,random,0,0.0
+67,0,Not in universe,Bachelors degree(BA AB BS),Divorced,White,Male,Native- Born in the United States,0,37.0,1,u283,AdaBoost,random,1,
+67,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Male,Native- Born in the United States,0,50.0,1,u283,AdaBoost,random,1,
+67,0,Not in universe,Bachelors degree(BA AB BS),Divorced,White,Male,Native- Born in the United States,0,50.0,1,u283,AdaBoost,random,1,
+38,0,Private,Associates degree-occup /vocational,Divorced,Black,Female,Native- Born in the United States,8,52.0,0,u284,AdaBoost,random,0,0.0
+38,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Divorced,Black,Female,Native- Born in the United States,5,52.0,1,u284,AdaBoost,random,1,
+54,0,Not in universe,9th grade,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u285,AdaBoost,random,0,0.0
+54,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,34.0,1,u285,AdaBoost,random,1,
+54,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,33.0,1,u285,AdaBoost,random,1,
+54,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,0,29.0,1,u285,AdaBoost,random,1,
+38,0,Private,9th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,42,44.0,0,u287,AdaBoost,random,0,0.0
+38,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,42,44.0,1,u287,AdaBoost,random,1,
+38,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,4,44.0,1,u287,AdaBoost,random,1,
+38,0,Without pay,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,42,44.0,1,u287,AdaBoost,random,1,
+25,0,Private,10th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,33,0.0,0,u291,AdaBoost,random,0,0.0
+25,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,11,40.0,1,u291,AdaBoost,random,1,
+25,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,1,35.0,1,u291,AdaBoost,random,1,
+23,650,Private,Some college but no degree,Never married,White,Male,Native- Born in the United States,40,52.0,0,u292,AdaBoost,random,0,0.0
+23,650,Private,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,40,49.0,1,u292,AdaBoost,random,1,
+23,650,State government,Doctorate degree(PhD EdD),Never married,White,Male,Native- Born in the United States,40,52.0,1,u292,AdaBoost,random,1,
+39,0,Private,9th grade,Never married,Black,Female,Native- Born in the United States,41,52.0,0,u293,AdaBoost,random,0,0.0
+39,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Never married,Black,Female,Native- Born in the United States,41,52.0,1,u293,AdaBoost,random,1,
+43,0,Private,Associates degree-occup /vocational,Married-civilian spouse present,White,Female,Native- Born in the United States,24,52.0,0,u295,AdaBoost,random,0,0.0
+43,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,2,52.0,1,u295,AdaBoost,random,1,
+41,5200,Private,11th grade,Widowed,White,Female,Native- Born in the United States,31,24.0,0,u296,AdaBoost,random,0,0.0
+41,5200,Private,Doctorate degree(PhD EdD),Widowed,White,Female,Native- Born in the United States,38,31.0,1,u296,AdaBoost,random,1,
+41,5200,Private,Doctorate degree(PhD EdD),Widowed,White,Female,Native- Born in the United States,45,33.0,1,u296,AdaBoost,random,1,
+41,5200,Private,Masters degree(MA MS MEng MEd MSW MBA),Widowed,White,Female,Native- Born in the United States,12,28.0,1,u296,AdaBoost,random,1,
+26,0,Local government,Some college but no degree,Never married,Black,Male,Foreign born- Not a citizen of U S,26,45.0,0,u297,AdaBoost,random,0,0.0
+26,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Never married,Black,Male,Foreign born- Not a citizen of U S,0,45.0,1,u297,AdaBoost,random,1,
+26,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Never married,Black,Male,Foreign born- Not a citizen of U S,22,45.0,1,u297,AdaBoost,random,1,
+26,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Never married,Black,Male,Foreign born- Not a citizen of U S,6,45.0,1,u297,AdaBoost,random,1,
+26,0,Private,High school graduate,Never married,White,Male,Native- Born in the United States,34,52.0,0,u298,AdaBoost,random,0,0.0
+26,0,Private,Doctorate degree(PhD EdD),Never married,White,Male,Native- Born in the United States,17,52.0,1,u298,AdaBoost,random,1,
+26,0,Private,Doctorate degree(PhD EdD),Never married,White,Male,Native- Born in the United States,34,33.0,1,u298,AdaBoost,random,1,
+26,0,Private,Doctorate degree(PhD EdD),Never married,White,Male,Native- Born in the United States,8,52.0,1,u298,AdaBoost,random,1,
+77,0,Not in universe,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,0,0.0,0,u301,AdaBoost,random,0,0.0
+77,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,38.0,1,u301,AdaBoost,random,1,
+77,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,44.0,1,u301,AdaBoost,random,1,
+77,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,48.0,1,u301,AdaBoost,random,1,
+28,0,Private,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,0,u302,AdaBoost,random,0,0.0
+28,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,23,52.0,1,u302,AdaBoost,random,1,
+28,0,Federal government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,1,u302,AdaBoost,random,1,
+28,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,2,52.0,1,u302,AdaBoost,random,1,
+62,0,Not in universe,Bachelors degree(BA AB BS),Never married,White,Female,Native- Born in the United States,0,0.0,0,u305,AdaBoost,random,0,0.0
+62,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Never married,White,Female,Native- Born in the United States,0,51.0,1,u305,AdaBoost,random,1,
+62,0,Not in universe,Doctorate degree(PhD EdD),Never married,White,Female,Native- Born in the United States,0,52.0,1,u305,AdaBoost,random,1,
+62,0,Not in universe,Doctorate degree(PhD EdD),Never married,White,Female,Native- Born in the United States,0,32.0,1,u305,AdaBoost,random,1,
+50,0,Not in universe,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,0,0.0,0,u309,AdaBoost,random,0,0.0
+50,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,27.0,1,u309,AdaBoost,random,1,
+50,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,30.0,1,u309,AdaBoost,random,1,
+50,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,0,47.0,1,u309,AdaBoost,random,1,
+70,0,Not in universe,10th grade,Widowed,White,Female,Native- Born in the United States,0,0.0,0,u312,AdaBoost,random,0,0.0
+70,0,Not in universe,Bachelors degree(BA AB BS),Widowed,White,Female,Native- Born in the United States,0,39.0,1,u312,AdaBoost,random,1,
+70,0,Not in universe,Associates degree-academic program,Widowed,White,Female,Native- Born in the United States,0,31.0,1,u312,AdaBoost,random,1,
+70,0,Not in universe,Associates degree-academic program,Widowed,White,Female,Native- Born in the United States,0,40.0,1,u312,AdaBoost,random,1,
+40,0,Private,High school graduate,Married-civilian spouse present,White,Female,Native- Born in the United States,36,52.0,0,u313,AdaBoost,random,0,0.0
+40,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,41,52.0,1,u313,AdaBoost,random,1,
+48,0,Private,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Female,Native- Born in the United States,12,51.0,0,u314,AdaBoost,random,0,0.0
+48,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Female,Native- Born in the United States,11,51.0,1,u314,AdaBoost,random,1,
+48,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,12,51.0,1,u314,AdaBoost,random,1,
+48,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,25,51.0,1,u314,AdaBoost,random,1,
+32,0,Private,High school graduate,Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,26,52.0,0,u315,AdaBoost,random,0,0.0
+32,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,42,52.0,1,u315,AdaBoost,random,1,
+32,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,45,52.0,1,u315,AdaBoost,random,1,
+32,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,19,52.0,1,u315,AdaBoost,random,1,
+27,0,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,34,52.0,0,u316,AdaBoost,random,0,0.0
+27,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,34,52.0,1,u316,AdaBoost,random,1,
+27,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,43,52.0,1,u316,AdaBoost,random,1,
+27,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,34,39.0,1,u316,AdaBoost,random,1,
+53,0,Not in universe,High school graduate,Divorced,White,Female,Native- Born in the United States,0,17.0,0,u319,AdaBoost,random,0,0.0
+53,0,Not in universe,Doctorate degree(PhD EdD),Divorced,White,Female,Native- Born in the United States,0,49.0,1,u319,AdaBoost,random,1,
+53,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Female,Native- Born in the United States,0,42.0,1,u319,AdaBoost,random,1,
+53,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Divorced,White,Female,Native- Born in the United States,0,30.0,1,u319,AdaBoost,random,1,
+55,0,Not in universe,5th or 6th grade,Married-civilian spouse present,Black,Male,Native- Born in the United States,0,0.0,0,u323,AdaBoost,random,0,0.0
+55,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,Black,Male,Native- Born in the United States,0,33.0,1,u323,AdaBoost,random,1,
+55,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,Black,Male,Native- Born in the United States,0,39.0,1,u323,AdaBoost,random,1,
+55,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,Black,Male,Native- Born in the United States,0,29.0,1,u323,AdaBoost,random,1,
+44,0,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,41,52.0,0,u324,AdaBoost,random,0,0.0
+44,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,41,36.0,1,u324,AdaBoost,random,1,
+44,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,41,52.0,1,u324,AdaBoost,random,1,
+44,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,41,31.0,1,u324,AdaBoost,random,1,
+49,0,Federal government,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,33,52.0,0,u325,AdaBoost,random,0,0.0
+49,0,Not in universe,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,28,52.0,1,u325,AdaBoost,random,1,
+49,0,Not in universe,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,11,52.0,1,u325,AdaBoost,random,1,
+70,0,Private,10th grade,Married-civilian spouse present,Black,Male,Native- Born in the United States,42,2.0,0,u326,AdaBoost,random,0,0.0
+70,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,Black,Male,Native- Born in the United States,42,36.0,1,u326,AdaBoost,random,1,
+70,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,Black,Male,Native- Born in the United States,42,33.0,1,u326,AdaBoost,random,1,
+70,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,Black,Male,Native- Born in the United States,42,46.0,1,u326,AdaBoost,random,1,
+55,0,State government,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,32,52.0,0,u332,AdaBoost,random,0,0.0
+55,0,State government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,44,52.0,1,u332,AdaBoost,random,1,
+55,0,State government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,28,52.0,1,u332,AdaBoost,random,1,
+55,0,State government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,0,52.0,1,u332,AdaBoost,random,1,
+26,0,Private,10th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,38,39.0,0,u333,AdaBoost,random,0,0.0
+26,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,22,31.0,1,u333,AdaBoost,random,1,
+26,0,Self-employed-incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,33,44.0,1,u333,AdaBoost,random,1,
+26,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,5,39.0,1,u333,AdaBoost,random,1,
+62,0,Private,Associates degree-occup /vocational,Divorced,White,Male,Native- Born in the United States,29,52.0,0,u334,AdaBoost,random,0,0.0
+62,0,Private,Prof school degree (MD DDS DVM LLB JD),Divorced,White,Male,Native- Born in the United States,37,52.0,1,u334,AdaBoost,random,1,
+40,0,Private,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Female,Native- Born in the United States,8,52.0,0,u335,AdaBoost,random,0,0.0
+40,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,4,52.0,1,u335,AdaBoost,random,1,
+51,0,Local government,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in Puerto Rico or U S Outlying,26,52.0,0,u336,AdaBoost,random,0,0.0
+51,0,Self-employed-incorporated,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in Puerto Rico or U S Outlying,14,52.0,1,u336,AdaBoost,random,1,
+51,0,Local government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in Puerto Rico or U S Outlying,3,52.0,1,u336,AdaBoost,random,1,
+46,0,Private,Some college but no degree,Married-civilian spouse present,White,Female,Native- Born in the United States,2,46.0,0,u337,AdaBoost,random,0,0.0
+46,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,2,46.0,1,u337,AdaBoost,random,1,
+46,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,2,46.0,1,u337,AdaBoost,random,1,
+46,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,2,31.0,1,u337,AdaBoost,random,1,
+49,0,Self-employed-not incorporated,Associates degree-academic program,Married-civilian spouse present,White,Male,Native- Born abroad of American Parent(s),33,40.0,0,u339,AdaBoost,random,0,0.0
+49,0,Self-employed-not incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born abroad of American Parent(s),2,40.0,1,u339,AdaBoost,random,1,
+49,0,Self-employed-not incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born abroad of American Parent(s),33,33.0,1,u339,AdaBoost,random,1,
+49,0,Not in universe,Associates degree-academic program,Married-civilian spouse present,White,Male,Native- Born abroad of American Parent(s),33,48.0,1,u339,AdaBoost,random,1,
+23,0,Private,Associates degree-occup /vocational,Never married,White,Male,Native- Born in the United States,37,26.0,0,u341,AdaBoost,random,0,0.0
+23,0,Private,Doctorate degree(PhD EdD),Never married,White,Male,Native- Born in the United States,19,26.0,1,u341,AdaBoost,random,1,
+23,0,Private,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,24,26.0,1,u341,AdaBoost,random,1,
+41,0,Not in universe,High school graduate,Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,0,0.0,0,u343,AdaBoost,random,0,0.0
+41,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,0,52.0,1,u343,AdaBoost,random,1,
+41,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,0,27.0,1,u343,AdaBoost,random,1,
+41,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,0,35.0,1,u343,AdaBoost,random,1,
+70,0,Private,7th and 8th grade,Widowed,Black,Female,Native- Born in the United States,29,52.0,0,u349,AdaBoost,random,0,0.0
+70,0,Private,Some college but no degree,Widowed,Black,Female,Native- Born in the United States,30,52.0,1,u349,AdaBoost,random,1,
+70,0,Private,Prof school degree (MD DDS DVM LLB JD),Widowed,Black,Female,Native- Born in the United States,19,52.0,1,u349,AdaBoost,random,1,
+70,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Widowed,Black,Female,Native- Born in the United States,39,52.0,1,u349,AdaBoost,random,1,
+73,0,Not in universe,7th and 8th grade,Widowed,Black,Female,Native- Born in the United States,0,0.0,0,u350,AdaBoost,random,0,0.0
+73,0,Not in universe,Doctorate degree(PhD EdD),Widowed,Black,Female,Native- Born in the United States,0,45.0,1,u350,AdaBoost,random,1,
+73,0,Not in universe,Prof school degree (MD DDS DVM LLB JD),Widowed,Black,Female,Native- Born in the United States,0,39.0,1,u350,AdaBoost,random,1,
+73,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Widowed,Black,Female,Native- Born in the United States,0,47.0,1,u350,AdaBoost,random,1,
+39,0,Private,Associates degree-academic program,Separated,White,Male,Native- Born in the United States,33,52.0,0,u352,AdaBoost,random,0,0.0
+39,0,Private,Doctorate degree(PhD EdD),Separated,White,Male,Native- Born in the United States,33,52.0,1,u352,AdaBoost,random,1,
+39,0,Private,Doctorate degree(PhD EdD),Separated,White,Male,Native- Born in the United States,43,52.0,1,u352,AdaBoost,random,1,
