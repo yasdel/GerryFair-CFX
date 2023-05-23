@@ -1,0 +1,231 @@
+age,wage per hour,class of worker,education,marital stat,race,sex,citizenship,CF_user,candid,clf,Method_cfe,income,prediction
+40,0,Self-employed-not incorporated,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,0,u1,LogisticRegression,random,0,0.0
+40,0,Local government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u1,LogisticRegression,random,1,
+40,0,Federal government,Bachelors degree(BA AB BS),Married-spouse absent,White,Male,Native- Born in the United States,1,u1,LogisticRegression,random,1,
+40,0,State government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u1,LogisticRegression,random,1,
+50,0,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,u3,LogisticRegression,random,0,0.0
+50,0,State government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u3,LogisticRegression,random,1,
+50,0,Private,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u3,LogisticRegression,random,1,
+50,0,Federal government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u3,LogisticRegression,random,1,
+79,0,Not in universe,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,0,u7,LogisticRegression,random,0,0.0
+79,0,Local government,Associates degree-academic program,Married-civilian spouse present,White,Male,Native- Born in the United States,1,u7,LogisticRegression,random,1,
+79,0,Local government,Bachelors degree(BA AB BS),Divorced,White,Male,Native- Born in the United States,1,u7,LogisticRegression,random,1,
+79,0,Federal government,Bachelors degree(BA AB BS),Divorced,White,Male,Native- Born in the United States,1,u7,LogisticRegression,random,1,
+30,0,Not in universe,11th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,0,u19,LogisticRegression,random,0,0.0
+30,0,Federal government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u19,LogisticRegression,random,1,
+30,0,Federal government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u19,LogisticRegression,random,1,
+53,0,State government,High school graduate,Married-civilian spouse present,Black,Male,Native- Born in the United States,0,u21,LogisticRegression,random,0,0.0
+53,0,Federal government,Bachelors degree(BA AB BS),Married-civilian spouse present,Black,Male,Native- Born in the United States,1,u21,LogisticRegression,random,1,
+53,0,Federal government,Doctorate degree(PhD EdD),Married-civilian spouse present,Black,Male,Native- Born in the United States,1,u21,LogisticRegression,random,1,
+28,0,Self-employed-not incorporated,Bachelors degree(BA AB BS),Never married,White,Male,Native- Born in the United States,0,u33,LogisticRegression,random,0,0.0
+28,0,Federal government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u33,LogisticRegression,random,1,
+28,0,Federal government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u33,LogisticRegression,random,1,
+76,0,Not in universe,High school graduate,Never married,White,Male,Native- Born in the United States,0,u41,LogisticRegression,random,0,0.0
+76,0,State government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,1,u41,LogisticRegression,random,1,
+76,0,State government,Bachelors degree(BA AB BS),Never married,White,Male,Native- Born in the United States,1,u41,LogisticRegression,random,1,
+76,0,State government,Doctorate degree(PhD EdD),Never married,White,Male,Native- Born in the United States,1,u41,LogisticRegression,random,1,
+32,0,Not in universe,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,0,u64,LogisticRegression,random,0,0.0
+32,0,Federal government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u64,LogisticRegression,random,1,
+73,0,Not in universe,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,0,u68,LogisticRegression,random,0,0.0
+73,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u68,LogisticRegression,random,1,
+73,0,Federal government,Some college but no degree,Married-spouse absent,White,Male,Native- Born in the United States,1,u68,LogisticRegression,random,1,
+73,0,State government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u68,LogisticRegression,random,1,
+49,0,Private,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,0,u70,LogisticRegression,random,0,0.0
+49,0,State government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u70,LogisticRegression,random,1,
+49,0,Federal government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u70,LogisticRegression,random,1,
+49,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u70,LogisticRegression,random,1,
+43,0,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,u77,LogisticRegression,random,0,0.0
+43,0,State government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u77,LogisticRegression,random,1,
+43,0,Federal government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u77,LogisticRegression,random,1,
+43,0,Federal government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u77,LogisticRegression,random,1,
+69,0,State government,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,u79,LogisticRegression,random,0,0.0
+69,0,Federal government,Associates degree-occup /vocational,Married-civilian spouse present,White,Male,Native- Born in the United States,1,u79,LogisticRegression,random,1,
+69,0,State government,Bachelors degree(BA AB BS),Widowed,White,Male,Native- Born in the United States,1,u79,LogisticRegression,random,1,
+69,0,State government,Associates degree-academic program,Married-civilian spouse present,White,Male,Native- Born in the United States,1,u79,LogisticRegression,random,1,
+38,0,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,u80,LogisticRegression,random,0,0.0
+38,0,State government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u80,LogisticRegression,random,1,
+38,0,Local government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u80,LogisticRegression,random,1,
+38,0,Federal government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u80,LogisticRegression,random,1,
+31,750,Private,High school graduate,Never married,White,Male,Native- Born in the United States,0,u81,LogisticRegression,random,0,0.0
+31,750,Local government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u81,LogisticRegression,random,1,
+49,0,Self-employed-incorporated,Some college but no degree,Divorced,White,Male,Native- Born in the United States,0,u83,LogisticRegression,random,0,0.0
+49,0,Federal government,Doctorate degree(PhD EdD),Divorced,White,Male,Native- Born in the United States,1,u83,LogisticRegression,random,1,
+27,0,Federal government,Bachelors degree(BA AB BS),Never married,White,Male,Native- Born in the United States,0,u92,LogisticRegression,random,0,0.0
+27,0,Federal government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u92,LogisticRegression,random,1,
+75,0,Not in universe,High school graduate,Never married,White,Male,Native- Born in the United States,0,u107,LogisticRegression,random,0,0.0
+75,0,State government,Bachelors degree(BA AB BS),Never married,White,Male,Native- Born in the United States,1,u107,LogisticRegression,random,1,
+75,0,Local government,Doctorate degree(PhD EdD),Never married,White,Male,Native- Born in the United States,1,u107,LogisticRegression,random,1,
+75,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Never married,White,Male,Native- Born in the United States,1,u107,LogisticRegression,random,1,
+57,0,Not in universe,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,0,u110,LogisticRegression,random,0,0.0
+57,0,State government,Bachelors degree(BA AB BS),Married-A F spouse present,White,Male,Native- Born in the United States,1,u110,LogisticRegression,random,1,
+57,0,Federal government,Bachelors degree(BA AB BS),Married-A F spouse present,White,Male,Native- Born in the United States,1,u110,LogisticRegression,random,1,
+57,0,Local government,Bachelors degree(BA AB BS),Married-spouse absent,White,Male,Native- Born in the United States,1,u110,LogisticRegression,random,1,
+90,0,Not in universe,Bachelors degree(BA AB BS),Widowed,White,Male,Native- Born in the United States,0,u113,LogisticRegression,random,0,0.0
+90,0,Self-employed-incorporated,Doctorate degree(PhD EdD),Widowed,White,Male,Native- Born in the United States,1,u113,LogisticRegression,random,1,
+90,0,Local government,Bachelors degree(BA AB BS),Divorced,White,Male,Native- Born in the United States,1,u113,LogisticRegression,random,1,
+90,0,Self-employed-not incorporated,Bachelors degree(BA AB BS),Never married,White,Male,Native- Born in the United States,1,u113,LogisticRegression,random,1,
+57,4807,Private,11th grade,Married-civilian spouse present,Black,Female,Native- Born in the United States,0,u122,LogisticRegression,random,0,0.0
+57,4807,Federal government,Bachelors degree(BA AB BS),Married-civilian spouse present,Black,Female,Native- Born in the United States,1,u122,LogisticRegression,random,1,
+57,4807,Federal government,Doctorate degree(PhD EdD),Married-civilian spouse present,Black,Female,Native- Born in the United States,1,u122,LogisticRegression,random,1,
+30,0,Private,High school graduate,Never married,White,Male,Native- Born in the United States,0,u123,LogisticRegression,random,0,0.0
+30,0,Federal government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u123,LogisticRegression,random,1,
+30,0,Federal government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u123,LogisticRegression,random,1,
+60,0,Not in universe,High school graduate,Never married,White,Male,Native- Born in the United States,0,u127,LogisticRegression,random,0,0.0
+60,0,Federal government,Bachelors degree(BA AB BS),Married-A F spouse present,White,Male,Native- Born in the United States,1,u127,LogisticRegression,random,1,
+60,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Married-spouse absent,White,Male,Native- Born in the United States,1,u127,LogisticRegression,random,1,
+60,0,State government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u127,LogisticRegression,random,1,
+41,0,Self-employed-not incorporated,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,u131,LogisticRegression,random,0,0.0
+41,0,Federal government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u131,LogisticRegression,random,1,
+41,0,Local government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u131,LogisticRegression,random,1,
+41,0,Local government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u131,LogisticRegression,random,1,
+41,0,Private,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,0,u138,LogisticRegression,random,0,0.0
+41,0,Local government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u138,LogisticRegression,random,1,
+41,0,Federal government,Bachelors degree(BA AB BS),Married-spouse absent,White,Male,Native- Born in the United States,1,u138,LogisticRegression,random,1,
+41,0,Federal government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u138,LogisticRegression,random,1,
+60,0,Not in universe,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,0,u141,LogisticRegression,random,0,0.0
+60,0,Self-employed-not incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u141,LogisticRegression,random,1,
+60,0,Federal government,Associates degree-academic program,Married-civilian spouse present,White,Male,Native- Born in the United States,1,u141,LogisticRegression,random,1,
+60,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Divorced,White,Male,Native- Born in the United States,1,u141,LogisticRegression,random,1,
+63,0,Not in universe,5th or 6th grade,Married-civilian spouse present,Black,Male,Native- Born in the United States,0,u150,LogisticRegression,random,0,0.0
+63,0,State government,Doctorate degree(PhD EdD),Married-civilian spouse present,Black,Male,Native- Born in the United States,1,u150,LogisticRegression,random,1,
+63,0,Federal government,Doctorate degree(PhD EdD),Married-civilian spouse present,Black,Male,Native- Born in the United States,1,u150,LogisticRegression,random,1,
+63,0,Local government,Doctorate degree(PhD EdD),Married-civilian spouse present,Black,Male,Native- Born in the United States,1,u150,LogisticRegression,random,1,
+49,0,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,u161,LogisticRegression,random,0,0.0
+49,0,State government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u161,LogisticRegression,random,1,
+49,0,Local government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u161,LogisticRegression,random,1,
+49,0,Private,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u161,LogisticRegression,random,1,
+42,0,Not in universe,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,0,u163,LogisticRegression,random,0,0.0
+42,0,State government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u163,LogisticRegression,random,1,
+35,8300,Private,High school graduate,Divorced,White,Female,Native- Born in the United States,0,u168,LogisticRegression,random,0,0.0
+35,8300,Federal government,Bachelors degree(BA AB BS),Divorced,White,Female,Native- Born in the United States,1,u168,LogisticRegression,random,1,
+35,8300,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,1,u168,LogisticRegression,random,1,
+35,8300,Private,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Female,Native- Born in the United States,1,u168,LogisticRegression,random,1,
+42,0,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,u176,LogisticRegression,random,0,0.0
+42,0,State government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u176,LogisticRegression,random,1,
+42,0,Local government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u176,LogisticRegression,random,1,
+42,0,Federal government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u176,LogisticRegression,random,1,
+33,0,Private,Associates degree-occup /vocational,Married-civilian spouse present,White,Male,Native- Born in the United States,0,u184,LogisticRegression,random,0,0.0
+33,0,State government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u184,LogisticRegression,random,1,
+34,0,Private,11th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,0,u195,LogisticRegression,random,0,0.0
+34,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u195,LogisticRegression,random,1,
+34,0,Federal government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u195,LogisticRegression,random,1,
+34,0,State government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u195,LogisticRegression,random,1,
+32,810,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,u199,LogisticRegression,random,0,0.0
+32,810,State government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u199,LogisticRegression,random,1,
+32,810,State government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u199,LogisticRegression,random,1,
+32,810,Federal government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u199,LogisticRegression,random,1,
+74,0,Not in universe,7th and 8th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,0,u207,LogisticRegression,random,0,0.0
+74,0,Local government,Associates degree-occup /vocational,Married-civilian spouse present,White,Male,Native- Born in the United States,1,u207,LogisticRegression,random,1,
+74,0,Local government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u207,LogisticRegression,random,1,
+74,0,Local government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u207,LogisticRegression,random,1,
+32,0,Self-employed-not incorporated,High school graduate,Divorced,White,Male,Native- Born in the United States,0,u208,LogisticRegression,random,0,0.0
+32,0,Federal government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u208,LogisticRegression,random,1,
+27,600,Private,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,0,u213,LogisticRegression,random,0,0.0
+27,600,Federal government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u213,LogisticRegression,random,1,
+45,0,Private,Associates degree-academic program,Divorced,White,Male,Native- Born in the United States,0,u216,LogisticRegression,random,0,0.0
+45,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Married-spouse absent,White,Male,Native- Born in the United States,1,u216,LogisticRegression,random,1,
+45,0,Federal government,Doctorate degree(PhD EdD),Married-spouse absent,White,Male,Native- Born in the United States,1,u216,LogisticRegression,random,1,
+68,0,Not in universe,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,u221,LogisticRegression,random,0,0.0
+68,0,Federal government,Associates degree-academic program,Married-civilian spouse present,White,Male,Native- Born in the United States,1,u221,LogisticRegression,random,1,
+68,0,State government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u221,LogisticRegression,random,1,
+68,0,Without pay,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u221,LogisticRegression,random,1,
+44,0,Local government,Bachelors degree(BA AB BS),Never married,White,Male,Native- Born in the United States,0,u222,LogisticRegression,random,0,0.0
+44,0,State government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u222,LogisticRegression,random,1,
+44,0,Local government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u222,LogisticRegression,random,1,
+44,0,Local government,Bachelors degree(BA AB BS),Married-spouse absent,White,Male,Native- Born in the United States,1,u222,LogisticRegression,random,1,
+52,0,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,u226,LogisticRegression,random,0,0.0
+52,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u226,LogisticRegression,random,1,
+52,0,Private,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u226,LogisticRegression,random,1,
+52,0,State government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u226,LogisticRegression,random,1,
+77,0,Private,10th grade,Married-civilian spouse present,Black,Male,Native- Born in the United States,0,u239,LogisticRegression,random,0,0.0
+77,0,Federal government,Bachelors degree(BA AB BS),Married-civilian spouse present,Black,Male,Native- Born in the United States,1,u239,LogisticRegression,random,1,
+77,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,Black,Male,Native- Born in the United States,1,u239,LogisticRegression,random,1,
+77,0,Local government,Bachelors degree(BA AB BS),Married-civilian spouse present,Black,Male,Native- Born in the United States,1,u239,LogisticRegression,random,1,
+34,0,Private,Bachelors degree(BA AB BS),Divorced,White,Male,Native- Born in the United States,0,u242,LogisticRegression,random,0,0.0
+34,0,Federal government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u242,LogisticRegression,random,1,
+34,0,State government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u242,LogisticRegression,random,1,
+34,0,Federal government,Bachelors degree(BA AB BS),Married-spouse absent,White,Male,Native- Born in the United States,1,u242,LogisticRegression,random,1,
+66,0,Not in universe,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,u244,LogisticRegression,random,0,0.0
+66,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u244,LogisticRegression,random,1,
+66,0,State government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u244,LogisticRegression,random,1,
+66,0,Federal government,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,1,u244,LogisticRegression,random,1,
+67,0,Self-employed-not incorporated,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,u249,LogisticRegression,random,0,0.0
+67,0,Self-employed-not incorporated,Bachelors degree(BA AB BS),Married-spouse absent,White,Male,Native- Born in the United States,1,u249,LogisticRegression,random,1,
+67,0,Self-employed-not incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u249,LogisticRegression,random,1,
+67,0,Without pay,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u249,LogisticRegression,random,1,
+63,0,Not in universe,10th grade,Separated,White,Male,Native- Born in the United States,0,u255,LogisticRegression,random,0,0.0
+63,0,Private,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u255,LogisticRegression,random,1,
+63,0,Local government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u255,LogisticRegression,random,1,
+63,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u255,LogisticRegression,random,1,
+74,0,Self-employed-not incorporated,12th grade no diploma,Married-civilian spouse present,White,Male,Native- Born in the United States,0,u256,LogisticRegression,random,0,0.0
+74,0,Self-employed-not incorporated,Doctorate degree(PhD EdD),Married-spouse absent,White,Male,Native- Born in the United States,1,u256,LogisticRegression,random,1,
+74,0,Never worked,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u256,LogisticRegression,random,1,
+74,0,Federal government,Less than 1st grade,Married-civilian spouse present,White,Male,Native- Born in the United States,1,u256,LogisticRegression,random,1,
+85,0,Not in universe,High school graduate,Widowed,White,Male,Native- Born in the United States,0,u259,LogisticRegression,random,0,0.0
+85,0,Never worked,Prof school degree (MD DDS DVM LLB JD),Widowed,White,Male,Native- Born in the United States,1,u259,LogisticRegression,random,1,
+85,0,Federal government,Bachelors degree(BA AB BS),Widowed,White,Male,Native- Born in the United States,1,u259,LogisticRegression,random,1,
+85,0,State government,Associates degree-academic program,Widowed,White,Male,Native- Born in the United States,1,u259,LogisticRegression,random,1,
+31,0,Private,11th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,0,u261,LogisticRegression,random,0,0.0
+31,0,Federal government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u261,LogisticRegression,random,1,
+35,0,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,u264,LogisticRegression,random,0,0.0
+35,0,State government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u264,LogisticRegression,random,1,
+35,0,State government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u264,LogisticRegression,random,1,
+35,0,Federal government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u264,LogisticRegression,random,1,
+39,0,Private,Some college but no degree,Never married,White,Male,Native- Born in the United States,0,u265,LogisticRegression,random,0,0.0
+39,0,Federal government,Doctorate degree(PhD EdD),Married-spouse absent,White,Male,Native- Born in the United States,1,u265,LogisticRegression,random,1,
+66,0,Not in universe,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,u266,LogisticRegression,random,0,0.0
+66,0,State government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u266,LogisticRegression,random,1,
+66,0,State government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u266,LogisticRegression,random,1,
+66,0,Federal government,Associates degree-occup /vocational,Married-civilian spouse present,White,Male,Native- Born in the United States,1,u266,LogisticRegression,random,1,
+55,0,Private,High school graduate,Married-spouse absent,White,Male,Foreign born- Not a citizen of U S,0,u267,LogisticRegression,random,0,0.0
+55,0,Federal government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,1,u267,LogisticRegression,random,1,
+90,0,Not in universe,Associates degree-occup /vocational,Widowed,White,Female,Native- Born in the United States,0,u269,LogisticRegression,random,0,0.0
+90,0,Federal government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Female,Native- Born in the United States,1,u269,LogisticRegression,random,1,
+48,0,Private,Bachelors degree(BA AB BS),Divorced,White,Male,Native- Born in the United States,0,u270,LogisticRegression,random,0,0.0
+48,0,Private,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u270,LogisticRegression,random,1,
+48,0,Local government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u270,LogisticRegression,random,1,
+48,0,Federal government,Bachelors degree(BA AB BS),Married-A F spouse present,White,Male,Native- Born in the United States,1,u270,LogisticRegression,random,1,
+52,0,Private,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,u271,LogisticRegression,random,0,0.0
+52,0,Local government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u271,LogisticRegression,random,1,
+52,0,Private,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u271,LogisticRegression,random,1,
+52,0,Local government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u271,LogisticRegression,random,1,
+53,500,Private,12th grade no diploma,Married-spouse absent,White,Male,Native- Born in the United States,0,u281,LogisticRegression,random,0,0.0
+53,500,Private,Doctorate degree(PhD EdD),Married-spouse absent,White,Male,Native- Born in the United States,1,u281,LogisticRegression,random,1,
+53,500,State government,Masters degree(MA MS MEng MEd MSW MBA),Married-spouse absent,White,Male,Native- Born in the United States,1,u281,LogisticRegression,random,1,
+53,500,Local government,Doctorate degree(PhD EdD),Married-spouse absent,White,Male,Native- Born in the United States,1,u281,LogisticRegression,random,1,
+57,0,Self-employed-not incorporated,Bachelors degree(BA AB BS),Married-civilian spouse present,Black,Male,Native- Born in the United States,0,u282,LogisticRegression,random,0,0.0
+57,0,State government,Bachelors degree(BA AB BS),Married-civilian spouse present,Black,Male,Native- Born in the United States,1,u282,LogisticRegression,random,1,
+57,0,State government,Doctorate degree(PhD EdD),Married-civilian spouse present,Black,Male,Native- Born in the United States,1,u282,LogisticRegression,random,1,
+57,0,Federal government,Bachelors degree(BA AB BS),Married-spouse absent,Black,Male,Native- Born in the United States,1,u282,LogisticRegression,random,1,
+37,0,Self-employed-not incorporated,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,0,u296,LogisticRegression,random,0,0.0
+37,0,State government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u296,LogisticRegression,random,1,
+37,0,Local government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u296,LogisticRegression,random,1,
+37,0,Federal government,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u296,LogisticRegression,random,1,
+47,0,Self-employed-incorporated,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,u302,LogisticRegression,random,0,0.0
+47,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u302,LogisticRegression,random,1,
+47,0,Local government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u302,LogisticRegression,random,1,
+47,0,Local government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u302,LogisticRegression,random,1,
+77,0,Not in universe,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,u315,LogisticRegression,random,0,0.0
+77,0,Self-employed-not incorporated,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u315,LogisticRegression,random,1,
+77,0,State government,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u315,LogisticRegression,random,1,
+77,0,State government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u315,LogisticRegression,random,1,
+57,0,Self-employed-not incorporated,Some college but no degree,Married-civilian spouse present,White,Male,Native- Born in the United States,0,u319,LogisticRegression,random,0,0.0
+57,0,Federal government,Associates degree-occup /vocational,Married-civilian spouse present,White,Male,Native- Born in the United States,1,u319,LogisticRegression,random,1,
+57,0,Federal government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u319,LogisticRegression,random,1,
+57,0,Local government,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u319,LogisticRegression,random,1,
+64,0,Not in universe,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,0,u322,LogisticRegression,random,0,0.0
+64,0,State government,Doctorate degree(PhD EdD),Widowed,White,Male,Native- Born in the United States,1,u322,LogisticRegression,random,1,
+72,0,Not in universe,11th grade,Married-civilian spouse present,White,Male,Native- Born in the United States,0,u331,LogisticRegression,random,0,0.0
+72,0,Self-employed-not incorporated,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u331,LogisticRegression,random,1,
+72,0,Self-employed-not incorporated,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u331,LogisticRegression,random,1,
+72,0,Never worked,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u331,LogisticRegression,random,1,
+75,0,Not in universe,High school graduate,Married-civilian spouse present,White,Male,Native- Born in the United States,0,u338,LogisticRegression,random,0,0.0
+75,0,Private,Masters degree(MA MS MEng MEd MSW MBA),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u338,LogisticRegression,random,1,
+75,0,Local government,Associates degree-occup /vocational,Married-civilian spouse present,White,Male,Native- Born in the United States,1,u338,LogisticRegression,random,1,
+75,0,Never worked,Prof school degree (MD DDS DVM LLB JD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u338,LogisticRegression,random,1,
+61,0,Not in universe,Bachelors degree(BA AB BS),Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,0,u342,LogisticRegression,random,0,0.0
+61,0,Federal government,Bachelors degree(BA AB BS),Married-spouse absent,White,Male,Foreign born- Not a citizen of U S,1,u342,LogisticRegression,random,1,
+61,0,Local government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,1,u342,LogisticRegression,random,1,
+61,0,State government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Foreign born- Not a citizen of U S,1,u342,LogisticRegression,random,1,
+31,0,Private,Associates degree-academic program,Married-civilian spouse present,White,Male,Native- Born in the United States,0,u349,LogisticRegression,random,0,0.0
+31,0,Federal government,Doctorate degree(PhD EdD),Married-civilian spouse present,White,Male,Native- Born in the United States,1,u349,LogisticRegression,random,1,
