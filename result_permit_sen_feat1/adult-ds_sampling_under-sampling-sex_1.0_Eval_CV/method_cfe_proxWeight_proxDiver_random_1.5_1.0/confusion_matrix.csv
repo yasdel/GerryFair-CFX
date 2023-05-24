@@ -1,0 +1,13 @@
+0,1,Model
+3130,146,RandomForest
+223,629,RandomForest
+3096,180,LogisticRegression
+364,488,LogisticRegression
+3063,213,MLPClassifier
+227,625,MLPClassifier
+3141,135,KNeighbors
+234,618,KNeighbors
+3138,138,XGBoost
+210,642,XGBoost
+3100,176,AdaBoost
+316,536,AdaBoost
