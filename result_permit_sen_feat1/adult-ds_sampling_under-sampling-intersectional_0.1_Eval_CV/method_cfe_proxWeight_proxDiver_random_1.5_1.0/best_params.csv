@@ -1,7 +1,0 @@
-Model,Best_Params
-RandomForest,"{'classifier__n_estimators': 100, 'classifier__min_samples_split': 5, 'classifier__min_samples_leaf': 1, 'classifier__max_depth': 110, 'classifier__bootstrap': True}"
-LogisticRegression,"{'classifier__solver': 'lbfgs', 'classifier__penalty': 'l2', 'classifier__C': 1}"
-MLPClassifier,"{'classifier__solver': 'adam', 'classifier__max_iter': 100, 'classifier__learning_rate': 'constant', 'classifier__hidden_layer_sizes': (100,), 'classifier__alpha': 0.0001, 'classifier__activation': 'relu'}"
-KNeighbors,"{'classifier__weights': 'distance', 'classifier__p': 1, 'classifier__n_neighbors': 10, 'classifier__leaf_size': 40, 'classifier__algorithm': 'kd_tree'}"
-XGBoost,"{'classifier__n_estimators': 600, 'classifier__max_depth': 3, 'classifier__learning_rate': 0.01, 'classifier__colsample_bytree': 0.7}"
-AdaBoost,"{'classifier__n_estimators': 1788, 'classifier__learning_rate': 0.01}"
